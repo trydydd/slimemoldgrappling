@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "Hip_access"
+title = "Hip Access"
 weight = 3
 +++
 

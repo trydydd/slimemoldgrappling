@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Submission_Hunting"
+title = "SubmissionHunting"
 weight = 3
 +++
 

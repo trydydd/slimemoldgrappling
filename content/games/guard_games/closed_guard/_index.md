@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Closed Guard"
-weight = 3
+weight = 1
 +++
 
 Lorem Ipsum.

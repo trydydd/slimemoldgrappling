@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "Single_underhook_control"
+title = "Single Underhook Control"
 weight = 2
 +++
 

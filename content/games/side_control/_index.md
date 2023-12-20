@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Side_control"
+title = "Side Control"
 weight = 3
 +++
 

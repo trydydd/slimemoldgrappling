@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Guard"
-weight = 0
+weight = 1
 +++
 
  {{% children %}}

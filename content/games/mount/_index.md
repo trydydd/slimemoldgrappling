@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Mount"
-weight = 0
+weight = 3
 +++
 
-Lorem Ipsum.
+{{% children %}}

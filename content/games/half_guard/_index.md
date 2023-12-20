@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Half_guard"
+title = "Half Guard"
 weight = 2
 +++
 

@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "Shoulder_and_hip_control"
+title = "Shoulder and Hip Control"
 weight = 2
 +++
 

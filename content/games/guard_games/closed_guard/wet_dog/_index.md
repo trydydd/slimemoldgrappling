@@ -4,6 +4,6 @@ title = "Wet_dog"
 weight = 0
 +++
 
-Top Player:
+**Top Player**:
 
-Bottom Player:
+**Bottom Player**:

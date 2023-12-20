@@ -15,3 +15,5 @@ Bottom Player:
   * Objective: Make and maintain connections to inside position using your hands and feet then use those connections to destabilize your partner. 
   * Constraints: None
   * Win Condition: Off balance your partner forcing them either onto their hands or their butt. If they land on their butt immediately reset and continue. If they land on their hands hold them in that position for as long as you can.
+
+Reset if either player wins.

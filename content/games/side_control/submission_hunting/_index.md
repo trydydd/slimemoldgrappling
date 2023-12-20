@@ -15,3 +15,5 @@ Bottom Player:
   * Objective: Create space and movement in order to allow improvement of your position.
   * Constraints: None.
   * Win Condition: Guard recovery or reversal.
+
+Reset if either player wins.

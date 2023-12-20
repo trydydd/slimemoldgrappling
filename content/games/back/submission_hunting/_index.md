@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "Submission_hunting"
+title = "Submission Hunting"
 weight = 3
 +++
 

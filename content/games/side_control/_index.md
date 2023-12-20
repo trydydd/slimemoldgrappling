@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Side_control"
-weight = X
+weight = 2
 +++
 
  {{% children %}}

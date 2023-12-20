@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "Maintain_and_break_connection"
+title = "Maintain and Break Connection"
 weight = 1
 +++
 

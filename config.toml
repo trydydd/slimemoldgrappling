@@ -1,0 +1,20 @@
+baseURL = 'http://selforganizedjj.com/'
+languageCode = 'en-us'
+title = 'Self Organized Jiu Jitsu'
+theme = 'hugo-theme-relearn'
+
+[params]
+author.name = "Trey Hucks"
+images = [ "images/hero.png" ]
+description = "Home for free ecologically driven Jiu Jitsu games."
+themeVariant = "auto"
+disableToc = true
+disableBreadCrumb = true
+ditURL = "https://github.com/trydydd/selforganizedjj/edit/main/exampleSite/content/"
+disableLandingPageButton = true
+ordersectionsby = "weight"
+alwaysopen = "false"
+collapsibleMenu = true
+disableSearchHiddenPages = false
+disableSeoHiddenPages = true
+contentDir = "content"

@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
-title = "Guard Games"
+title = "Guard"
 weight = 3
 +++
 
-Lorem Ipsum.
+ {{% children %}}

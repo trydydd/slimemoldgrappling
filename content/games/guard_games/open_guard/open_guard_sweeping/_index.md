@@ -3,7 +3,8 @@ archetype = "game"
 title = "Open Guard Sweeping"
 weight = 2
 +++
-This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+
 
 **Top Player**:
   * **Position**: Standing disconnected from your partner near their feet.

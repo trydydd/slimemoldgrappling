@@ -3,7 +3,8 @@ archetype = "game"
 title = "Submission Hunting"
 weight = 3
 +++
-This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+
 
 **Top Player**:
   * **Position**: Behind your partner with your chest touching their back, a single hook, and an over/under grip (seatbelt).

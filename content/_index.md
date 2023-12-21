@@ -3,9 +3,9 @@ archetype = "home"
 title = "Slime Mold Grappling Club"
 +++
 
-<div style="text-align: center;">
-If it can learn, so can we.
-</div>
+
+{{ 'If it can learn, so can we.' | center }}
+
 
 [Why the ecological approach?]({{< ref "/content/why_eco/_index.md" >}} "Why eco?")
 

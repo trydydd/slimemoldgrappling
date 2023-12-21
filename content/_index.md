@@ -4,7 +4,7 @@ title = "Slime Mold Grappling Club"
 +++
 
 
-{{ 'If it can learn, so can we.' | center }}
+If it can learn, so can we.
 
 
 [Why the ecological approach?]({{< ref "/content/why_eco/_index.md" >}} "Why eco?")

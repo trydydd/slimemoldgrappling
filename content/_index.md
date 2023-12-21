@@ -1,9 +1,9 @@
 +++
 archetype = "home"
-title = "SELF ORGANIZED JIU JITSU"
+title = "Slime Mold Grappling Club"
 +++
 
-Welcome to the online home of ecological Jiu Jitsu training.
+If it can learn, so can we.
 
 [Why the ecological approach?]({{< ref "/content/why_eco/_index.md" >}} "Why eco?")
 

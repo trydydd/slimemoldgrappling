@@ -1,0 +1,19 @@
+baseURL = 'http://slimemoldgrappling.com/'
+languageCode = 'en-us'
+title = 'If it can learn, so can we.'
+theme = 'hugo-theme-relearn'
+
+[params]
+images = [ "images/hero.png" ]
+description = "Home of the Slime Mold Grappling Club."
+themeVariant = "auto"
+disableToc = true
+disableBreadCrumb = true
+editURL = "https://github.com/trydydd/selforganizedjj/edit/main/content/"
+disableLandingPageButton = true
+ordersectionsby = "weight"
+alwaysopen = "false"
+collapsibleMenu = true
+disableSearchHiddenPages = false
+disableSeoHiddenPages = true
+contentDir = "content"

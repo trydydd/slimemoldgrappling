@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+dist
+tmp
+/public/
+/resources/_gen/
+.hugo_build.lock

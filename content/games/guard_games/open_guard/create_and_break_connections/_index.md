@@ -3,6 +3,7 @@ archetype = "game"
 title = "Create and Break Connections"
 weight = 1
 +++
+This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
 
 **Top Player**:
   * **Position**: Standing disconnected from your partner near their feet.

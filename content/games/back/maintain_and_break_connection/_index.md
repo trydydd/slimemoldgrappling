@@ -3,6 +3,7 @@ archetype = "game"
 title = "Maintain and Break Connection"
 weight = 1
 +++
+This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
 
 **Top Player**:
   * **Position**: Behind your partner with chest to back contact.

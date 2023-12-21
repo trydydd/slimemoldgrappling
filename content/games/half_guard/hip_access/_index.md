@@ -3,6 +3,7 @@ archetype = "game"
 title = "Hip Access"
 weight = 3
 +++
+This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
 
 **Top Player**:
   * **Position**: Top of your partner who is on their side. You have access to their hips.

@@ -1,8 +1,8 @@
 +++
 archetype = "chapter"
-title = "Games"
-weight = 3
-alwaysopen = false
+title = "Head and Arm Strangle"
+weight = 1
 +++
 
 {{% children  %}}
+

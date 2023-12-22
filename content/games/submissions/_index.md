@@ -1,8 +1,7 @@
 +++
 archetype = "chapter"
-title = "Games"
-weight = 3
-alwaysopen = false
+title = "Submissions"
+weight = 7
 +++
 
 {{% children  %}}

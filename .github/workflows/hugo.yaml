@@ -64,22 +64,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
-
-test:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v1
-    - uses: actions/create-outputs@v0.0.0-fake
-      id: test
-    - uses: LouisBrunner/checks-action@v1.6.1
-      if: always()
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        name:  Hugo Build Results
-        conclusion: ${{ job.status }}
-        output: |
-          {"summary":"${{ steps.test.outputs.summary }}"}
-
+          
   # Deployment job
   deploy:
     environment:

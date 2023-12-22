@@ -1,8 +1,9 @@
 +++
 archetype = "game"
-title = "Connecting_to_the_shoulders"
+title = "Connect to the Shoulders"
 weight = 3
 +++
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
 
 **Top Player**:
   * **Position**: On your knees in front of your training partner with your partner's feet inside your knees.

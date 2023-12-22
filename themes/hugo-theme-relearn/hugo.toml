@@ -41,3 +41,9 @@
   [params.relearn.dependencies.openapi]
     name = "OpenApi"
     location = "footer"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/trydydd/slimemoldgrappling"
+weight = 10

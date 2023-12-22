@@ -1,8 +1,8 @@
 +++
 archetype = "chapter"
-title = "Games"
-weight = 3
+title = "Single Leg"
+weight = 1
 alwaysopen = false
 +++
 
-{{% children  %}}
+ {{% children %}}

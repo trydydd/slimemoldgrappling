@@ -3,9 +3,11 @@ name: Deploy Hugo site to Pages
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches:
+  pull_request:
+    types: [opened, reopened]
+    branches: 
       - develop
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -71,6 +73,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    if: (github.event_name == 'push' && github.ref != 'refs/heads/main')
     needs: build
     steps:
       - name: Deploy to GitHub Pages

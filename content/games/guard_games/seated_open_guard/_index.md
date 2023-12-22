@@ -1,8 +1,8 @@
 +++
 archetype = "chapter"
-title = "Games"
+title = "Seated Open Guard"
 weight = 3
 alwaysopen = false
 +++
 
-{{% children  %}}
+ {{% children %}}

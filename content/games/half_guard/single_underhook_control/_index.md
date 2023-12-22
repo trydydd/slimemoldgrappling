@@ -3,7 +3,8 @@ archetype = "game"
 title = "Single Underhook Control"
 weight = 2
 +++
-This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+
 
 **Top Player**:
   * **Position**: Top of half guard with one underhook and chest to chest contact on your partner.

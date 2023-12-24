@@ -7,6 +7,7 @@ alwaysopen = false
 **Attribution**: This lesson plan was taken from coach Greg Souders' Foundations at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/) YouTube video.
 
 {{< youtube V4QtQTRwwD0>}}
+
 ---
 **Game 1**
 

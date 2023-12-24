@@ -6,7 +6,7 @@ weight = 3
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
 
 **Attacking Player**:
-  * **Position**: One of your partner's legs is gripped at the knee with a gable grip around the leg with hands inside the partner's leg. 
+  * **Position**: One of your partner's legs is held immobilized between your legs using your hands and arms.
   * **Objective**: Stay connected to the single leg and single leg situation. Move your partner around. Move the single leg to different parts of your body. Destabilize your partner and look to access the hip
   * **Constraints**: No takedowns.
   * **Win Condition**: Gain hip access.

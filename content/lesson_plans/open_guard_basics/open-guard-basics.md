@@ -4,7 +4,7 @@ title = "Open Guard Basics"
 weight = 1
 alwaysopen = false 
 +++
-**Attribution**: This lesson plan was taken from coach [Greg Souders' Foundations at Standard Jiu Jitsu YouTube video](https://www.youtube.com/watch?v=V4QtQTRwwD0).
+**Attribution**: This lesson plan was taken from coach Greg Souders' Foundations at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/) YouTube video.
 
 {{< youtube V4QtQTRwwD0>}}
 ---

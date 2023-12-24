@@ -1,6 +1,6 @@
 +++
 archetype = "game"
-title = "{{ replace .Name "-" " " | title }}"
+title = "{{ replace .Name "_" " " | title }}"
 weight = X
 +++
 

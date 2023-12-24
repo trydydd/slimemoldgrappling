@@ -48,6 +48,7 @@ identifier = "ds"
 url = "https://github.com/trydydd/slimemoldgrappling"
 weight = 10
 
+[[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-flask'></i> The Research"
 identifier = "research"
 url = "https://perceptionaction.com/comparative/"

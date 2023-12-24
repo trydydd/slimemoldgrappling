@@ -4,7 +4,7 @@ title = "Single Leg Takedown Basics"
 weight = 2
 alwaysopen = false 
 +++
-**Attribution**: **Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/Cnxe_UNJ2IB/?hl=en) posted by coach Greg Souders' at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/)
+**Attribution**: **Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/Cnxe_UNJ2IB/?hl=en) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/)
 
 ---
 **Game 1**

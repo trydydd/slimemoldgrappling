@@ -1,5 +1,5 @@
 +++ 
-archetype = "chapter" 
+archetype = "lesson_plan" 
 title = "Open Guard Basics" 
 weight = 1
 alwaysopen = false 

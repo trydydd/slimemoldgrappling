@@ -51,4 +51,4 @@ weight = 10
 name = "<i class='fab fa-fw fa-flask'></i> The Research"
 identifier = "research"
 url = "https://perceptionaction.com/comparative/"
-weight = 10
+weight = 9

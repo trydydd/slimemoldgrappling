@@ -4,7 +4,7 @@ title = "Half Guard Passing Basics"
 weight = 3
 alwaysopen = false 
 +++
-**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/CrT0Vs0JxcJ/?hl=en) posted by coach Greg Souders' at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/)
+**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/CrT0Vs0JxcJ/?hl=en) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/)
 
 ---
 **Game 1**

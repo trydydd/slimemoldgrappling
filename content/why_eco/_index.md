@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Why Eco"
 weight = 1
 +++

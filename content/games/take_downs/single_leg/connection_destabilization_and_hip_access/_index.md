@@ -3,7 +3,7 @@ archetype = "game"
 title = "Connection, Destabilization, and Hip Access"
 weight = 3
 +++
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com)
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
 
 **Attacking Player**:
   * **Position**: One of your partner's legs is held immobilized between your legs using your hands and arms.

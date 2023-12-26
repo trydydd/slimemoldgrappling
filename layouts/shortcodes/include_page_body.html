@@ -1,3 +1,2 @@
 {{ $file := .Get 0 }}
-{{ $file | readFile | replaceRE "\*\*Attribution.*\." "" }}
-{{ with .Site.GetPage $file }}{{.RawContent}}{{end}}
+{{ with .Site.GetPage $file }}{{.RawContent | replaceRE "\*\*Attribution.*\." "" }}{{end}}

@@ -17,3 +17,6 @@ collapsibleMenu = true
 disableSearchHiddenPages = false
 disableSeoHiddenPages = true
 contentDir = "content"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

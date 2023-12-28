@@ -3,7 +3,32 @@ title: "Training Calendar"
 type: "calendar"
 weight: 10
 ---
+<style>
+.calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* 7 days for a week */
+    grid-gap: 5px;
+    text-align: center;
+}
 
+.day, .day-header {
+    border: 1px solid #ddd;
+    padding: 15px;
+    min-height: 100px; /* Adjust as needed */
+}
+
+.day-header {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .calendar {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+</style>
 <div class="calendar">
     <!-- Weekday Headers -->
     <div class="day-header">Sun</div>

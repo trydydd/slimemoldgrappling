@@ -39,9 +39,9 @@ weight: 10
     <div class="day-header">Fri</div>
     <div class="day-header">Sat</div>
 
-    <!-- Days (Empty divs for padding) -->
-    <div class="day"></div> <!-- Empty for padding -->
-    <div class="day"></div> <!-- Empty for padding -->
+    
+    <div class="day"></div>
+    <div class="day"></div>
 
     <!-- Days of January 2024 -->
     <div class="day">1</div>

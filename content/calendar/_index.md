@@ -4,10 +4,6 @@ type: "calendar"
 weight: 10
 ---
 
----
-title: "Static Calendar for January 2024"
----
-
 <div class="calendar">
     <!-- Weekday Headers -->
     <div class="day-header">Sun</div>

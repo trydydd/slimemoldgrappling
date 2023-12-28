@@ -4,7 +4,7 @@ type: "calendar"
 weight: 10
 ---
 
-{{< rawhtml >}}
+
 <style>
 .calendar {
     display: grid;
@@ -78,4 +78,3 @@ weight: 10
     <div class="day">30</div>
     <div class="day">31</div>
 </div>
-{{< /rawhtml >}}

@@ -1,6 +1,6 @@
 +++
 title = "Training Log"
-weight = 5
+weight = 1
 alwaysopen = false
 +++
 

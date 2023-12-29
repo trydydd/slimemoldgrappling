@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Connect to the Shoulders"
+tags = ["guard", "seated open guard"]
 weight = 3
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

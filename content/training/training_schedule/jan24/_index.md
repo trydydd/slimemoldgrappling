@@ -2,6 +2,7 @@
 title: "January 2024"
 type: "calendar"
 weight: 2
+draft: true
 ---
 
 ## January 2024

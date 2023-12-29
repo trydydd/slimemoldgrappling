@@ -3,78 +3,40 @@ title: "Training Calendar"
 type: "calendar"
 weight: 10
 ---
+<html>
+<head>
+    <link rel='stylesheet' type='text/css' href='fullcalendar.css' />
+<script type='text/javascript' src='jquery.js'></script>
+    <meta charset='utf-8' />
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js'></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+          initialView: 'dayGridMonth'
+        });
+        calendar.render();
+      });
+    </script>
+  </head>
+<div id='calendar'></div>
 
 
-<style>
-.calendar {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr); /* 7 days for a week */
-    grid-gap: 5px;
-    text-align: center;
-}
-
-.day, .day-header {
-    border: 1px solid #ddd;
-    padding: 15px;
-    min-height: 100px; /* Adjust as needed */
-}
-
-.day-header {
-    background-color: #f0f0f0;
-    font-weight: bold;
-}
-
-/* Responsive design */
-@media (max-width: 600px) {
-    .calendar {
-        grid-template-columns: repeat(3, 1fr);
-    }
-}
-</style>
-<div class="calendar">
-    <!-- Weekday Headers -->
-    <div class="day-header">Sun</div>
-    <div class="day-header">Mon</div>
-    <div class="day-header">Tue</div>
-    <div class="day-header">Wed</div>
-    <div class="day-header">Thu</div>
-    <div class="day-header">Fri</div>
-    <div class="day-header">Sat</div>
-
-    
-    <div class="day"></div>
-    <div class="day"></div>
-
-    <!-- Days of January 2024 -->
-    <div class="day">1</div>
-    <div class="day">2</div>
-    <div class="day">3</div>
-    <div class="day">4</div>
-    <div class="day">5</div>
-    <div class="day">6</div>
-    <div class="day">7</div>
-    <div class="day">8</div>
-    <div class="day">9</div>
-    <div class="day">10</div>
-    <div class="day">11</div>
-    <div class="day">12</div>
-    <div class="day">13</div>
-    <div class="day">14</div>
-    <div class="day">15</div>
-    <div class="day">16</div>
-    <div class="day">17</div>
-    <div class="day">18</div>
-    <div class="day">19</div>
-    <div class="day">20</div>
-    <div class="day">21</div>
-    <div class="day">22</div>
-    <div class="day">23</div>
-    <div class="day">24</div>
-    <div class="day">25</div>
-    <div class="day">26</div>
-    <div class="day">27</div>
-    <div class="day">28</div>
-    <div class="day">29</div>
-    <div class="day">30</div>
-    <div class="day">31</div>
-</div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      initialView: 'dayGridMonth',
+      events: [
+        { title: 'Guard', start: '2024-01-01', end: '2024-01-06'},
+        { title: 'Side Control', start: '2024-01-08', end: '2024-01-13' },
+        { title: 'Mount', start: '2024-01-15', end: '2024-01-20' },
+        { title: 'Back Mount', start: '2024-01-22', end: '2024-01-27' },
+        { title: 'Back Mount', start: '2024-01-29', end: '2024-02-01' }
+        // Add more events here
+      ]
+    });
+    calendar.render();
+  });
+</script>
+</html>

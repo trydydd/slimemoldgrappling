@@ -1,7 +1,7 @@
 +++
-title = "12-21-23"
+title = "12-21-2023"
 weight = 3
-draft = true
+draft = false
 +++
 
 ## Single Leg Take Downs and Skill Integration

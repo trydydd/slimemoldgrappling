@@ -10,8 +10,7 @@ weight: 2
 * [Head and Arm Strangle](/games/submissions/head_and_arm_strangle)
 
 **Week 2**: 
-* [Side Control](/games/side_control)
-    * 
+* [Side Control](/games/side_control) 
 * [Triangle](/games/submissions/triangle)
 
 **Week 3**: 

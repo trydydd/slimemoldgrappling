@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Transitioning to Shoulder Line"
+tags = ["mount", "Greg Souders"]
 weight = 3
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

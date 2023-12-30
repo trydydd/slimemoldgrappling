@@ -1,9 +1,10 @@
 +++
 archetype = "game"
 title = "Maintaining Control"
-tags = [""]
+tags = ["BJJ Globetrotters", "Rob Cole", "leg locks"]
 weight = 1
 +++
+**Attribution**: This game was originally created by coach Rob Cole at [BJJ Glob Trotters](https://www.bjjglobetrotters.com/).
 
 **Attacking Player**:
   * **Position**: Seated with your partner in cross ashi (saddle) with an overhook/wrap on your opponent's outside leg.

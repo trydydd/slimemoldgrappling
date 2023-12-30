@@ -1,6 +1,6 @@
 +++
-title = "Leg Locks"
-weight = 4
+title = "Cross Ashi"
+weight = 1
 alwaysopen = false
 +++
 

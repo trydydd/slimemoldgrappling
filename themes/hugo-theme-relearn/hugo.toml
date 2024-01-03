@@ -46,15 +46,21 @@
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
 url = "https://github.com/trydydd/slimemoldgrappling"
-weight = 10
+weight = 2
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-vial'></i> The Research"
 identifier = "research"
 url = "https://perceptionaction.com/comparative/"
-weight = 9
+weight = 1
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-tags'></i> Tags"
 url = "tags/"
-weight = 40
+weight = 3
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-envelope'></i> Contact Us"
+identifier = "contact"
+url = "mailto:social@slimemoldgrappling.com"
+weight = 4

@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Punishing Posts"
+tags = ["triangle", "submissions", "Greg Souders"]
 weight = 2
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

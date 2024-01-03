@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Capture Head and Arm"
+tags = ["head and arm strangle", "Greg Souders", "submissions"]
 weight = 2
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

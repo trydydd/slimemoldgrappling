@@ -1,7 +1,7 @@
 +++
 archetype = "game"
 title = "Structure and Connections"
-tags = ["guard", "seated open guard"]
+tags = ["guard", "seated open guard", "Greg Souders"]
 weight = 1
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

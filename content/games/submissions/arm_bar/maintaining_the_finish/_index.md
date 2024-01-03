@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Maintaining the Finish"
+tags = ["submissions", "arm bar", "slime mold originals"]
 weight = 1
 +++
 

@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Connection and Movement"
+tags = ["takedowns", "single leg takedown", "Greg Souders"]
 weight = 1
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

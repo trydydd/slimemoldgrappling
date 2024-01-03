@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Hip Access"
+tags = ["half guard", "Greg Souders"]
 weight = 3
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Stabilize Front Headlock"
+tags = ["head and arm strangle", "Greg Souders", "submissions"]
 weight = 1
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

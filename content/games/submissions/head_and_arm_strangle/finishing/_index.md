@@ -1,6 +1,7 @@
 +++
 archetype = "game"
 title = "Finishing"
+tags = ["head and arm strangle", "Greg Souders", "submissions"]
 weight = 3
 +++
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).

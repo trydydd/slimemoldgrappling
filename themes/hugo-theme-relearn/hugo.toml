@@ -60,7 +60,8 @@ url = "tags/"
 weight = 3
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-envelope'><i> Contact Us"
+name = "<i class='fas fa-fw fa-envelope'><i>
+Contact Us"
 identifier = "contact"
 url = "mailto:social@slimemoldgrappling.com"
 weight = 4

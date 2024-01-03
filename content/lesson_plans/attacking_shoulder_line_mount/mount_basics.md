@@ -1,6 +1,6 @@
 +++ 
 archetype = "lesson_plan" 
-title = "Mount Basics" 
+title = "Mounted Shoulder Line Attacks" 
 weight = 7
 alwaysopen = false 
 +++

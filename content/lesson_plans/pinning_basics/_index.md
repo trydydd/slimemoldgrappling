@@ -16,9 +16,9 @@ alwaysopen = false
 ---
 **Game 2**
 
-{{% include_page_body "content/games/initiating_maintaining_chest_to_back_contact" %}}
+{{% include_page_body "/games/pinning/initiating_maintaining_chest_to_back_contact" %}}
 
 ---
 **Game 3**
 
-{{% include_page_body "content/games/covering_the_hips" %}}
+{{% include_page_body "/games/pinning/covering_the_hips" %}}

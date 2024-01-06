@@ -1,6 +1,6 @@
 +++ 
 title = "Lesson Plans" 
-weight = 4
+weight = 3
 alwaysopen = false 
 +++
 

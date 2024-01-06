@@ -12,3 +12,5 @@ If it can learn, so can we.
 [How to use this site]( /how_to_use_site )
 
 [Games]( /games )
+
+[Lesson Plans](/lesson_plans)

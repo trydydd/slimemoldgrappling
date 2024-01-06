@@ -3,14 +3,8 @@ archetype = "home"
 title = "Slime Mold Grappling Club"
 +++
 
+Choose from our pre-built submission grappling class plans for structured skill development, or pick games ad hoc for a more flexible and varied training experience. Both options are designed to enhance your skill and understanding of submission grappling effectively.
 
-If it can learn, so can we.
+For complete novices orore visual learners the [lesson plans](/lesson_plans) are the best place to begin as they all include links to video references. 
 
-
-[Why the ecological approach?]( /why_eco )
-
-[How to use this site]( /how_to_use_site )
-
-[Games]( /games )
-
-[Lesson Plans](/lesson_plans)
+If you have questions or would like to contribute to the site please [contact us](mailto:social@slimemoldgrappling.com).

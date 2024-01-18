@@ -11,12 +11,12 @@ alwaysopen = false
 ---
 **Game 1**
 
-{{% include_page_body "content/games/guard_games/open_guard/create_and_break_connections/_index.md" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/open_guard/create_and_break_connections/_index.md" %}}
 
 ---
 **Game 2**
 
-{{% include_page_body "content/games/guard_games/open_guard/open_guard_sweeping/_index.md" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/open_guard/open_guard_sweeping/_index.md" %}}
 
 ---
 **Game 3**

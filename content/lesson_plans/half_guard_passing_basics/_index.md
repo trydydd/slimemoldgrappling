@@ -9,14 +9,14 @@ alwaysopen = false
 ---
 **Game 1**
 
-{{% include_page_body "content/games/half_guard/underhook_control/_index.md" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/half_guard/underhook_control/_index.md" %}}
 
 ---
 **Game 2**
 
-{{% include_page_body "content/games/half_guard/single_underhook_control/_index.md" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/half_guard/single_underhook_control/_index.md" %}}
 
 ---
 **Game 3**
 
-{{% include_page_body "content/games/half_guard/hip_access/_index.md" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/half_guard/hip_access/_index.md" %}}

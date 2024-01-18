@@ -1,13 +1,15 @@
 +++
 archetype = "game"
 title = "Break their Grip"
-tags = ["submissions", "arm bar", "slime mold originals"]
-weight = 1
+tags = ["submissions", "arm bar"]
+weight = 2
 +++
 
+**Attribution**: This game was originally created by the user Spacecityliving on [Discord](https://discord.com/channels/1053307711300849725/1077656162503229600/1144728592400535692).
+
 **Top Player**:
-  * **Position**: In spiderweb sitting up, one arm deep elbow to elbow hook, and the other arm posting or hooking the leg, with your partner's arm isolated between your legs. 
-  * **Objective**: Maintain control of your partner's arm, and break their grip so you can isolate one arm.
+  * **Position**: Sitting up, perpendicular to opp, one arm deep elbow to elbow hook, and the other arm posting or hooking the leg, with your partner's arm between your legs. 
+  * **Objective**: Maintain control of your partner's arm, and break their grip, so you can isolate one arm.
   * **Constraints**: Do not finish the submission.
   * **Win Condition**: Break the grip between their hands and keep them separated.
 

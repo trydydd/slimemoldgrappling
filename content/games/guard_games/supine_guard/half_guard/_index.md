@@ -1,7 +1,7 @@
-+++
-title = "Half Guard"
-weight = 2
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Half Guard
+weight: 2
+---
 
  {{% children %}}

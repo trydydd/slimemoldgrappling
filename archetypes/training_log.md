@@ -1,5 +1,5 @@
-+++
-title = "{{ .Name }}"
-weight = X
-draft = true
-+++
+---
+title: "{{ .Name }}"
+weight: X
+draft: true
+---

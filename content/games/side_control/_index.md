@@ -1,7 +1,7 @@
-+++
-title = "Side Control"
-weight = 3
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Side Control
+weight: 3
+---
 
  {{% children %}}

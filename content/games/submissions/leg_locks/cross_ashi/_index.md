@@ -1,7 +1,7 @@
-+++
-title = "Cross Ashi"
-weight = 1
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Cross Ashi
+weight: 1
+---
 
 {{% children %}}

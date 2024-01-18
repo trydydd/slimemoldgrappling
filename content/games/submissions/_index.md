@@ -1,7 +1,7 @@
-+++
-title = "Submissions"
-weight = 7
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Submissions
+weight: 7
+---
 
 {{% children  %}}

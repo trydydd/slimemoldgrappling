@@ -1,7 +1,7 @@
-+++
-title = "01-02-2024"
-weight = 1
-+++
+---
+title: 01-02-2024
+weight: 1
+---
 
 ## Mount Retention and Attacking the Shoulder Line 
 

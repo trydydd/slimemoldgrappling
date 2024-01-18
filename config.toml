@@ -16,3 +16,4 @@ collapsibleMenu = true
 disableSearchHiddenPages = false
 disableSeoHiddenPages = true
 contentDir = "content"
+MetaDataFormat = "yaml"

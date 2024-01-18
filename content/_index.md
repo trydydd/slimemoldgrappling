@@ -1,7 +1,7 @@
-+++
-archetype = "home"
-title = "Slime Mold Grappling Club"
-+++
+---
+archetype: home
+title: Slime Mold Grappling Club
+---
 
 Choose from our pre-built submission grappling class plans for structured skill development, or pick games ad hoc for a more flexible and varied training experience. Both options are designed to enhance your skill and understanding of submission grappling effectively.
 

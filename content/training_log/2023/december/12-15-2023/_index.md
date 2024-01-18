@@ -1,16 +1,14 @@
-+++
-title = "12-15-2023"
-weight = 2
-draft = false
-+++
+---
+draft: false
+title: 12-15-2023
+weight: 2
+---
 
 ## Open Guard Retention/Passing
 
 **Game #1**: [Create and Break Connections]( /games/guard_games/supine_guard/open_guard/create_and_break_connections/ )
 
 **Game #2**: [Open Guard Sweeping](/games/guard_games/supine_guard/open_guard/open_guard_sweeping/)
-
-**Game #3**:
 
 Top player attempts to open their partner's guard and immobilize one of their partner's legs for 3 seconds. Bottom player attempts to sweep and maintain guard.
 

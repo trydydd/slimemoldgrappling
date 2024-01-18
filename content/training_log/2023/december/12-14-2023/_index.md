@@ -1,7 +1,7 @@
-+++
-title = "12-14-2023"
-weight = 1
-+++
+---
+title: 12-14-2023
+weight: 1
+---
 
 ## Open Guard Retention/Passing
 

@@ -1,10 +1,10 @@
-+++ 
-archetype = "lesson_plan" 
-title = "{{ replace .Name "_" " " | title }}"
-tags = [""]
-weight = X
-alwaysopen = false 
-+++
+--- 
+archetype: "lesson_plan" 
+title: "{{ replace .Name "_" " " | title }}"
+tags: [""]
+weight: X
+alwaysopen: false 
+---
 **Attribution**: 
 
 ---

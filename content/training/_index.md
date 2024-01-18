@@ -1,8 +1,8 @@
-+++
-title = "Training"
-weight = 5
-alwaysopen = false
-draft = true
-+++
+---
+alwaysopen: false
+draft: true
+title: Training
+weight: 5
+---
 
 {{% children %}}

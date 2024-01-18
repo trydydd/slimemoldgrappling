@@ -1,8 +1,8 @@
-+++
-title = "Reading List"
-weight = 2
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Reading List
+weight: 2
+---
 
 The first two books that anyone interested in this aproach to skill acquisition should read are Rob Gray's works on the subject. Gray does an excellent job of distilling the information into a form that is approachable for most people. 
 

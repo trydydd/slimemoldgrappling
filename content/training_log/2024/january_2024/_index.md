@@ -1,6 +1,6 @@
-+++
-title = "January"
-weight = 2
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: January
+weight: 2
+---
 {{% children %}}

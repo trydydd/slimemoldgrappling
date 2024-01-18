@@ -1,7 +1,7 @@
-+++
-title = "Takedowns"
-weight = 6
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Takedowns
+weight: 6
+---
 
  {{% children %}}

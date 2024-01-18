@@ -1,7 +1,7 @@
-+++
-title = "01-04-2024"
-weight = 1
-+++
+---
+title: 01-04-2024
+weight: 1
+---
 
 ## Basics of Pinning 
 

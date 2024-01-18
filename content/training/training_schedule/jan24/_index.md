@@ -1,8 +1,8 @@
 ---
-title: "January 2024"
-type: "calendar"
-weight: 2
 draft: true
+title: January 2024
+type: calendar
+weight: 2
 ---
 
 ## January 2024

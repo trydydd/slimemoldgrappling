@@ -1,8 +1,8 @@
-+++ 
-title = "Lesson Plans" 
-weight = 3
-alwaysopen = false 
-+++
+---
+alwaysopen: false
+title: Lesson Plans
+weight: 3
+---
 
 These lessons can be used while you build the skill to create your own games that are more tailored to your participants.
 

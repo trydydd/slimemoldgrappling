@@ -1,8 +1,8 @@
-+++
-archetype = "chapter"
-title = "Supine Guard"
-weight = 2
-alwaysopen = false
-+++
+---
+alwaysopen: false
+archetype: chapter
+title: Supine Guard
+weight: 2
+---
 
  {{% children %}}

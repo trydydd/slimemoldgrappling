@@ -1,7 +1,7 @@
-+++
-title = "Training Log"
-weight = 4
-alwaysopen = false
-+++
+---
+alwaysopen: false
+title: Training Log
+weight: 4
+---
 
 {{% children %}}

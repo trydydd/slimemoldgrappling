@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
-title = "Seated Open Guard"
-weight = 3
+title = "Supine Guard"
+weight = 2
 alwaysopen = false
 +++
 

@@ -14,7 +14,7 @@ weight: 3
 
 ### Individual Podcast Episodes
 
-[BJJ Mental Models 267: Jiu-Jitsu Mythbusting with Greg Souders](https://podcast.bjjmentalmodels.com/243161/13666720-ep-267-jiu-jitsu-mythbusting-feat-greg-souders): In this episode, Greg joins us to bust some common Jiu-Jitsu myths, including: the "win or learn" debate, why teaching with "training wheels" doesn't work, the problem with instructionals, and whether belts matter.
+[BJJ Mental Models 267: Jiu-Jitsu Mythbusting with Greg Souders](https://podcast.bjjmentalmodels.com/243161/13666720-ep-267-jiu-jitsu-mythbusting-feat-greg-souders): In this episode, Greg busts some common Jiu-Jitsu myths, including: the "win or learn" debate, why teaching with "training wheels" doesn't work, the problem with instructionals, and whether belts matter.
 
 [BJJ Mental Models 206: How We Learn to Move with Rob Gray](https://podcast.bjjmentalmodels.com/243161/11525059-ep-206-how-we-learn-to-move-feat-dr-rob-gray): In this episode, Rob provides an introduction to the material covered in How We Learn to Move.
 

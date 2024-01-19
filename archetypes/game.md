@@ -2,7 +2,7 @@
 archetype: "game"
 title: "{{ replace .Name "_" " " | title }}"
 tags: [""]
-weight: {{ .Pages }}
+weight: 0
 ---
 
 **Top Player**:

@@ -8,7 +8,6 @@ description = "If it can learn, so can we."
 themeVariant = "auto"
 disableToc = true
 disableBreadCrumb = true
-editURL = "https://github.com/trydydd/selforganizedjj/edit/main/content/"
 disableLandingPageButton = true
 ordersectionsby = "weight"
 alwaysopen = "false"

@@ -5,7 +5,7 @@ tags:
 - closed guard
 - supine guard
 - guard
-title: Posture and Grips
+title: Create and Break Connections
 weight: 1
 ---
 

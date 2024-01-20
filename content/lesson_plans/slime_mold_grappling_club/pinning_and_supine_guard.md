@@ -9,7 +9,7 @@ weight: 1
 
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
-{{% expand title="**Game 1" %}}{{% include_page_body "/games/pinning/chest_to_chest_chest_to_back" %}}
+{{% expand open=true title="**Game 1: Chest to Chest & Chest to Back**" %}}{{% include_page_body "/games/pinning/chest_to_chest_chest_to_back" %}}
 {{% /expand %}}
 
 **Game 1**

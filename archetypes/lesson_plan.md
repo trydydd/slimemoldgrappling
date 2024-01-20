@@ -1,23 +1,23 @@
 --- 
 archetype: "lesson_plan" 
 title: "{{ replace .Name "_" " " | title }}"
-tags: [""]
+tags: ""
 weight: X
 alwaysopen: false 
 ---
-**Attribution**: 
-
+alwaysopen: false
+archetype: lesson_plan
+tags:
+- ""
+title: Pinning and Supine Guard
+weight: 1
 ---
-**Game 1**
 
-{{% include_page_body "content/games/path_to_some_game/_index.md" %}}
+Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
----
-**Game 2**
+{{% expand open=true title="**Game 1: Achieve Chest to Chest or Chest to Back Contact**" %}}
 
-{{% include_page_body "content/games/path_to_some_game/_index.md" %}}
+{{% include_page_body "/games/pinning/chest_to_chest_chest_to_back" %}}
 
----
-**Game 3**
+{{% /expand %}}
 
-{{% include_page_body "content/games/path_to_some_game/_index.md" %}}

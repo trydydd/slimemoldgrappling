@@ -11,7 +11,7 @@ weight: 2
 
 **Top Player**:
   * **Position**: On your knees with your partner's legs around your torso and their feet hooked together behind you.
-  * **Objective**: Maintain posture and keep your hands on your opponent. If your post gets trapped fight out back to posture.
+  * **Objective**: Maintain posture and keep your hands on your opponent. If your post gets trapped fight out back to an upright posture.
   * **Constraints**: None
   * **Win Condition**: None
 

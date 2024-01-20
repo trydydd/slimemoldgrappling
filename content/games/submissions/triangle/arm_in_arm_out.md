@@ -7,7 +7,7 @@ weight: 3
 
 **Top Player**:
   * **Position**: On your knees with your partner's legs around your torso and their feet hooked together behind you.
-  * **Objective**:Try to pusture up and keep your hands on your partner.
+  * **Objective**:Maintain upright posture and keep your hands on your partner.
   * **Constraints**: None
   * **Win Condition**: Fighting back to posture.
 

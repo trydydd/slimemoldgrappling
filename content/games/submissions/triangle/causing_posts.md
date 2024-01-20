@@ -11,7 +11,7 @@ weight: 1
 
 **Top Player**:
   * **Position**: On your knees with your partner's legs around your torso and their feet hooked together behind you.
-  * **Objective**: Maintain posture and keep your hands on your opponent.
+  * **Objective**: Maintain upright posture and keep your hands on your opponent.
   * **Constraints**: None
   * **Win Condition**: None
 

@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Greg Souders
-weight: 3
+weight: 1
 ---
 
 We are calling these "lesson plans", but they should not be misconstrued with how full classes are ran at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).

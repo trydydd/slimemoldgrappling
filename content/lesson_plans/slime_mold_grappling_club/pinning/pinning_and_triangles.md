@@ -1,11 +1,10 @@
 --- 
 archetype: "lesson_plan" 
-title: "{{ replace .Name "_" " " | title }}"
+title: "Pinning and Triangles"
 tags: ""
-weight: X
+weight: 2
 alwaysopen: false 
 ---
-
 
 
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 

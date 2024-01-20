@@ -2,9 +2,9 @@
 alwaysopen: false
 archetype: lesson_plan
 tags:
-- pinning focused class
 - slime mold originals
 - "VoPE: Supine Guard"
+- "Block: Pinning"
 title: Pinning and Supine Guard
 weight: 1
 ---

@@ -1,7 +1,10 @@
 --- 
 archetype: "lesson_plan" 
 title: "Pinning and Triangles"
-tags: ""
+tags:
+- slime mold originals
+- "VoPE: Triangles"
+- "Block: Pinning"
 weight: 2
 alwaysopen: false 
 ---

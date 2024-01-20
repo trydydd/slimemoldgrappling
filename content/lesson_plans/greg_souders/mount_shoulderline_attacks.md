@@ -4,7 +4,7 @@ archetype: lesson_plan
 title: Mounted Shoulder Line Attacks
 weight: 7
 ---
-**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/CoXi_LaMoCE) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/).
+**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/CoXi_LaMoCE) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 
 ---

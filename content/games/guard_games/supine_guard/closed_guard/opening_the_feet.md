@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "Stand Up"
+title: "Open the Feet"
 tags:
 - slime mold originals
 - closed guard

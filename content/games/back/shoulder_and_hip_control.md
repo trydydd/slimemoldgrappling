@@ -1,9 +1,13 @@
 ---
 archetype: game
 title: Shoulder and Hip Control
+tags:
+- pinning
+- Greg Souders
+- back
 weight: 2
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 
 

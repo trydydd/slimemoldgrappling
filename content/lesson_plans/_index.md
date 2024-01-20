@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Lesson Plans
-weight: 3
+weight: 5
 ---
 
 These lessons can be used while you build the skill to create your own games that are more tailored to your participants.
@@ -22,10 +22,10 @@ Round length and rest duration can both be adjusted to modulate intensity and en
 
 Round counts should be adjusted to suit your session length. 
 
-**Variability**: Ensure to include variability in your training. This will lengthen the skill acquisition phase of learning, but will also ultimately result in more retention and transfer in real performances. This could be including a game unrelated to the rest of class at the end, varying the games within a class, or adjusting how much time you spend focused on each position/submission/movement. 
+**Variability**: Ensure to include variability in your training. This will lengthen the skill acquisition phase of learning for individual skills, but will also ultimately result in more retention and transfer in real performances. This could be including a game unrelated to the rest of class at the end, varying the games within a class, or adjusting how much time you spend focused on each position/submission/movement. 
 
 
-Be sure to include time for feedback and at least occasional no-constraint live rounds for skill integration.
+Be sure to include time for feedback and at least occasional no-constraint live rounds.
 
 ## Lessons:
 

@@ -7,11 +7,11 @@ tags:
 title: Causing Posts
 weight: 2
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 **Top Player**:
   * **Position**: On your knees in front of your training partner with your partner's feet inside your knees.
-  * **Objective**: Break your partner's connections to you body and pin them to their back.
+  * **Objective**: Break your partner's connections to your body and pin them to their back.
   * **Constraints**: None
   * **Win Condition**: Pinning bottom player to their back.
 

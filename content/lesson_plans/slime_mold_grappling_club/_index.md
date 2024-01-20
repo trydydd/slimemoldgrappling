@@ -10,4 +10,6 @@ We work to leverage the constraint led approach and ecological dynamics to maxim
 
 Sessions are generally one hour long and in a format that suits adult participants of all fitness and skill levels. 
 
+Classes are broken into the three macro situations of submission grappling: standing, pinning, and guard.
+
 {{% children %}}

@@ -3,7 +3,7 @@ archetype: game
 title: Arm in Arm Out
 weight: 3
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 **Top Player**:
   * **Position**: Inside your partner's closed guard.

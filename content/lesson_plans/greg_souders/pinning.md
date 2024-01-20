@@ -6,7 +6,7 @@ tags:
 title: Pinning
 weight: 9
 ---
-**Attribution**: This lesson plan is based on an [Instagram reel](  https://www.instagram.com/reel/C1cTajYsJII/ ) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/).
+**Attribution**: This lesson plan is based on an [Instagram reel](  https://www.instagram.com/reel/C1cTajYsJII/ ) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 
 ---

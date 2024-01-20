@@ -4,7 +4,7 @@ archetype: lesson_plan
 title: Open Guard
 weight: 1
 ---
-**Attribution**: This lesson plan was taken from coach Greg Souders' Foundations at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/) YouTube video.
+**Attribution**: This lesson plan was taken from coach Greg Souders' Foundations at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/) YouTube video.
 
 {{< youtube V4QtQTRwwD0>}}
 

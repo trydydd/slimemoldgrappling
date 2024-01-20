@@ -7,7 +7,7 @@ tags:
 title: Structure and Connections
 weight: 1
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 **Top Player**:
   * **Position**: On your knees in front of your training partner with your partner's feet inside your knees.

@@ -4,7 +4,7 @@ archetype: lesson_plan
 title: Head and Arm Strangle
 weight: 5
 ---
-**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/C0wXmSOL9eA) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/).
+**Attribution**: This lesson plan is based on an [Instagram reel](https://www.instagram.com/reel/C0wXmSOL9eA) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 ---
 **Game 1**

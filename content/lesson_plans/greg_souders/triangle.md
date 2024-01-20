@@ -4,7 +4,7 @@ archetype: lesson_plan
 title: Triangle
 weight: 8
 ---
-**Attribution**: **Attribution**: This lesson plan is based on an [Instagram reel](  https://www.instagram.com/reel/CoXi_LaMoCE/) posted by coach Greg Souders at [Standard Jiu Jitsu](https://www.standardjiujitsu.com/).
+**Attribution**: **Attribution**: This lesson plan is based on an [Instagram reel](  https://www.instagram.com/reel/CoXi_LaMoCE/) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 ---
 **Game 1**

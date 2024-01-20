@@ -7,7 +7,7 @@ tags:
 title: Stabilize Front Headlock
 weight: 1
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 **Top Player**:
   * **Position**: Connected with one hand on the chin and one hand on the elbow.

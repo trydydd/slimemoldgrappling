@@ -1,9 +1,13 @@
 ---
 archetype: game
 title: Maintain and Break Connection
+tags:
+- pinning
+- Greg Souders
+- back
 weight: 1
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
 
 
 **Top Player**:

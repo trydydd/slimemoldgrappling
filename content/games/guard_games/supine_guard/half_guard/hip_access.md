@@ -11,7 +11,7 @@ weight: 3
 
 **Top Player**:
   * **Position**: Top of your partner who is on their side. You have access to their hips.
-  * **Objective**: Flatten your opponent to their back and create chest to chest contact and establish underhooks
+  * **Objective**: Flatten your opponent to their back, create chest to chest contact, and establish underhooks
   * **Constraints**: None
   * **Win Condition**: Free your trapped leg.
 

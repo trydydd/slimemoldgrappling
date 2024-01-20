@@ -7,7 +7,7 @@ title: Pinning and Supine Guard
 weight: 1
 ---
 
-Each game consists of a three minute round, a one minute break, and then a other three minute round with the position of the players switched. 
+Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 **Game 1**
 

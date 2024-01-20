@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Supine Guard and Back Exposure"
+title: "Supine Guard and Strangles"
 tags: ""
 weight: X
 alwaysopen: false 
@@ -30,17 +30,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Maintain Chest to Back Contact**" %}}
+{{% expand open=true title="**Game 4: Stabilize the Front Headlock**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
+{{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Chest to Back with Shoulder and Hip Connection**" %}}
+{{% expand open=true title="**Game 5: Capture the Head and Arm**" %}}
 
 
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/head_and_arm_strangle/capture_head_and_arm" %}}
 
 {{% /expand %}}
 

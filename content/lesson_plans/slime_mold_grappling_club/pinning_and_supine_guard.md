@@ -13,19 +13,19 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Achieve Chest to Back Contact**" {{% include_page_body "/games/pinning/initiating_maintaining_chest_to_back_contact" %}}
+{{% expand open=true title="**Game 2: Achieve Chest to Back Contact**" %}}{{% include_page_body "/games/pinning/initiating_maintaining_chest_to_back_contact" %}}
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Cover the Hips**" {{% include_page_body "/games/pinning/covering_the_hips" %}}
+{{% expand open=true title="**Game 3: Cover the Hips**" %}}{{% include_page_body "/games/pinning/covering_the_hips" %}}
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Create and Break Connections**" {{% include_page_body "games/guard_games/supine_guard/open_guard/create_and_break_connections" %}}
+{{% expand open=true title="**Game 4: Create and Break Connections**" %}}{{% include_page_body "games/guard_games/supine_guard/open_guard/create_and_break_connections" %}}
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Connection and Destabilization**" {{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
+{{% expand open=true title="**Game 5: Connection and Destabilization**" %}}{{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
 {{% /expand %}}
 
 ---

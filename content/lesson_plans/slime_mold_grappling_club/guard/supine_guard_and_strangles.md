@@ -1,8 +1,12 @@
 --- 
 archetype: "lesson_plan" 
 title: "Supine Guard and Strangles"
-tags: ""
-weight: X
+tags:
+- "Block: Supine Guard"
+- "VoPE: Head and Arm Strangle"
+- Open Guard
+- Supine Guard
+weight: 1
 alwaysopen: false 
 ---
 

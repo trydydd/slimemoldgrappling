@@ -1,11 +1,13 @@
 --- 
 archetype: "lesson_plan" 
-title: "{{ replace .Name "_" " " | title }}"
-tags: ""
-weight: X
+title: "Pinning and Triangles"
+tags:
+- slime mold originals
+- "VoPE: Triangles"
+- "Block: Pinning"
+weight: 2
 alwaysopen: false 
 ---
-
 
 
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 

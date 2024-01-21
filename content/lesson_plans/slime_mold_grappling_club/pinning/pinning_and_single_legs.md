@@ -1,8 +1,11 @@
 --- 
 archetype: "lesson_plan" 
 title: "Pinning and the Single Leg Situation"
-tags: ""
-weight: X
+tags: 
+- slime mold originals
+- "VoPE: Standing"
+- "Block: Pinning"
+weight: 3
 alwaysopen: false 
 ---
 

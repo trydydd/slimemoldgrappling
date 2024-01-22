@@ -1,7 +1,11 @@
 --- 
 archetype: "lesson_plan" 
 title: "Supine Guard and Mount Attacks"
-tags: ""
+tags: 
+- "Block: Supine Guard"
+- "VoPE: Mount Attacks"
+- Open Guard
+- Supine Guard
 weight: 3
 alwaysopen: false 
 ---

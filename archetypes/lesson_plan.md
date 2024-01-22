@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "{{ replace .Name "_" " " | title }}"
 tags: ""
-weight: X
+weight: 0
 alwaysopen: false 
 ---
 

@@ -1,8 +1,12 @@
 --- 
 archetype: "lesson_plan" 
-title: "{{ replace .Name "_" " " | title }}"
-tags: ""
-weight: 0
+title: "Supine Guard and Mount Attacks"
+tags: 
+- "Block: Supine Guard"
+- "VoPE: Mount Attacks"
+- Open Guard
+- Supine Guard
+weight: 3
 alwaysopen: false 
 ---
 
@@ -11,9 +15,9 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Maintain Chest to Back Contact**" %}}
+{{% expand open=true title="**Game 1: Create and Break Connections**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/create_and_break_connections.md" %}}
 
 {{% /expand %}}
 
@@ -32,17 +36,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Causing Posts**" %}}
+{{% expand open=true title="**Game 4: Elbow Isolation, Extension, or Contraction**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/mount/elbow_exposure_extension_contraction" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Punishing Posts**" %}}
+{{% expand open=true title="**Game 5: Cover the Shoulders**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/mount/transitioning_to_shoulder_line" %}}
 
 {{% /expand %}}
 

@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "Hip to Hip"
+title: "Hip to Hip Connection"
 tags:
 - Standing
 - Hip Throw

@@ -1,10 +1,10 @@
 --- 
 archetype: "lesson_plan" 
-title: "Single Leg and Seated Guard"
+title: "Hip Throw and Seated Guard"
 tags: 
-- "Block: Single Leg Takedown"
+- "Block: Standing"
 - "VoPE: Seated Guard"
-- Single Leg Takedown
+- Hip Throw
 - Takedowns
 weight: 2
 alwaysopen: false 
@@ -15,23 +15,23 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Connection and Movement**" %}}
+{{% expand open=true title="**Game 1: Under the Elbows**" %}}
 
-{{% include_page_body "games/take_downs/single_leg/connection_and_movement" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Connection and Destabilization**" %}}
-
-{{% include_page_body "games/take_downs/single_leg/connection_and_destabilization" %}}
+{{% include_page_body "games/take_downs/hip_throw/under_the_elbows" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Connection, Destabilization, and Hip Access**" %}}
+{{% expand open=true title="**Game 2: Hip To Hip Connection**" %}}
 
-{{% include_page_body "games/take_downs/single_leg/connection_destabilization_and_hip_access" %}}
+{{% include_page_body "games/take_downs/hip_throw/hip_to_hip" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Hip to Hip and Elevate**" %}}
+
+{{% include_page_body "games/take_downs/hip_throw/hip_to_hip_and_elevate" %}}
 
 {{% /expand %}}
 

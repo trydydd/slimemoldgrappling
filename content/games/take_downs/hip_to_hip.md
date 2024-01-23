@@ -1,7 +1,8 @@
 ---
 archetype: "game"
 title: "Hip to Hip"
-tags: [""]
+tags:
+- Standing
 weight: 0
 ---
 

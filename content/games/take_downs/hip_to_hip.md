@@ -3,7 +3,7 @@ archetype: "game"
 title: "Hip to Hip"
 tags:
 - Standing
-weight: 0
+weight: 3
 ---
 
 **Top Player**:

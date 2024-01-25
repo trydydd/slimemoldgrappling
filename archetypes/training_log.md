@@ -1,5 +1,4 @@
 ---
 title: "{{ .Name }}"
-weight: X
-draft: true
+weight: 0
 ---

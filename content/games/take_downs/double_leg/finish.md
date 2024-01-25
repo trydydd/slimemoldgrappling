@@ -6,6 +6,7 @@ tags:
 - Double Leg
 - Beta
 weight: 1
+hidden: true
 ---
 
 **Defensive Player**:

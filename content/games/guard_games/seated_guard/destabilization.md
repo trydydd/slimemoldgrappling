@@ -17,8 +17,8 @@ weight: 6
 
 **Defending Player**:
   * **Position**: Seated in front of your partner with one of your shins or ankles connected to one of their legs.
-  * **Objective**: Focus on destabilizing your partner by creating meaningful connections to one of your partner's legs with your shin and hands.
-  * **Constraints**: Do not sweep your opponent.
+  * **Objective**: Focus on destabilizing your partner by creating meaningful connections to their legs or arms.
+  * **Constraints**: DNone
   * **Win Condition**: Bring your partner's hands or hips to the mat. 
 
   Reset if either player wins.

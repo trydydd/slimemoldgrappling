@@ -11,7 +11,7 @@ weight: 6
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one of their ankles or shins connected to one of your legs.
-  * **Objective**: Get inside your partner's legs or to their side. Focus on breaking their connections with your legs. 
+  * **Objective**: Destabilize your partner and pin them to the mat.
   * **Constraints**:  None
   * **Win Condition**: Bring at least one of your partner's shoulders to the mat.
 

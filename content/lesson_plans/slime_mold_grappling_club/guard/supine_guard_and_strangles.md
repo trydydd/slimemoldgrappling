@@ -12,6 +12,8 @@ alwaysopen: false
 
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
+Any games without win conditions are continuous in nature -- the game lasts until the round ends.
+
 ---
 {{% expand open=true title="**Game 1: Double Underhook Control**" %}}
 

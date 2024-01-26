@@ -11,7 +11,7 @@ weight: 5
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one of their ankles or shins connected to one of your legs.
-  * **Objective**: Get inside your partner's legs or to their side. Focus on breaking their connections with your legs.
+  * **Objective**: Get inside your partner's legs or to their side. Focus on breaking their connections to your legs.
   * **Constraints**:  Do not attempt to pin your opponent to their back. They should remain upright the entire game.
   * **Win Condition**: None
 

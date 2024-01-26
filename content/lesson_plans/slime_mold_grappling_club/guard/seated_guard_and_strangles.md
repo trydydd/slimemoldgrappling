@@ -6,7 +6,7 @@ tags:
 - "VoPE: Strangles"
 - Seated Guard
 - beta
-weight: 0
+weight: 4
 alwaysopen: false 
 ---
 

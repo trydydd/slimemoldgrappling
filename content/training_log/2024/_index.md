@@ -1,5 +1,5 @@
 ---
-draft: false
+alwaysopen: false
 title: "2024"
 weight: 2
 ---

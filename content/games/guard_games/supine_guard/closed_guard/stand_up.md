@@ -12,7 +12,7 @@ weight: 2
 **Top Player**:
   * **Position**: On your knees with your partner's legs around your torso and their feet hooked behind you.
   * **Objective**: Break your partner's grips and control of your upper body in order to gain upright posture and then work to a standing position.
-  * **Constraints**: Do not attempt to open or pass your partner's guard. 
+  * **Constraints**: None 
   * **Win Condition**: Successfully standing up.
 
 **Bottom Player**:

@@ -13,7 +13,7 @@ weight: 2
   * **Position**: On your knees with your partner's legs around your torso and their feet hooked behind you.
   * **Objective**: Break your partner's grips and control of your upper body in order to gain upright posture and work to open their feet.
   * **Constraints**: None
-  * **Win Condition**: Successfully opening your partner's guard.
+  * **Win Condition**: Successfully opening your partner's feet.
 
 **Bottom Player**:
   * **Position**: On your back with your legs wrapped around your partner's torso with your feet hooked together behind them.

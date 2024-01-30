@@ -22,16 +22,16 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Chest to Back with Shoulder and Hip Connection**" %}}
+{{% expand open=true title="**Game 2: Stand Up**" %}}
 
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/stand_up.md" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Submissions from Chest to Back Contact**" %}}
+{{% expand open=true title="**Game 3: Open the Feet**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/opening_the_feet.md" %}}
 
 {{% /expand %}}
 

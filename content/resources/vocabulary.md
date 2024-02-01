@@ -38,6 +38,8 @@ weight: 1
 
 **Perception-Action Coupling**: The connection between perceiving environmental information and executing movement.
 
+**Perceptual-Motor Landscape**: The field where perceptionm and motor actions converge. Our actions are guided by what we see and understand around us.
+
 **Rate Limiter**: A factor that restricts the development or performance of a skill.
 
 **Representative Learning Design**: Practice designs that mimic the performance context.

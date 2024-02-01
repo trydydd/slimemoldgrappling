@@ -1,11 +1,11 @@
 ---
 archetype: "game"
-title: "Control A Leg"
+title: "Create and Break Connections"
 tags: 
 - beta
 - Seated Guard
 - Slime Mold Original
-weight: 5
+weight: 4
 ---
 **Attribution**: This game was created after a private lesson with Justin Mark at [Impact Jiu-Jitsu](https://www.impactjj.com/).
 
@@ -17,8 +17,6 @@ weight: 5
 
 **Defending Player**:
   * **Position**: Seated in front of your partner with one of your shins or ankles connected to one of their legs and one hand connected to their legs.
-  * **Objective**: Create meaningful connections to your partner's legs using your legs, hands, and arms. Use those connections to destabilize your partner to their hands or hips. If they go to their hands hold them there for as long as possible.
-  * **Constraints**: None
+  * **Objective**: Create meaningful connections to your partner's legs using your legs, hands, and arms. If you are able to gain control retain it for as long as possible.
+  * **Constraints**: Do not sweep your opponent.
   * **Win Condition**: None
-
-  Reset if defending player wins

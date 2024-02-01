@@ -14,14 +14,14 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Shin to Shin or Ankle to Shin Connection**" %}}
+{{% expand open=true title="**Game 1: Create and Break Connections**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/shin_to_shin_or_ankle_to_shin_connection" %}}
+{{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Controlling A Leg**" %}}
+{{% expand open=true title="**Game 2: Maintaining Connection**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/control_the_leg" %}}
 

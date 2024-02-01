@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Videos
-weight: 2
+weight: 3
 ---
 
 ### YouTube Channels

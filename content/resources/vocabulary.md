@@ -42,6 +42,8 @@ weight: 1
 
 **Rate Limiter**: A factor that restricts the development or performance of a skill.
 
+**Repetition Without Repetition**: Practice involves reproducing the desired outcome(s) without exactly reproducing the same movements to reach them every time.
+
 **Representative Learning Design**: Practice designs that mimic the performance context.
 
 **Representativeness**: How well training mirrors the challenges of the performance environment.

@@ -14,8 +14,6 @@ weight: 1
 
 **Constraints-Led Approach**: Using environmental, task, and individual constraints to guide learning and performance.
 
-**Dynamic Systems Theory**: Framework for understanding how complex systems change over time.
-
 **Emergent Behavior**: Spontaneous creation of new movement patterns in response to constraints.
 
 **Environmental Constraints**: External physical and social factors that influence movement possibilities.

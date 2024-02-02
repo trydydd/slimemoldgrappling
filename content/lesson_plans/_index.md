@@ -6,6 +6,8 @@ weight: 5
 
 These lessons can be used while you build the skill to create your own games that are more tailored to your participants.
 
+Each of these plans will have an attribution section if they were created by anyone outside of our club. Any lessons that have not been thoroughlyt tested will be tagged with "untested". You can see the tags at the top of each page.
+
 Here are some recommendations:
 
 **Round length**:

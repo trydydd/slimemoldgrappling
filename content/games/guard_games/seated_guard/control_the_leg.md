@@ -2,7 +2,7 @@
 archetype: "game"
 title: "Control A Leg"
 tags: 
-- beta
+- untested
 - Seated Guard
 - Slime Mold Original
 weight: 5

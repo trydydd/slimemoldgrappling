@@ -4,7 +4,7 @@ title: "Hip to Hip Connection"
 tags:
 - Standing
 - Hip Throw
-- Beta
+- untested
 weight: 2
 ---
 

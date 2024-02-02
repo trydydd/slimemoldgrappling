@@ -6,6 +6,7 @@ tags:
 - "VoPE: Seated Guard"
 - Hip Throw
 - Takedowns
+- untested
 weight: 2
 alwaysopen: false 
 ---

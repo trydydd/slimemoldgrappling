@@ -2,7 +2,7 @@
 archetype: "game"
 title: "Create and Break Connections"
 tags: 
-- beta
+- untested
 - Seated Guard
 - Slime Mold Original
 weight: 4

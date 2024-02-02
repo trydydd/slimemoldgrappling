@@ -5,7 +5,7 @@ tags:
 - "Block: Seated Guard"
 - "VoPE: Strangles"
 - Seated Guard
-- beta
+- untested
 weight: 4
 alwaysopen: false 
 ---

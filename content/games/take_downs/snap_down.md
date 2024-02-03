@@ -9,13 +9,13 @@ weight: 0
 ---
 
 **Attacking Player**:
-  * **Position**: Standing in front of your partner with collar tie.
+  * **Position**: Standing in front of your partner with one of your hands connected to the back of their kneck (collar tie).
   * **Objective**: Get your partner's hands on the mat.
   * **Constraints**: No takedowns.
   * **Win Condition**: None
 
 **Defending Player**:
-  * **Position**:Standing in front of your partner with one collar tie.
+  * **Position**: Standing in front of your partner with one of your hands connected to the back of their kneck (collar tie).
   * **Objective**: Get your partner's hands on the mat.
   * **Constraints**: No takedowns.
   * **Win Condition**: None

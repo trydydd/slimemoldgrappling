@@ -4,7 +4,7 @@ title: "Finishing"
 tags:
 - Standing
 - Double Leg
-- Beta
+- untested
 weight: 1
 hidden: true
 ---

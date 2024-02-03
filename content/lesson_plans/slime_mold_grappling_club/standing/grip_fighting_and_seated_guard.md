@@ -1,10 +1,10 @@
 --- 
 archetype: "lesson_plan" 
-title: "Hip Throw and Seated Guard"
+title: "Grip Fighting and Seated Guard"
 tags: 
 - "Block: Standing"
 - "VoPE: Seated Guard"
-- Hip Throw
+- "Grip Fighting"
 - Takedowns
 - untested
 weight: 2
@@ -16,37 +16,37 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Under the Elbows**" %}}
+{{% expand open=true title="**Game 1: Connect the Hands**" %}}
 
-{{% include_page_body "games/take_downs/hip_throw/under_the_elbows" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Hip To Hip Connection**" %}}
-
-{{% include_page_body "games/take_downs/hip_throw/hip_to_hip" %}}
+{{% include_page_body "games/take_downs/body_lock/connect_the_hands.md" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Hip to Hip and Elevate**" %}}
+{{% expand open=true title="**Game 2: Knee Tag**" %}}
 
-{{% include_page_body "games/take_downs/hip_throw/hip_to_hip_and_elevate" %}}
+{{% include_page_body "games/take_downs/knee_tag.md" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Snapdowns**" %}}
+
+{{% include_page_body "games/take_downs/snap_down.md" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 4: Make and Break Connections**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/structure_and_connections.md" %}}
+{{% include_page_body "games/guard_games/seated_guard/control_the_leg.md" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 5: Causing Posts**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/causing_posts.md" %}}
+{{% include_page_body "games/guard_games/seated_guard/connect_to_the_shoulders.md" %}}
 
 {{% /expand %}}
 

@@ -4,14 +4,14 @@ title: "Destabilization"
 tags: 
 - Seated Guard
 - Slime Mold Original
-- beta
+- untested
 weight: 6
 ---
 **Attribution**: This game was created after a private lesson with Justin Mark at [Impact Jiu-Jitsu](https://www.impactjj.com/).
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one of their ankles or shins connected to one of your legs and one hand connected to your legs.
-  * **Objective**: Pin your partner's shoulders to the mat.
+  * **Objective**: Bring your partner's shoulders to the mat.
   * **Constraints**: 
   * **Win Condition**: Create chest to chest or chest to back contact.
 

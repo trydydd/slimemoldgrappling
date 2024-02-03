@@ -3,9 +3,10 @@ archetype: "lesson_plan"
 title: "Single Leg and Supine Guard"
 tags: 
 - "Block: Single Leg Takedown"
-- "VoPE: Supine Guarde"
+- "VoPE: Supine Guard"
 - Single Leg Takedown
 - Takedowns
+- untested
 weight: 3
 alwaysopen: false 
 ---

@@ -5,7 +5,7 @@ tags:
 - Standing
 - Body Lock
 - untested
-weight: 1
+weight: 0
 ---
 
 **Attacking Player**:

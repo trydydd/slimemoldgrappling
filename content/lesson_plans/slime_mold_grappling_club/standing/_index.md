@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Standing
-weight: 3
+weight: 2
 ---
 
 The standing situation involves anything that occurs while standing. This may include take downs, submissions, and transitions to other more advantageous positions.

@@ -11,8 +11,8 @@ weight: 5
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one of their ankles or shins connected to one of your legs and one hand connected to your legs.
-  * **Objective**: Break your partner's connections to your body.
-  * **Constraints**: 
+  * **Objective**: Focus on breaking your partner's connections to your body, and progress past their knees to their thighs. Remain there as long as possible.
+  * **Constraints**: Do not proceed past the thighs.
   * **Win Condition**: None
 
 **Defending Player**:

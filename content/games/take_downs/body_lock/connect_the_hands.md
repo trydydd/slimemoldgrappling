@@ -10,12 +10,14 @@ weight: 1
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one arm connected to their torso inside one of their arms (underhook).
-  * **Objective**: Connect your hands behind your oppononent's back in any way.
+  * **Objective**: Focus on getting inside of or around your partner's elbows.
   * **Constraints**: No takedowns.
-  * **Win Condition**: None
+  * **Win Condition**: Both hands connected behind your partner's back.
 
 **Defending Player**:
   * **Position**:Standing in front of your partner with one arm connected to their torso inside one of their arms (underhook) on the side opposite their underhook.
-  * **Objective**: Connect your hands behind your partner's back in any way.
+  * **Objective**: Focus on getting inside of or around your partner's elbows.
   * **Constraints**: No takedowns.
-  * **Win Condition**: None
+  * **Win Condition**: Both hands connected behind your partner's back.
+
+  Reset if either player wins.

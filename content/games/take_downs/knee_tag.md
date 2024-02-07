@@ -16,6 +16,6 @@ weight: 0
 
 **Defending Player**:
   * **Position**:Standing in front of your partner completely disconnected.
-  * **Objective**: Tag one of your partner's knees.
+  * **Objective**: Focus on preventing your partner from touching your knees by using movement to create space and your limbs to impede their movement.
   * **Constraints**: No takedowns.
   * **Win Condition**: None

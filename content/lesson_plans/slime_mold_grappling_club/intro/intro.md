@@ -11,9 +11,9 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Standing: Hug a Friend**" %}}
+{{% expand open=true title="**Game 1: Standing: Knee Tag**" %}}
 
-{{% include_page_body "games/take_downs/body_lock/connect_the_hands.md" %}}
+{{% include_page_body "games/take_downs/knee_tag.md" %}}
 
 {{% /expand %}}
 

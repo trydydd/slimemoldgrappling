@@ -40,9 +40,9 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-**3 Minute Round**
+**3 Minute Rounds**
 
-Live round with a partner. Pick the starting position from one of the previous games and start there. Roll to submission, reset, and continue. Repeat as many times as possible before the round ends. 
+Live rounds with a partner. Pick the starting position from one of the previous games and start there. Roll to submission, reset, and continue. Start in the same position each rest, but with individual positions reversed. Repeat as many times as possible before the round ends. 
 
 Repeat as many rounds as cardiovascular conditioning and time allow.
 

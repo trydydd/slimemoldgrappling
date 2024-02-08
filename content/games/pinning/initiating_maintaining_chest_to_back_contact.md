@@ -10,7 +10,7 @@ weight: 2
 
 **Top Player**:
   * **Position**: On the ground with your hands wrapped around your partner's waist.
-  * **Objective**: Create chest to back contact and maintain it for as logn as possible
+  * **Objective**: Create chest to back contact and maintain it for as long as possible
   * **Constraints**: None
   * **Win Condition**: If your partner hides their back establish chest to chest contact and connecting your hands in any way.
 

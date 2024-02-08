@@ -10,12 +10,12 @@ weight: 3
 
 **Top Player**:
   * **Position**: Alternate between starting with your partner on their back with your hands locked around their waist and with your partner facing away with your hands locked around their waist.
-  * **Objective**: Create chest to back contact and maintain it for as logn as possible
+  * **Objective**: Create chest to back contact and maintain it for as long as possible
   * **Constraints**: None
   * **Win Condition**: Initiate chest to chest or chest to back contact and then cover your partner's hips.
 
 **Bottom Player**:
-  * **Position**: Facing away from your partner.
+  * **Position**: Alternate between starting on your back with your partner's hands locked around your waist or facing away from your partner with their hands locked around your waist.
   * **Objective**: Get your legs back in front of your partner and return to the seated or standing position.
   * **Constraints**: None
   * **Win Condition**: Turn to face your partner, get your legs back in front, and return to the seated or standing position.

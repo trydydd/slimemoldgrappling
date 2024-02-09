@@ -25,7 +25,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=false title="**Game 3 : Submissions: Finishes from Side Control**" %}}
+{{% expand open=false title="**Game 3 : Submission Initialization**" %}}
 
 {{% include_page_body "games/side_control/submission_hunting.md" %}}
 

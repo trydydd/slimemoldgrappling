@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Intro Lesson 1"
+title: "Chest to Chest"
 tags: 
 - intro
 - untested
@@ -25,28 +25,14 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=false title="**Game 3: Closed Guard: Create and Break Connections**" %}}
+{{% expand open=false title="**Game 3 : Submission Initialization**" %}}
 
-{{% include_page_body "games/guard_games/supine_guard/closed_guard/create_and_break_connections.md" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=false title="**Game 4: Back: Maintain and Break Connection**" %}}
-
-{{% include_page_body "games/back/maintain_and_break_connection.md" %}}
+{{% include_page_body "games/side_control/submission_hunting.md" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=false title="**Game 5 : Submissions: Rear Naked Choke**" %}}
-
-{{% include_page_body "games/submissions/rear_naked_choke/maintaining_the_finish.md" %}}
-
-{{% /expand %}}
-
----
-**6 Minute Round**
+**3 Minute Round**
 
 Live round with a partner. Pick the starting position from one of the previous games and start there. Roll to submission, reset, and continue. Repeat as many times as possible before the round ends. 
 

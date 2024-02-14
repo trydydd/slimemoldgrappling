@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Intro Lesson 2"
+title: "Chest to Back"
 tags: 
 - intro
 - untested

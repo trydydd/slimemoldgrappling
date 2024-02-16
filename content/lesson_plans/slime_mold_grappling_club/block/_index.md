@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Block
-weight: 1
+weight: 2
 ---
 
 This set of class plans uses a block training structure. 

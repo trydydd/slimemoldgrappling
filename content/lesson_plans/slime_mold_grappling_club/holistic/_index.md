@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Holistic
-weight: 2
+weight: 3
 ---
 
 These plans all use a holistic approach to training submission grappling.

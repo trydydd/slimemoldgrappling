@@ -16,7 +16,7 @@ weight: 1
 
 **Bottom Player**:
   * **Position**: Hands on top player
-  * **Objective**: Get your legs back in front of your partner and return to the seated or standing position.
+  * **Objective**: Focus on creating space between your body and your partner, and then occupying that space before they do.
   * **Constraints**: None
   * **Win Condition**: Get your legs back in front of your partner and return to the seated or standing position.
 

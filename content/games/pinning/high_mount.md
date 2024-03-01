@@ -1,0 +1,23 @@
+---
+archetype: game
+tags:
+- pinning
+- Slime Mold Original
+title: High Mount
+draft: true
+weight: 4
+---
+
+**Top Player**:
+  * **Position**: Sitting on top of your partner straddling their torso with your hips connected to their's.
+  * **Objective**: Clear hands, get under or behind your partner's elbows, and initiate chest to chest or chest to back contact.
+  * **Constraints**: None
+  * **Win Condition**: Establish chest to chest or chest to back contact and lock your hands.
+
+**Bottom Player**:
+  * **Position**: Hands on top player
+  * **Objective**: Focus on creating space between your body and your partner, and then occupying that space before they do.
+  * **Constraints**: None
+  * **Win Condition**: Get your legs back in front of your partner and return to the seated or standing position.
+
+Reset if either player wins.

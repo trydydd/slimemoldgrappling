@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
-title: Representative Practice Assessment Tool 
+title: RPAT
 weight: 5
 ---
 

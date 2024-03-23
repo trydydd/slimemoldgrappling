@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sum Calculator</title>
+<script>
+function calculateSum() {
+    var total = 0;
+    for (var i = 1; i <= 8; i++) {
+        var value = parseInt(document.getElementById('number' + i).value) || 0;
+        total += value;
+    }
+    document.getElementById('result').innerText = 'Total: ' + total;
+}
+</script>
+</head>
+<body>
+
+<h2>Enter Numbers and Descriptions</h2>
+
+<form id="sumForm">
+    <div id="inputs">
+        <!-- Dynamically generated inputs will be here -->
+        <!-- Each block contains a number input and a text description -->
+        <div>
+            <input type="number" id="number1" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number2" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number3" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number4" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number5" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number6" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number7" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+        <div>
+            <input type="number" id="number8" placeholder="Enter an integer">
+            <input type="text" placeholder="Description">
+        </div>
+    </div>
+
+    <button type="button" onclick="calculateSum()">Calculate Total</button>
+</form>
+
+<div id="result"></div>
+
+</body>
+</html>

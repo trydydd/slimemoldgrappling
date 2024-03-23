@@ -3,13 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sum Calculator</title>
+<title>Rating Calculator</title>
 <script>
 function calculateSum() {
     var total = 0;
     for (var i = 1; i <= 8; i++) {
-        var value = parseInt(document.getElementById('number' + i).value) || 0;
-        total += value;
+        var radios = document.getElementsByName('rating' + i);
+        for (var j = 0; j < radios.length; j++) {
+            if (radios[j].checked) {
+                total += parseInt(radios[j].value);
+                break;
+            }
+        }
     }
     document.getElementById('result').innerText = 'Total: ' + total;
 }
@@ -17,42 +22,75 @@ function calculateSum() {
 </head>
 <body>
 
-<h2>Enter Numbers</h2>
+<h2>Rate Each Field</h2>
 
-<form id="sumForm">
-    <div id="inputs">
-        <!-- Descriptions before each input field -->
+<form id="ratingForm">
+    <div id="ratings">
+        <!-- Each block contains radio inputs for values 1 through 5 with special labels for 1 and 3 -->
+        <!-- Repeating for fields 1 through 8 -->
         <div>
             <span>Description for field 1: </span>
-            <input type="number" id="number1" placeholder="Enter an integer">
+            <label><input type="radio" name="rating1" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating1" value="2"> 2</label>
+            <label><input type="radio" name="rating1" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating1" value="4"> 4</label>
+            <label><input type="radio" name="rating1" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 2: </span>
-            <input type="number" id="number2" placeholder="Enter an integer">
+            <label><input type="radio" name="rating2" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating2" value="2"> 2</label>
+            <label><input type="radio" name="rating2" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating2" value="4"> 4</label>
+            <label><input type="radio" name="rating2" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 3: </span>
-            <input type="number" id="number3" placeholder="Enter an integer">
+            <label><input type="radio" name="rating3" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating3" value="2"> 2</label>
+            <label><input type="radio" name="rating3" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating3" value="4"> 4</label>
+            <label><input type="radio" name="rating3" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 4: </span>
-            <input type="number" id="number4" placeholder="Enter an integer">
+            <label><input type="radio" name="rating4" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating4" value="2"> 2</label>
+            <label><input type="radio" name="rating4" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating4" value="4"> 4</label>
+            <label><input type="radio" name="rating4" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 5: </span>
-            <input type="number" id="number5" placeholder="Enter an integer">
+            <label><input type="radio" name="rating5" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating5" value="2"> 2</label>
+            <label><input type="radio" name="rating5" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating5" value="4"> 4</label>
+            <label><input type="radio" name="rating5" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 6: </span>
-            <input type="number" id="number6" placeholder="Enter an integer">
+            <label><input type="radio" name="rating6" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating6" value="2"> 2</label>
+            <label><input type="radio" name="rating6" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating6" value="4"> 4</label>
+            <label><input type="radio" name="rating6" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 7: </span>
-            <input type="number" id="number7" placeholder="Enter an integer">
+            <label><input type="radio" name="rating7" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating7" value="2"> 2</label>
+            <label><input type="radio" name="rating7" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating7" value="4"> 4</label>
+            <label><input type="radio" name="rating7" value="5"> 5</label>
         </div>
         <div>
             <span>Description for field 8: </span>
-            <input type="number" id="number8" placeholder="Enter an integer">
+            <label><input type="radio" name="rating8" value="1"> 1 (not at all)</label>
+            <label><input type="radio" name="rating8" value="2"> 2</label>
+            <label><input type="radio" name="rating8" value="3"> 3 (could be better)</label>
+            <label><input type="radio" name="rating8" value="4"> 4</label>
+            <label><input type="radio" name="rating8" value="5"> 5</label>
         </div>
     </div>
 

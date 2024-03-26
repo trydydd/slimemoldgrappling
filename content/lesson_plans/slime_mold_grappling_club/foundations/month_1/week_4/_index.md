@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
-title: Week 1
-weight: 1
+title: Week 4
+weight: 4
 ---
 
 The focuses for Week 1 are pinning and naked chokes.

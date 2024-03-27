@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "Maintaining The Finish"
+title: "Uncovered Shoulders"
 tags: 
 - submissions
 - slime mold original

@@ -1,8 +1,8 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 3"
+title: "Supine Guard"
 tags: ""
-weight: 3
+weight: 0
 alwaysopen: false 
 ---
 
@@ -11,21 +11,21 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Pinning Game**" %}}
+{{% expand open=true title="**Game 1: Guard Game**" %}}
 
 {{% include_page_body "games/back/maintain_and_break_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Pinning Game 2**" %}}
+{{% expand open=true title="**Game 2: Guard Game 2**" %}}
 
 {{% include_page_body "games/back/shoulder_and_hip_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Pinning Game 3**" %}}
+{{% expand open=true title="**Game 3: Guard Game 3**" %}}
 
 {{% include_page_body "games/back/submission_hunting" %}}
 

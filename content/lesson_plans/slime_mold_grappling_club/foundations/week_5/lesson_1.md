@@ -1,8 +1,8 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 2"
+title: "Front Headlock"
 tags: ""
-weight: 2
+weight: 1
 alwaysopen: false 
 ---
 

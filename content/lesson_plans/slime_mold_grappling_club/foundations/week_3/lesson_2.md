@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 1"
+title: "Straight Arm Locks"
 tags: ""
 weight: 0
 alwaysopen: false 

@@ -1,8 +1,8 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 1"
+title: "Seated Guard"
 tags: ""
-weight: 1
+weight: 3
 alwaysopen: false 
 ---
 

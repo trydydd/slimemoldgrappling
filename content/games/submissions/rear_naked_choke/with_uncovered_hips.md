@@ -5,7 +5,7 @@ tags:
 - submissions
 - slime mold original
 - rear naked choke
-weight: 3
+weight: 4
 ---
 
 **Attacking Player**:

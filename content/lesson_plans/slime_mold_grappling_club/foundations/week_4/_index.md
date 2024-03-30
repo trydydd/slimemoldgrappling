@@ -4,6 +4,6 @@ title: Week 4
 weight: 4
 ---
 
-The focuses for Week 1 are pinning and naked chokes.
+The focuses for Week 4 are guard and straight ankle locks.
 
 {{% children %}}

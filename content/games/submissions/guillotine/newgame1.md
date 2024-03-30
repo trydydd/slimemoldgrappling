@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "{{ replace .Name "_" " " | title }}"
+title: "Newgame1"
 tags: 
 - tag 1
 - tag 2

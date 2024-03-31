@@ -1,7 +1,9 @@
 ---
 archetype: "game"
 title: "New Game1"
-tags: [""]
+tags: 
+- untested
+- slime mold original
 weight: 0
 ---
 
@@ -15,6 +17,6 @@ weight: 0
   * **Position**: On your back with your partner on top of you lying perpendicular to your torso with chest to chest contact. One of their arms should be over the shoulder closest to them with their forearm behind your head. Their other arm should be underneath your opposite armpit.
   * **Objective**: Create space and movement in order to allow improvement of your position.
   * **Constraints**: None.
-  * **Win Condition**: Bring your feet between you and your partner or reverse the position.
+  * **Win Condition**: Bring your feet or knees between you and your partner or reverse the position.
 
 Reset if either player wins.

@@ -12,35 +12,35 @@ KIMURA
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Guard Game**" %}}
+{{% expand open=true title="**Game 1: Kimura**" %}}
 
 {{% include_page_body "games/back/maintain_and_break_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Guard Game 2**" %}}
+{{% expand open=true title="**Game 2: Kimura**" %}}
 
 {{% include_page_body "games/back/shoulder_and_hip_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Guard Game 3**" %}}
+{{% expand open=true title="**Game 3: Kimura**" %}}
 
 {{% include_page_body "games/back/submission_hunting" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Naked Choke Game 1**" %}}
+{{% expand open=true title="**Game 4: Side Control**" %}}
 
 {{% include_page_body "games/submissions/triangle/causing_posts" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Naked Choke Game 2**" %}}
+{{% expand open=true title="**Game 5: Side Control**" %}}
 
 
 {{% include_page_body "games/submissions/triangle/punishing_posts" %}}

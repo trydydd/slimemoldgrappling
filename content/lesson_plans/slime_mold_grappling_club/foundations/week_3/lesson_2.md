@@ -11,35 +11,35 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Standing Game**" %}}
+{{% expand open=true title="**Game 1: Arm Bar**" %}}
 
 {{% include_page_body "games/back/maintain_and_break_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Standing Game 2**" %}}
+{{% expand open=true title="**Game 2: Arm Bar**" %}}
 
 {{% include_page_body "games/back/shoulder_and_hip_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Standing Game 3**" %}}
+{{% expand open=true title="**Game 3: Arm Bar**" %}}
 
 {{% include_page_body "games/back/submission_hunting" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Straight Arm Lock Game 1**" %}}
+{{% expand open=true title="**Game 4: Open Guard**" %}}
 
 {{% include_page_body "games/submissions/triangle/causing_posts" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Straight Arm Lock Game 2**" %}}
+{{% expand open=true title="**Game 5: Open Guard**" %}}
 
 
 {{% include_page_body "games/submissions/triangle/punishing_posts" %}}

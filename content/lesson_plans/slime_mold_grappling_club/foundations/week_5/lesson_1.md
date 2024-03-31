@@ -11,35 +11,35 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Pinning Game**" %}}
+{{% expand open=true title="**Game 1: Front Headlock**" %}}
 
 {{% include_page_body "games/back/maintain_and_break_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Pinning Game 2**" %}}
+{{% expand open=true title="**Game 2: Front Headlock**" %}}
 
 {{% include_page_body "games/back/shoulder_and_hip_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Pinning Game 3**" %}}
+{{% expand open=true title="**Game 3: Front Headlock**" %}}
 
 {{% include_page_body "games/back/submission_hunting" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Naked Choke Game 1**" %}}
+{{% expand open=true title="**Game 4: Closed Guard**" %}}
 
 {{% include_page_body "games/submissions/triangle/causing_posts" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Naked Choke Game 2**" %}}
+{{% expand open=true title="**Game 5: Closed Guard**" %}}
 
 
 {{% include_page_body "games/submissions/triangle/punishing_posts" %}}

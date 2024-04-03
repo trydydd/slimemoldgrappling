@@ -11,23 +11,23 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Side Control**" %}}
+{{% expand open=true title="**Game 1: Maintain Chest to Chest Contact**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Side Control**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/side_control/maintain_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Side Control**" %}}
+{{% expand open=true title="**Game 2: Cover the Hips**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/side_control/use_connection" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Create Chest to Chest Contact**" %}}
+
+{{% include_page_body "games/pinning/chest_to_chest_chest_to_back" %}}
 
 {{% /expand %}}
 

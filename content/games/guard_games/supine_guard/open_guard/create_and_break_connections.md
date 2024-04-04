@@ -17,7 +17,9 @@ weight: 1
   * **Win Condition**: None
 
 **Bottom Player**:
-  * **Position**: Belly up open guard. Feet retracted to chest and elbows in.
-  * **Objective**: Make and maintain connections to inside position using your hands and feet. Get both feet in between partners legs as well as both hands on legs. Retain position as long as possible.
+  * **Position**: Lying on your back with your knees retracted to your chest and elbows in near your knees.
+  * **Objective**: Make and maintain connections to the inside of your partner's legs using your hands and feet. Get both feet in between your partners legs as well as both hands on legs. Retain position as long as possible.
   * **Constraints**: No sweeps allowed
   * **Win Condition**: None
+
+This game is continuous.

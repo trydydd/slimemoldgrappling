@@ -17,9 +17,9 @@ weight: 2
   * **Win Condition**: None
 
 **Bottom Player**:
-  * **Position**: Belly up open guard. Feet retracted to chest and elbows in.
-  * **Objective**: Make and maintain connections to inside position using your hands and feet then use those connections to destabilize your partner. 
+  * **Position**: Lying on your back with your knees retracted to your chest and elbows in near your knees.
+  * **Objective**: Make and maintain connections to inside position using your hands and feet and then use those connections to destabilize your partner. 
   * **Constraints**: None
   * **Win Condition**: Off balance your partner forcing them either onto their hands or their butt. If they land on their butt immediately reset and continue. If they land on their hands hold them in that position for as long as you can.
 
-Reset if either player wins.
+Reset if bottom player wins.

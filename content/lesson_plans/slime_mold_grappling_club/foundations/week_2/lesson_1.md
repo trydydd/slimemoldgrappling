@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Supine Guard"
 tags: ""
-weight: 0
+weight: 1
 alwaysopen: false 
 ---
 
@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Supine Guard**" %}}
+{{% expand open=true title="**Game 1: Maintain and Break Connections**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Supine Guard**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/maintain_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Supine Guard**" %}}
+{{% expand open=true title="**Game 2: Create and Break Connections**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Chest to back pinning**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Chest to Back Pinning**" %}}
+{{% expand open=true title="**Game 3: Off Balancing and Passing**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Pinning**" %}}
+
+{{% include_page_body "games/pinning/chest_to_chest_chest_to_back" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Pinning, Transitions, and Escapes**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/pinning/covering_the_hips.md" %}}
 
 {{% /expand %}}
 

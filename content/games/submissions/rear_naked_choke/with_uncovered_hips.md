@@ -1,23 +1,24 @@
 ---
-archetype: "game"
-title: "With Uncovered Hips"
-tags: 
-- submissions
-- slime mold original
+archetype: game
+title: Maintain Control
+tags:
+- submission
 - rear naked choke
-weight: 4
+- slime mold original
+weight: 6
 ---
 
+
 **Attacking Player**:
-  * **Position**: Behind your partner with one arm around their neck with the hand grabbing your opposite bicep. The hand of your other arm should be behind their head either on your opposite shoulder or the back of their head. Your legs should not be wrapped around your partner and their hips should not be covered.
-  * **Objective**: Maintain control for as long as possible.
-  * **Constraints**: Do not choke your partner or finish the submission.
-  * **Win Condition**: None.
+  * **Position**: Behind your partner with chest to back contact, both legs wrapped around their torso with your feet covering their hips, one arm wrapped over their shoulder, the other arm wrapped under their armpit, and your hands connected.
+  * **Objective**: Attempt to acheive a locked in rear naked choke and finish it.
+  * **Constraints**: Do not work to submit your opponent.
+  * **Win Condition**: Successfully submitting your opponent.
 
 **Defending Player**:
-  * **Position**: Seated with your parther behind you with one arm around your neck with the hand grabbing their our opposite bicep. The hand of their other arm should be behind your head either on their opposite shoulder or the back of your head.Their legs should not be wrapped around your torso or covering your hips.
-  * **Objective**: Focus on breaking the connections your partner has made to you with their arms, legs, and chest.
-  * **Constraints**: None
-  * **Win Condition**: Freeing yourself from their choke by turning to face or hiding your back.
+  * **Position**: In front of your partner with their chest contacting your back, both legs wrapped around your torso with their feet covering your hips, one arm wrapped over your shoulder, the other arm wrapped under your armpit, and their hands connected.
+  * **Objective**: Use your hands chin to defend against the rear naked choke.
+  * **Constraints**: Do not escape the position -- focus on closing space and preventing the choke using your hands.
+  * **Win Condition**: None.
 
-Reset if the defending player wins.
+Reset if attacking player wins.

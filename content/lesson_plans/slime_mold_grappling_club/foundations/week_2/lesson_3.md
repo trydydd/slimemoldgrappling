@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Closed Guard"
 tags: ""
-weight: 0
+weight: 3
 alwaysopen: false 
 ---
 
@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Closed Guard**" %}}
+{{% expand open=true title="**Game 1: Closed Guard Grip Fighting**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Closed Guard**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Closed Guard**" %}}
+{{% expand open=true title="**Game 2: Standing Inside the Guard**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: RNC**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/stand_up" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: RNC**" %}}
+{{% expand open=true title="**Game 3: Opening the Guard**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/opening_the_feet" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Rear Naked Choke Without Hooks**" %}}
+
+{{% include_page_body "games/submissions/rear_naked_choke/with_uncovered_hips" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Defending the Rear Naked Choke**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/submissions/rear_naked_choke/grip_fight_defense.md" %}}
 
 {{% /expand %}}
 

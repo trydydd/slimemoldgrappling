@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Twisting Arm Lock"
 tags: ""
-weight: 0
+weight: 2
 alwaysopen: false 
 ---
 

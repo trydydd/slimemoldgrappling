@@ -32,17 +32,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Open Guard**" %}}
+{{% expand open=true title="**Game 4: Open Guard Connections**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/maintain_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Open Guard**" %}}
+{{% expand open=true title="**Game 5: Open Guard Sweeping**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
 
 {{% /expand %}}
 

@@ -11,38 +11,38 @@ MOUNT
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Mount**" %}}
+{{% expand open=true title="**Game 1: Chest to Chest with Covered Hips**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Mount**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/mount/low_mount.md" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Mount**" %}}
+{{% expand open=true title="**Game 2: Chest to Chest with Uncovered Hips**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Closed Guard**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/mount/middle_mount.md" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Closed Guard**" %}}
+{{% expand open=true title="**Game 3: Hips to Chest**" %}}
+
+{{% include_page_body "games/mount/high_mount.md" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Climbing the Back**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/to_the_back" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Hip to Shoulder Connection**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/hip_and_shoulder_connection" %}}
 
 {{% /expand %}}
 

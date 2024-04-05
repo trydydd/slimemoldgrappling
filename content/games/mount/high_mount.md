@@ -5,7 +5,7 @@ tags:
 - slime mold original
 - untested
 title: High Mount
-draft: true
+draft: false
 weight: 6
 ---
 

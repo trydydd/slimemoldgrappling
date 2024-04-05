@@ -11,23 +11,23 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Arm Bar**" %}}
+{{% expand open=true title="**Game 1: Maintain the Finish**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Arm Bar**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/arm_bar/maintaining_the_finish" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Arm Bar**" %}}
+{{% expand open=true title="**Game 2: Separate the Hands**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/submissions/arm_bar/breaking_the_grip" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: The Transition**" %}}
+
+{{% include_page_body "games/submissions/arm_bar/maintain_the_transition" %}}
 
 {{% /expand %}}
 

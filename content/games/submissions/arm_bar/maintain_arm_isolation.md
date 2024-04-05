@@ -9,7 +9,7 @@ weight: 5
 ---
 
 **Top Player**:
-  * **Position**: Mounted on your partner with their arms above their head and your hands connected underneath their arms.
+  * **Position**: Mounted on your partner with their arms connected above their head and your hands connected underneath their arms.
   * **Objective**: Stay on top, hold your partner down, and keep your arms underneath their elbows.
   * **Constraints**: Only maintain your position.
   * **Win Condition**: None

@@ -1,6 +1,7 @@
 ---
 alwaysopen: false
 title: Week 3
+draft: true
 weight: 3
 ---
 

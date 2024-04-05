@@ -3,7 +3,7 @@ archetype: "game"
 title: "Destabilization"
 tags: 
 - Seated Guard
-- Slime Mold Original
+- slime mold original
 - untested
 weight: 6
 ---

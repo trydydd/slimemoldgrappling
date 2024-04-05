@@ -3,7 +3,7 @@ archetype: game
 tags:
 - triangle
 - submissions
-- Slime Mold Original
+- slime mold original
 title: Maintaining the Finish
 weight: 2
 ---

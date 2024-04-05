@@ -5,7 +5,7 @@ tags:
 - Slime Mold Original
 title: Middle Mount
 draft: true
-weight: 4
+weight: 5
 ---
 
 **Top Player**:

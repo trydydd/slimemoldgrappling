@@ -13,21 +13,21 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 1: Chest to Chest with Covered Hips**" %}}
 
-{{% include_page_body "games/mount/low_mount.md" %}}
+{{% include_page_body "games/mount/low_mount" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 2: Chest to Chest with Uncovered Hips**" %}}
 
-{{% include_page_body "games/mount/middle_mount.md" %}}
+{{% include_page_body "games/mount/middle_mount" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 3: Hips to Chest**" %}}
 
-{{% include_page_body "games/mount/high_mount.md" %}}
+{{% include_page_body "games/mount/high_mount" %}}
 
 {{% /expand %}}
 

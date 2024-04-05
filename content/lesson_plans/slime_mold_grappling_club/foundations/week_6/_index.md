@@ -5,3 +5,5 @@ weight: 6
 ---
 
 The focuses for week two are guard and naked chokes.
+
+{{% children %}}

@@ -5,3 +5,5 @@ weight: 3
 ---
 
 The focuses for week three are pinning and straight arm locks.
+
+{{% children %}}

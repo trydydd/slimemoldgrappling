@@ -5,3 +5,5 @@ weight: 2
 ---
 
 The focuses for week two are guard and twisting arm locks.
+
+{{% children %}}

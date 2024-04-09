@@ -11,13 +11,13 @@ Standing is introduced at week 7.
 
 ### Week 2 - Guard
 - [x] Supine Guard/Chest to Back Pinning
-- [ ] Twisting Armlocks
+- [x] Twisting Armlocks
 - [x] Supine Guard (closed guard)/Rear Naked Choke
 
 ### Week 3 - Pinning
 - [x] Chest to Chest Pinning (mount)/Closed Guard
 - [x] Straight Arm Locks/Supine Guard
-- [ ] Turtle/Twisting Arm Locks
+- [x] Turtle/Twisting Arm Locks (done except for twisting arm locks)
 
 ### Week 4 - Guard
 - [ ] Connected Guard vs Standing (x, slx, whatever)/Chest to Chest Pinning

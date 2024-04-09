@@ -17,7 +17,7 @@ weight: 1
   * **Win Condition**: None
 
 **Bottom Player**:
-  * **Position**: In front of your partner with your hands and knees on the ground and their chest contacting your back.
+  * **Position**: In front of your partner with your hands (or elbows) and knees on the ground and their chest contacting your back.
   * **Objective**: Use movement to create space and improve your position.
   * **Constraints**: None
   * **Win Condition**: Turn and face your partner by any means necessary. 

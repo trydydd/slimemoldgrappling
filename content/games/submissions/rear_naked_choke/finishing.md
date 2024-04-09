@@ -11,7 +11,7 @@ weight: 1
 **Attacking Player**:
   * **Position**: Behind your partner with one arm around their neck with the hand grabbing your opposite bicep. The hand of your other arm should be behind their head either on your opposite shoulder or the back of their head. Your legs should be wrapped around your partner's torso.
   * **Objective**: Occlude blood flow by compressing the arteries on either side of your partner's neck.
-  * **Constraints**: Do not choke your partner or finish the submission.
+  * **Constraints**: Slowly increase pressure.
   * **Win Condition**: Make your opponent tap by gradually increasing the pressure of your choke.
 
 **Defending Player**:

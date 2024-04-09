@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Chest to Chest Pinning"
 tags: ""
-weight: 0
+weight: 1
 alwaysopen: false 
 ---
 

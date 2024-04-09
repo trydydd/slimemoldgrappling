@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Straight Arm Locks"
 tags: ""
-weight: 0
+weight: 2
 alwaysopen: false 
 ---
 

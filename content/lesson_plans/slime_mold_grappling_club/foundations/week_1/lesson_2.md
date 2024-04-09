@@ -25,7 +25,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Pinning Game 3**" %}}
+{{% expand open=true title="**Game 3: Single Arm Choke**" %}}
 
 {{% include_page_body "games/submissions/rear_naked_choke/with_one_arm" %}}
 

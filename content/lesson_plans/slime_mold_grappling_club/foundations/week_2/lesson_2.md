@@ -12,38 +12,38 @@ KIMURA
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Kimura**" %}}
+{{% expand open=true title="**Game 1: Maintaining Control**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Kimura**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/twisting_arm_locks/control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Kimura**" %}}
+{{% expand open=true title="**Game 2: Finish the Grip**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Side Control**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/submissions/twisting_arm_locks/complete_the_grip" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Side Control**" %}}
+{{% expand open=true title="**Game 3: Submission Hunting**" %}}
+
+{{% include_page_body "games/side_control/submission_hunting" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Maintain Connection**" %}}
+
+{{% include_page_body "games/side_control/maintain_connection" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Use the Connection**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/side_control/use_connection" %}}
 
 {{% /expand %}}
 

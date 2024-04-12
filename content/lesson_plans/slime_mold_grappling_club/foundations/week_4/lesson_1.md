@@ -12,23 +12,22 @@ X, SLX, DLR, etc.
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Leg Entanglements vs Standing**" %}}
+{{% expand open=true title="**Game 1: Maintain Connection**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/entanglements/maintain_connection" %}}
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 2: Use the Connection**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/open_guard/entanglements/use_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Leg Entanglements vs Standing**" %}}
+{{% expand open=true title="**Game 3: Create the Connection**" %}}
 
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 3: Leg Entanglements vs Standing**" %}}
-
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/entanglements/create_connection" %}}
 
 {{% /expand %}}
 

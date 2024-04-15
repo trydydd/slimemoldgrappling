@@ -9,7 +9,7 @@ weight: 1
 ---
 
 **Top Player**:
-  * **Position**: Standing with your partner underneath you and connected to one or both of your legs and hips.
+  * **Position**: Standing with your partner underneath you and connected to one or both of your legs.
   * **Objective**: Focus on breaking your partner's connections to your body and staying on your feet. 
   * **Constraints**: None
   * **Win Condition**: Successfully disengage from your partner. 

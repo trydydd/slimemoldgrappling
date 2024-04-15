@@ -29,17 +29,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Cracking the Shell**" %}}
+{{% expand open=true title="**Game 4: Turtle**" %}}
 
-{{% include_page_body "games/pinning/cracking_the_egg" %}}
+{{% include_page_body "games/pinning/turtle_arm_attack" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Turtle**" %}}
+{{% expand open=true title="**Game 5: Front Headlock**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
 
 {{% /expand %}}
 

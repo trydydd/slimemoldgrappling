@@ -29,9 +29,9 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Turtle**" %}}
+{{% expand open=true title="**Game 4: Cracking the Shell**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/pinning/cracking_the_egg" %}}
 
 {{% /expand %}}
 

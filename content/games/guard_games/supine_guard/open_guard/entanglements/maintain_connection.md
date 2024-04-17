@@ -3,7 +3,6 @@ archetype: "game"
 title: "Maintain"
 tags: 
 - slime mold original
-- untested
 - leg entanglements
 weight: 1
 ---

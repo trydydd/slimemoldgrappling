@@ -2,7 +2,6 @@
 archetype: game
 tags:
 - twisting arm locks
-- untested
 - slime mold original
 title: Complete the Grip
 weight: 2

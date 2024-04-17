@@ -2,7 +2,6 @@
 archetype: "game"
 title: "Covering the Shoulders"
 tags: 
-- untested
 - slime mold original
 - turtle
 weight: 4

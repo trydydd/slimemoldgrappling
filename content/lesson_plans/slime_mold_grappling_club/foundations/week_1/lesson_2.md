@@ -11,8 +11,9 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Finishing**" %}}
 
+{{% expand open=true title="**Game 1: Finishing**" %}}
+**This game should only be played for two one minute rounds**
 {{% include_page_body "games/submissions/rear_naked_choke/finishing" %}}
 
 {{% /expand %}}

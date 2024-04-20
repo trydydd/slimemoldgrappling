@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Seated Guard vs Standing**" %}}
+{{% expand open=true title="**Game 1: Create and Break Connections**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Seated Guard vs Standing**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/seated_guard/structure_and_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Seated Guard vs Standing**" %}}
+{{% expand open=true title="**Game 2: Causing Posts**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Turtle**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/guard_games/seated_guard/causing_posts" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Turtle**" %}}
+{{% expand open=true title="**Game 3: Connect to the Shoulders**" %}}
+
+{{% include_page_body "games/guard_games/seated_guard/connect_to_the_shoulders" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Arm Isolation**" %}}
+
+{{% include_page_body "games/submissions/arm_bar/maintain_arm_isolation" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: arm bar**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/submissions/arm_bar/maintain_the_transition" %}}
 
 {{% /expand %}}
 

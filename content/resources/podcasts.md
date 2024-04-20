@@ -6,11 +6,11 @@ weight: 4
 
 ### Ecological Dynamics Focused Podcasts
 
-[Combat Learning Podcast](https://www.combatlearning.com/): Combat Learning is about radically improving you as a teacher and learner of martial arts using the ecological approach to training.
+[Perception & Action Podcast](https://perceptionaction.com/): Rob Gray discusses how psychological research can be applied to improving performance, accelerating skill acquisition & designing technologies.
 
 [Primal MMA Coaching Podcast](https://theprimalmmacoachingpodcast.buzzsprout.com/): The Primal MMA podcast brings together coaches, athletes, and sports scientists to discuss training and practice design for Mixed Martial Arts. 
 
-[Perception & Action Podcast](https://perceptionaction.com/): Rob Gray discusses how psychological research can be applied to improving performance, accelerating skill acquisition & designing technologies.
+[Combat Learning Podcast](https://www.combatlearning.com/): Combat Learning is about radically improving you as a teacher and learner of martial arts using the ecological approach to training.
 
 ### Individual Podcast Episodes
 

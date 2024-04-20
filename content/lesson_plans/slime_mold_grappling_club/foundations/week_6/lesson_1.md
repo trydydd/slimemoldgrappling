@@ -13,28 +13,28 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 1: Half Guard**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/underhook_control" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 2: Half Guard**" %}}
 
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/single_underhook_control" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 3: Half Guard**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/hip_access" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 4: Side Control**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/side_control/maintain_connection" %}}
 
 {{% /expand %}}
 
@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Side Control**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/side_control/submission_hunting" %}}
 
 {{% /expand %}}
 

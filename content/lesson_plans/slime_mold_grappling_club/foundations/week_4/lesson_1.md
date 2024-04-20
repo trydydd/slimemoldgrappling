@@ -29,17 +29,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Turtle**" %}}
+{{% expand open=true title="**Game 4: Turtle Attacking the Arms**" %}}
 
 {{% include_page_body "games/pinning/turtle_arm_attack" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Front Headlock**" %}}
+{{% expand open=true title="**Game 5: Turtle Controlling any Post**" %}}
 
 
-{{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
+{{% include_page_body "games/pinning/turtle_with_post_control" %}}
 
 {{% /expand %}}
 

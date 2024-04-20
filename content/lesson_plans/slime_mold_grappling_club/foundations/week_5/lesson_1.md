@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Front Headlock**" %}}
+{{% expand open=true title="**Game 1: Stabilizing the Front Headlock**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Front Headlock**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Front Headlock**" %}}
+{{% expand open=true title="**Game 2: Transitioning to the Back**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Closed Guard**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/pinning/front_headlock_to_back" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Closed Guard**" %}}
+{{% expand open=true title="**Game 3: Isolating the Neck**" %}}
+
+{{% include_page_body "content/games/pinning/isolate_the_neck" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Transitioning to the Back**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/hip_and_shoulder_connection" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Transitioning to the Back**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/closed_guard/to_the_back" %}}
 
 {{% /expand %}}
 

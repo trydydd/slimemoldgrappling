@@ -11,30 +11,30 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Seated Guard Leg Entanglements**" %}}
+{{% expand open=true title="**Game 1: Controlling a Leg**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Seated Guard Leg Entanglements**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Seated Guard Leg Entanglements**" %}}
+{{% expand open=true title="**Game 2: Seated Guard and Destabilization**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/guard_games/seated_guard/control_the_leg" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Seated Guard and Leg Entanglements**" %}}
+
+{{% include_page_body "games/guard_games/seated_guard/destabilization" %}}
 
 {{% /expand %}}
 
 ---
 {{% expand open=true title="**Game 4: Guillotine**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
 
 {{% /expand %}}
 
@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Guillotine**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/submissions/guillotine/with_one_arm" %}}
 
 {{% /expand %}}
 

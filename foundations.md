@@ -20,19 +20,19 @@ Standing is introduced at week 7.
 - [x] Turtle/Twisting Arm Locks (done except for twisting arm locks)
 
 ### Week 4 - Guard
-- [ ] Connected Guard vs Standing (x, slx, whatever)/Chest to Chest Pinning
+- [x] Connected Guard vs Standing (x, slx, whatever)/Chest to Chest Pinning
 - [ ] Straight Ankle Locks/Chest to Back Pinning
-- [ ] Seated Guard/Straight Arm Locks
+- [x] Seated Guard/Straight Arm Locks
 
 ## Week 5 - Pinning
-- [ ] Front Headlock/Supine Guard
+- [x] Front Headlock/Supine Guard
 - [ ] Guillotine/Supine Guard (foot fight emphasis)
 - [ ] North South/Straight Ankle Locks
 
 ### Week 6 - Guard
-- [ ] Half Guard/Front Headlock
+- [x] Half Guard/Front Headlock
 - [ ] Head and Arm/North South
-- [ ] Supine Guard/Guillotine
+- [x] Supine Guard/Guillotine
 
 ### Week 7 - Standing
 - [ ] 

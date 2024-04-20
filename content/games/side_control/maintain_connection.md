@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "New Game1"
+title: "Chest to Chest Pinning"
 tags: 
 - untested
 - slime mold original

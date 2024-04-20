@@ -5,6 +5,6 @@ weight: 5
 draft: true
 ---
 
-The focuses for Week 1 are pinning and naked chokes.
+The focuses for Week 5 are pinning and naked chokes.
 
 {{% children %}}

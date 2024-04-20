@@ -3,7 +3,6 @@ archetype: "lesson_plan"
 title: "Chest to Back"
 tags: 
 - intro
-- untested
 weight: 2
 alwaysopen: false 
 ---

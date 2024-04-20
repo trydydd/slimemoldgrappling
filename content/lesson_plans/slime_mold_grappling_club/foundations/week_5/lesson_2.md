@@ -32,17 +32,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Supine Guard**" %}}
+{{% expand open=true title="**Game 4: Foot Fighting**" %}}
 
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/underhook_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Supine Guard**" %}}
+{{% expand open=true title="**Game 5: Underhooks**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "content/games/guard_games/supine_guard/half_guard/single_underhook_control.md" %}}
 
 {{% /expand %}}
 

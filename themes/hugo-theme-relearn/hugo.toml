@@ -68,6 +68,6 @@ weight = 4
 [[menu.shortcuts]]
 name = "<i class='fa-brands fa-discord'></i> Join the Discord"
 identifier = "contact"
-url = "mailto:social@slimemoldgrappling.com"
+url = "https://discord.com"
 weight = 5
 

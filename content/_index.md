@@ -12,5 +12,9 @@ Choose from our pre-built submission grappling class plans for structured skill 
 
 If you are not sure where to begin then the [foundations curriculum](/lesson_plans/slime_mold_grappling_club/foundations/) is where you should dive in! 
 
+<<<<<<< HEAD
 If you have questions or would like to contribute to the site please [contact us](mailto:social@slimemoldgrappling.com).
 
+=======
+If you have questions or would like to contribute to the club, please [email us](mailto:social@slimemoldgrappling.com)!
+>>>>>>> 73fb6959426735c6a06f9edf13eb3a87d96a8e8e

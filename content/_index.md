@@ -8,6 +8,4 @@ Choose from our pre-built submission grappling class plans for structured skill 
 
 If you are not sure where to begin then the [lesson plans](/lesson_plans) are the best place to start. 
 
-If you have questions or would like to contribute please sign up for our newsletter below!
-
-{{< newsletter >}}
+If you have questions or would like to contribute to the club, please [email us](mailto:social@slimemoldgrappling.com)!

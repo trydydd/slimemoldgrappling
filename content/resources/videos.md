@@ -14,8 +14,6 @@ weight: 3
 
 ### Individual Videos
 
-[Kabir Bath and Greg Souders](https://youtu.be/2Rx2hN9vSrE?si=cbXtir7gP8clbfMD): Kabir and Greg discuss their current work and their individual approaches to coaches and training design 
+[Game Design with Greg Souders](https://youtu.be/Tz11q_hZ4JU?si=yu9uXpTSH17jgtfR): Greg walks Josh through his simple iterative process for desigining games.
 
-[Interviews at Standard Jiu-Jitsu](https://www.youtube.com/watch?v=9TzG_D3S3Ws): Josh visits Standard Jiu-Jitsu to train and interviews members and Greg.
-
-[Interview with Greg Souders](https://www.youtube.com/watch?v=xyYxF8f2DUA): Nathaniel travels to Standard to train and interview Greg.
+[Danny Hatcher Explains Ecological Psych](https://youtu.be/Q1lbOr5UPPg): Danny's video covers much of the content in the book Introduction to Ecological Psychology. This is excellent for folks who want to know more about the science of ecological psychology.

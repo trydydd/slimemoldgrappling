@@ -4,7 +4,7 @@ title: "Control A Leg"
 tags: 
 - untested
 - Seated Guard
-- Slime Mold Original
+- slime mold original
 weight: 5
 ---
 **Attribution**: This game was created after a private lesson with Justin Mark at [Impact Jiu-Jitsu](https://www.impactjj.com/).

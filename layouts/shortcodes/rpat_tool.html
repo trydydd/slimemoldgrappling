@@ -5,7 +5,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Representative Practice Assessment Tool</title>
 <style>
+    .rating-block {
+        margin-bottom: 20px;
+        font-weight: normal;
+    }
+    .rating-block span {
+        display: block;
+        margin-bottom: 5px;
+    }
+    .ratings {
+        display: flex;
+        justify-content: space-between;
+        font-weight: normal !important;  
+    }
     label {
+        display: block;
+        text-align: center;
+        margin-right: 10px; /* Space between radio buttons */
         font-weight: normal; /* Ensures labels are not bold */
     }
 </style>
@@ -24,90 +40,116 @@ function calculateSum() {
     document.getElementById('result').innerText = 'Representativeness Score: ' + total;
 }
 </script>
+
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '917164');
+</script>
+<!-- End MailerLite Universal -->
+
 </head>
 <body>
 
-<p> This tool can be used to evaluate the representativeness of a specific practice exercise or scenario. There is no "standard", and the total score matters less than identifying areas where representativeness can be improved.
+<p>This tool can be used to evaluate the representativeness of a specific practice exercise or scenario. There is no "standard", and the total score matters less than identifying areas where representativeness can be improved.
 <br><br>
-Keep in mind that maximum representativeness is not always the goal, and in some situations it is practical for representativeneas to be lower.
+Keep in mind that maximum representativeness is not always the goal, and in some situations it is practical for representativeness to be lower.
 <br><br>
 This calculator is based on the work of <a href="https://www.tandfonline.com/doi/full/10.1080/02640414.2017.1374684">Krause et al</a>.</p>
 
 <form id="ratingForm">
     <div id="ratings">
-        <!-- Each block contains radio inputs for values 1 through 5 with special labels for 1 and 3 -->
-        <!-- Repeating for fields 1 through 8 -->
-        <div>
+        <div class="rating-block">
             <span>1: Does the goal detail a specific purpose?</span>
-            <label><input type="radio" name="rating1" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating1" value="2"> 2</label>
-            <label><input type="radio" name="rating1" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating1" value="4"> 4</label>
-            <label><input type="radio" name="rating1" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1<br><input type="radio" name="rating1" value="1"><br>Not at all</label>
+                <label>2<br><input type="radio" name="rating1" value="2"><br> </label>
+                <label>3<br><input type="radio" name="rating1" value="3"><br>Could Be Better</label>
+                <label>4<br><input type="radio" name="rating1" value="4"></label>
+                <label>5<br><input type="radio" name="rating1" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>2: Is the information used for control like what is used in a game?</span>
-            <label><input type="radio" name="rating2" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating2" value="2"> 2</label>
-            <label><input type="radio" name="rating2" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating2" value="4"> 4</label>
-            <label><input type="radio" name="rating2" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating2" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating2" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating2" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating2" value="4"></label>
+                <label>5 <br><input type="radio" name="rating2" value="5"><br>Definitely</label>
+            </div>
         </div>
-
-        <div>
+        
+        <div class="rating-block">
             <span>3: Does the task require the player to make decisions?</span>
-            <label><input type="radio" name="rating3" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating3" value="2"> 2</label>
-            <label><input type="radio" name="rating3" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating3" value="4"> 4</label>
-            <label><input type="radio" name="rating3" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating3" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating3" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating3" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating3" value="4"></label>
+                <label>5 <br><input type="radio" name="rating3" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>4: Does the task require the player to adapt their intentions?</span>
-            <label><input type="radio" name="rating4" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating4" value="2"> 2</label>
-            <label><input type="radio" name="rating4" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating4" value="4"> 4</label>
-            <label><input type="radio" name="rating4" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating4" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating4" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating4" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating4" value="4"></label>
+                <label>5 <br><input type="radio" name="rating4" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>5: Does the task require the player to adapt their movement solution?</span>
-            <label><input type="radio" name="rating5" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating5" value="2"> 2</label>
-            <label><input type="radio" name="rating5" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating5" value="4"> 4</label>
-            <label><input type="radio" name="rating5" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating5" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating5" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating5" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating5" value="4"></label>
+                <label>5 <br><input type="radio" name="rating5" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>6: Does the task provide an appropriate level of challenge for the player?</span>
-            <label><input type="radio" name="rating6" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating6" value="2"> 2</label>
-            <label><input type="radio" name="rating6" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating6" value="4"> 4</label>
-            <label><input type="radio" name="rating6" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating6" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating6" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating6" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating6" value="4"></label>
+                <label>5 <br><input type="radio" name="rating6" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>7: Are the task dynamics (e.g. timing, force) like what is required in the game?</span>
-            <label><input type="radio" name="rating7" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating7" value="2"> 2</label>
-            <label><input type="radio" name="rating7" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating7" value="4"> 4</label>
-            <label><input type="radio" name="rating7" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating7" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating7" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating7" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating7" value="4"></label>
+                <label>5 <br><input type="radio" name="rating7" value="5"><br>Definitely</label>
+            </div>
         </div>
 
-        <div>
+        <div class="rating-block">
             <span>8: Does the task induce pressure / emotional reaction in the player?</span>
-            <label><input type="radio" name="rating8" value="1"> 1 (not at all)</label>
-            <label><input type="radio" name="rating8" value="2"> 2</label>
-            <label><input type="radio" name="rating8" value="3"> 3 (could be better)</label>
-            <label><input type="radio" name="rating8" value="4"> 4</label>
-            <label><input type="radio" name="rating8" value="5"> 5 (Definitely)</label>
+            <div class="ratings">
+                <label>1 <br><input type="radio" name="rating8" value="1"><br>Not at all</label>
+                <label>2 <br><input type="radio" name="rating8" value="2"><br> </label>
+                <label>3 <br><input type="radio" name="rating8" value="3"><br>Could Be Better</label>
+                <label>4 <br><input type="radio" name="rating8" value="4"></label>
+                <label>5 <br><input type="radio" name="rating8" value="5"><br>Definitely</label>
+            </div>
         </div>
+        <!-- Additional divs for questions 3-8 would be similar -->
     </div>
 
     <button type="button" onclick="calculateSum()">Calculate Total</button>

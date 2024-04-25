@@ -1,7 +1,9 @@
 ---
 archetype: "game"
 title: "{{ replace .Name "_" " " | title }}"
-tags: [""]
+tags: 
+- tag 1
+- tag 2
 weight: 0
 ---
 

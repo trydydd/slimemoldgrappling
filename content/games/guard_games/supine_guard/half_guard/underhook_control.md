@@ -11,7 +11,7 @@ weight: 1
 
 **Top Player**:
   * **Position**: Top of half guard with double underhooks and chest to chest contact on your partner.
-  * **Objective**: Hold bottom player down chest to chest with contact and underhooks.
+  * **Objective**: Hold bottom player down with chest to chest contact and underhooks.
   * **Constraints**: None
   * **Win Condition**: Pass the half guard by using the free leg to free the trapped leg.
 

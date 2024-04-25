@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
-title: Week 1
-weight: 1
+title: Straight Ankle Lock
+weight: 7
 ---
 
 {{% children %}}

@@ -2,14 +2,15 @@
 archetype: game
 tags:
 - pinning
-- Slime Mold Original
-title: High Mount
-draft: true
+- slime mold original
+- untested
+title: Low Mount
+draft: false
 weight: 4
 ---
 
 **Top Player**:
-  * **Position**: Sitting on top of your partner straddling their torso with your hips connected to their's.
+  * **Position**: Sitting on top of your partner straddling their torso with your hips connected to their hips.
   * **Objective**: Clear hands, get under or behind your partner's elbows, and initiate chest to chest or chest to back contact.
   * **Constraints**: None
   * **Win Condition**: Establish chest to chest or chest to back contact and lock your hands.

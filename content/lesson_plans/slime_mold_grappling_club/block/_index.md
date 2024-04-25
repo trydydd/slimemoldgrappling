@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
 title: Block
-weight: 2
+weight: 3
 ---
 
 This set of class plans uses a block training structure. The easiest way to get started using this in your training is to focus on each situation for one week.

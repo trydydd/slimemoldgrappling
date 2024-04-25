@@ -4,7 +4,11 @@ title: Foundations
 weight: 2
 ---
 
-This is the first three weeks of our twelve week foundations curriculum. It is designed to produce well rounded athletes who are capable of playing the entire game of submission grappling with opponents of varying skill levels. There are three sessions per week. Feel free to use them as they are or modify them in any way that makes the material more approachable and manageable for you.
+This is the first three weeks of our twelve week foundations curriculum. The first six weeks is focused on pinning, guard, and submissions.
+
+Standing engagements will be introduced in the second half of the curriculum.
+
+The full twelve week curriculum is designed to produce well rounded athletes who are capable of playing the entire game of submission grappling with opponents of varying skill levels. There are three sessions per week. Feel free to use them as they are or modify them in any way that makes the material more approachable and manageable for you.
 
 This curriculum is specifically meant to be used by either athletes or coaches.
 

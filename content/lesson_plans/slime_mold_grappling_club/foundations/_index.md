@@ -4,9 +4,11 @@ title: Foundations
 weight: 2
 ---
 
-This is the first three weeks of our twelve week foundations curriculum. The first six weeks is focused on pinning, guard, and submissions.
+This is the first three weeks of our twelve week foundations curriculum. The first six weeks is focused on pinning and guard.
 
 Standing engagements will be introduced in the second half of the curriculum.
+
+One new submission will be covered in each week. 
 
 The full twelve week curriculum is designed to produce well rounded athletes who are capable of playing the entire game of submission grappling with opponents of varying skill levels. There are three sessions per week. Feel free to use them as they are or modify them in any way that makes the material more approachable and manageable for you.
 
@@ -23,11 +25,5 @@ Over the course of twelve weeks we will cover the following:
 * Twisting Arm Locks
 * Straight Leg Locks
 * Twisting Leg Locks
-
-For the first six weeks we will alternate between focusing on guarded and pinning situations. 
-
-Standing situations will be introduced in the second six weeks of the curriculum.
-
-One new submission will be covered in each week. 
 
 {{% children %}}

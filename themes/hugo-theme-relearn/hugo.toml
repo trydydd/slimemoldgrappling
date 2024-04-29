@@ -64,10 +64,3 @@ name = "<i class='fas fa-fw fa-envelope'></i> Contact Us"
 identifier = "contact"
 url = "mailto:social@slimemoldgrappling.com"
 weight = 4
-
-[[menu.shortcuts]]
-name = "<i class='fa-brands fa-discord'></i> Join the Discord"
-identifier = "contact"
-url = "https://discord.com"
-weight = 5
-

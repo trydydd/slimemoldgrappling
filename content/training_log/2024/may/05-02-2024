@@ -1,0 +1,31 @@
+---
+title: "05-02-2024"
+weight: 0
+---
+
+---
+
+{{% expand open=false title="**Game 1: Finishing**" %}}
+**This game should only be played for one round in each position for each player**
+{{% include_page_body "games/submissions/rear_naked_choke/finishing" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=false title="**Game 2: Maintaining Control**" %}}
+
+{{% include_page_body "games/submissions/rear_naked_choke/maintaining_the_finish" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=false title="**Game 3: Single Arm Choke**" %}}
+
+{{% include_page_body "games/submissions/rear_naked_choke/with_one_arm" %}}
+
+{{% /expand %}}
+
+---
+
+
+

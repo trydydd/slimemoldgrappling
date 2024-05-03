@@ -28,8 +28,6 @@ weight: 1
 
 **Interpersonal Coordination**: Adjusting one's movements in response to others.
 
-**Invariant**: An unchanging element within various movements or actions.
-
 **Motor Learning**: The process of acquiring and refining movement skills.
 
 **Nonlinear Pedagogy**: An instructional approach emphasizing exploration and variability in learning.

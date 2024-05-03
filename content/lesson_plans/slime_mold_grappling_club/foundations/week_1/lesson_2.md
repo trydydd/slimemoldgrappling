@@ -13,7 +13,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 
 {{% expand open=true title="**Game 1: Finishing**" %}}
-**This game should only be played for two one minute rounds**
+**This game should only be played for one round in each position per player**
 {{% include_page_body "games/submissions/rear_naked_choke/finishing" %}}
 
 {{% /expand %}}

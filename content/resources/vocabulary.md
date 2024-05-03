@@ -51,6 +51,3 @@ weight: 1
 **Task Constraints**: Specific goals, rules, or equipment that shape how a task is performed.
 
 **Variability of Practice**: Using different practice conditions to enhance learning over time.
-
-Book a private!
-{{< paypal >}}

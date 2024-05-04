@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Outcome Vs Process Goals
 weight: 0
-hidden: false
+hidden: true
 ---
 Consider this a taster of the content you can expect from us. We will be focusing on training tips, mindset, and the constraints-led approach. If you want something different then let us know about it!
 

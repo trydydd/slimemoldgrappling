@@ -1,7 +1,7 @@
 ---
 alwaysopen: false
-title: newsletters
-weight: 0
-hidden: true
+title: Blog
+weight: 1
+hidden: false
 ---
 {{% children %}}

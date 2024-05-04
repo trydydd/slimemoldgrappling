@@ -1,8 +1,8 @@
 ---
 alwaysopen: false
-title: Welcome To The Club!
+title: Outcome Vs Process Goals
 weight: 0
-hidden: true
+hidden: false
 ---
 Consider this a taster of the content you can expect from us. We will be focusing on training tips, mindset, and the constraints-led approach. If you want something different then let us know about it!
 
@@ -32,3 +32,9 @@ See you on the mats!
 \- Trey
 
 P.S. The irony of an ecological dynamics grappling club partnering with a mental models business is not lost on us!
+
+### Join the Mailing List
+
+If you would like content like this sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

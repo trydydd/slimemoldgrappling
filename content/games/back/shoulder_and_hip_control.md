@@ -7,7 +7,7 @@ tags:
 - back
 weight: 2
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
+**Attribution**: This game is based on an [Instagram reel](https://www.instagram.com/reel/Czj8QyPJTNx) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 
 

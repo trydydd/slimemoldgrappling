@@ -7,8 +7,7 @@ tags:
 - back
 weight: 3
 ---
-**Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com).
-
+**Attribution**: This game is based on an [Instagram reel](https://www.instagram.com/reel/Czj8QyPJTNx) posted by coach Greg Souders at [Standard Jiu-Jitsu](https://www.standardjiujitsu.com/).
 
 **Top Player**:
   * **Position**: Behind your partner with chest to back contact, a single leg wrapped around their torso with your foot covering their hip, one arm wrapped over their shoulder, the other arm wrapped under their armpit, and your hands connected.

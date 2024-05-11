@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<title>Links website</title>
+<style>
+
+body {
+    background-image: url("/images/background.png"); /* The image used for background*/
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image-container {
+  text-align: center;
+  width: 100%;
+}
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+  jusify-content: center;
+  align-items: center;
+}
+
+.link {
+  min-width: 50% !important;
+}
+
+@media (min-width: 1200px) .container {
+  max-width: 1140px;
+}
+@media (min-width: 992px) .container {
+  max-width: 960px;
+}
+@media (min-width: 768px) {
+.container {
+    max-width: 720px;
+  }
+
+.link {
+    width: 100%;
+  }
+}
+@media (min-width: 576px) {
+.container {
+    max-width: 540px;
+  }
+}
+
+.w3-purple, .w3-hover-purple:hover {
+color: #fff!important;
+background-color: #325002 !important;
+}
+</style>
+  </head>
+
+
+  <body class="w3-white">
+    <!-- Content container -->
+    <div class="container">
+
+    <!-- Links section 1. Replace the # inside of the "" with your links. -->
+    <div class="links-container">
+      <a href="https://slimemoldgrappling.com/resources/newsletter/index.html" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-envelope"> </i>Join The Newsletter</a>
+      <br>
+      <a href="https://slimemoldgrappling.com/blog/index.html" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-blog"> </i>Blog</a>
+      <br>
+      <a href="https://slimemoldgrappling.com/lesson_plans/slime_mold_grappling_club/foundations/index.html" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-medal"> </i>Foundations Program</a>
+      <a href="https://slimemoldgrappling.com/lesson_plans/slime_mold_grappling_club/foundations/index.html" class="w3-button w3-hover-pink w3-large w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-discord"> </i>Ecological Dynamics Discord</a>
+      <br>
+    </div>
+  </div>
+</div>
+  </body>  
+</html>

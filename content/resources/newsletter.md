@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Newsletter
 weight: 0
-hidden: true
+hidden: false
 ---
 
 {{< newsletter >}}

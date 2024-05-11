@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
-title: "Slime Mold Grappling Club"
+title: "SMGC"
 weight: 0
 hidden: true
 ---

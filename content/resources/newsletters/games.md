@@ -44,7 +44,7 @@ Different Experience Levels
 
 For novices this framework is effective because it allows them iterate on a problem while actively searching for solutions that they are not aware of. In this case the process is physical, and takes a lot of time. For more experienced athletes this process can sometimes be completed as a thought process without needing to physically explore the problem space. The ability to do this will come with time, and if you're struggling as a novice -- stick with it!
 
-##S An Alternative Method
+## An Alternative Method
 
 This straight forward method was created by the user Breanne on the Ecological Dynamics Discord server. That link is an invite. You should join!
 

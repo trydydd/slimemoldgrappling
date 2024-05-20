@@ -5,7 +5,7 @@ tags:
 - guillotine
 - slime mold original
 - untested
-weight: 2
+weight: 3
 ---
 
 **Top Player**:

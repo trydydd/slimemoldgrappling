@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Straight Ankle Lock**" %}}
+{{% expand open=true title="**Game 1: Finishing the Straight Ankle Lock**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Straight Ankle Lock**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/straight_ankle_lock/finishing" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Straight Ankle Lock**" %}}
+{{% expand open=true title="**Game 2: Maintaining Control**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Supine Open Guard**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/submissions/straight_ankle_lock/maintain_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Supine Open Guard**" %}}
+{{% expand open=true title="**Game 3: Capturing the Foot**" %}}
+
+{{% include_page_body "games/submissions/straight_ankle_lock/capture_the_foot" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Supine Open Guard Sweeping**" %}}
+
+{{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Basic Entanglements**" %}}
 
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% include_page_body "games/guard_games/supine_guard/open_guard/entanglements/maintain_connection" %}}
 
 {{% /expand %}}
 

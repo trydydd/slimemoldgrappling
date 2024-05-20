@@ -21,7 +21,7 @@ Standing is introduced at week 7.
 
 ### Week 4 - Guard
 - [x] Connected Guard vs Standing (x, slx, whatever)/Chest to Chest Pinning
-- [ ] Straight Ankle Locks/Chest to Back Pinning
+- [x] Straight Ankle Locks/Chest to Back Pinning
 - [x] Seated Guard/Straight Arm Locks
 
 ## Week 5 - Pinning

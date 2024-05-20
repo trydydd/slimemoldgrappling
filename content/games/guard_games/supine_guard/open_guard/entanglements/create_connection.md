@@ -16,7 +16,7 @@ weight: 3
 
 **Bottom Player**:
   * **Position**: Seated underneath your partner and connected to one of their legs. 
-  * **Objective**: Focus on upgrading your position so that your legs are connected to one or both of your partners legs.
+  * **Objective**: Focus on upgrading your position so that your legs are connected to one or both of your partners legs and hips in a way that makes them carry your weight and limits their movement.
   * **Constraints**: None
   * **Win Condition**: None
 

@@ -32,17 +32,17 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Supine Open Guard Sweeping**" %}}
+{{% expand open=true title="**Game 4: Chest to Back Submission Hunting**" %}}
 
-{{% include_page_body "games/guard_games/supine_guard/open_guard/open_guard_sweeping" %}}
+{{% include_page_body "games/back/submission_hunting" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Basic Entanglements**" %}}
+{{% expand open=true title="**Game 5: Keep Them Between Your Knees**" %}}
 
 
-{{% include_page_body "games/guard_games/supine_guard/open_guard/entanglements/maintain_connection" %}}
+{{% include_page_body "content/games/back/maintain_control" %}}
 
 {{% /expand %}}
 

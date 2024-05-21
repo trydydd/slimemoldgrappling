@@ -14,7 +14,7 @@ defaultContentLanguage = 'en'
     title = 'Hugo Relearn Theme'
     weight = 1
   [languages.fi]
-    languageName = 'English'
+    languageName = 'Finnish'
     title = 'Hugo Relearn Theme'
     weight = 2
 

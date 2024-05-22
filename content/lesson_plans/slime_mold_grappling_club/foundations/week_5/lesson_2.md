@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Underhooks**" %}}
 
 
-{{% include_page_body "content/games/guard_games/supine_guard/half_guard/single_underhook_control.md" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/single_underhook_control.md" %}}
 
 {{% /expand %}}
 

@@ -27,7 +27,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 3: Isolating the Neck**" %}}
 
-{{% include_page_body "content/games/pinning/isolate_the_neck" %}}
+{{% include_page_body "games/pinning/isolate_the_neck" %}}
 
 {{% /expand %}}
 
@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Transitioning to the Back**" %}}
 
 
-{{% include_page_body "content/games/guard_games/supine_guard/closed_guard/to_the_back" %}}
+{{% include_page_body "games/guard_games/supine_guard/closed_guard/to_the_back" %}}
 
 {{% /expand %}}
 

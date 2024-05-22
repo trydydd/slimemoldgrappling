@@ -26,7 +26,7 @@ Standing is introduced at week 7.
 
 ## Week 5 - Pinning
 - [x] Front Headlock/Supine Guard
-- [ ] Guillotine/Supine Guard (foot fight emphasis)
+- [x] Guillotine/Supine Guard (foot fight emphasis)
 - [ ] North South/Straight Ankle Locks
 
 ### Week 6 - Guard

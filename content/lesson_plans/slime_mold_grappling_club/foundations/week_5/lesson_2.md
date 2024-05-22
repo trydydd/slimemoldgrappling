@@ -11,23 +11,23 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Guillotine**" %}}
+{{% expand open=true title="**Game 1: Finishing the Guillotine**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Guillotine**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/submissions/guillotine/finishing" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Guillotine**" %}}
+{{% expand open=true title="**Game 2: Maintain Control**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
+{{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Control with One Arm**" %}}
+
+{{% include_page_body "games/submissions/guillotine/with_one_arm" %}}
 
 {{% /expand %}}
 

@@ -6,6 +6,18 @@
   [mediaTypes."text/javascript"]
     suffixes = ["js"]
 
+# defaultContentLanguage = 'en'
+
+#[languages]
+#  [languages.en]
+#    languageName = 'English'
+#    title = 'Hugo Relearn Theme'
+#    weight = 1
+#  [languages.fi]
+#    languageName = 'Finnish'
+#    title = 'Hugo Relearn Theme'
+#    weight = 2
+
 [outputFormats]
   [outputFormats.PRINT]
     name= "PRINT"

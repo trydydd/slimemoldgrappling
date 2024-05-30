@@ -4,7 +4,7 @@ title: "North South"
 tags: ""
 weight: 3
 alwaysopen: false 
-draft: True
+draft: false
 ---
 
 
@@ -12,38 +12,37 @@ draft: True
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: North South**" %}}
+{{% expand open=true title="**Game 1: Chest to Chest Pinning**" %}}
 
-{{% include_page_body "games/back/maintain_and_break_connection" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: North South**" %}}
-
-{{% include_page_body "games/back/shoulder_and_hip_control" %}}
+{{% include_page_body "games/north_south/maintain_the_pin" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: North South**" %}}
+{{% expand open=true title="**Game 2: Chest to Chest Pinning with Arms Out**" %}}
 
-{{% include_page_body "games/back/submission_hunting" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Seated Guard vs Standing**" %}}
-
-{{% include_page_body "games/submissions/triangle/causing_posts" %}}
+{{% include_page_body "games/north_south/maintain_arms_out_pin" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Seated Guard vs Standing**" %}}
+{{% expand open=true title="**Game 3: Transitioning**" %}}
 
+{{% include_page_body "games/north_south/use_connection" %}}
 
-{{% include_page_body "games/submissions/triangle/punishing_posts" %}}
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 2: Maintaining Control of the Leg**" %}}
+
+{{% include_page_body "games/submissions/straight_ankle_lock/maintain_control" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 3: Capturing the Foot**" %}}
+
+{{% include_page_body "games/submissions/straight_ankle_lock/capture_the_foot" %}}
 
 {{% /expand %}}
 

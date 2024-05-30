@@ -27,7 +27,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 3: Turtle and Front Headlock**" %}}
 
-{{% include_page_body "games/submissions/head_and_arm_strangle/capture_head_and_arm" %}}
+{{% include_page_body "games/pinning/front_headlock_to_back" %}}
 
 {{% /expand %}}
 

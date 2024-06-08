@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Leg Entanglements"
+title: "Engaged Guards"
 tags: ""
 weight: 1
 alwaysopen: false 

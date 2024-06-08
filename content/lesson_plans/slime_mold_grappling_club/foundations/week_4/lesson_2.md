@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Keep Them Between Your Knees**" %}}
 
 
-{{% include_page_body "content/games/back/maintain_control" %}}
+{{% include_page_body "games/back/maintain_control" %}}
 
 {{% /expand %}}
 

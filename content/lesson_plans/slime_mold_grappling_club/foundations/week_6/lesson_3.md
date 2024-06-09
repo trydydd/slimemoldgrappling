@@ -2,7 +2,7 @@
 archetype: "lesson_plan" 
 title: "Lesson 3"
 tags: ""
-weight: 0
+weight: 3
 alwaysopen: false 
 ---
 

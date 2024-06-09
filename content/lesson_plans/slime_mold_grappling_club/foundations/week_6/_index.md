@@ -2,9 +2,9 @@
 alwaysopen: false
 title: Week 6
 weight: 6
-draft: true
+draft: false
 ---
 
-The focuses for week two are guard and naked chokes.
+The focuses for week six0 are guard and arm in chokes.
 
 {{% children %}}

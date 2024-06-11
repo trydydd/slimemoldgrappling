@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 2"
+title: "Arm In Choke"
 tags: ""
 weight: 2
 alwaysopen: false 

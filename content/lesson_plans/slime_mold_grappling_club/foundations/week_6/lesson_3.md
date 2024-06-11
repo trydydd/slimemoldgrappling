@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 3"
+title: "Supine Guard"
 tags: ""
 weight: 3
 alwaysopen: false 

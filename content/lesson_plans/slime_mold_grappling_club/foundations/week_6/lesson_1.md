@@ -1,6 +1,6 @@
 --- 
 archetype: "lesson_plan" 
-title: "Lesson 1"
+title: "Half Guard"
 tags: ""
 weight: 1
 alwaysopen: false 

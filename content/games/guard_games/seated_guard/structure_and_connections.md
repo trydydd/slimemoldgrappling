@@ -20,3 +20,5 @@ weight: 1
   * **Objective**: Maintain seated open guard, keep your feet between your partner's knees, and your head/hands pointed at the top player. Make connections between the top player's elbows or make connection to the outside of top player's elbows.
   * **Constraints**: None 
   * **Win Condition**: None
+
+Reset if top player wins.

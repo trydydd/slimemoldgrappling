@@ -11,7 +11,7 @@ Standing is introduced at week 7.
 
 ### Week 2 - Guard
 - [x] Supine Guard/Chest to Back Pinning
-- [x] Twisting Armlocks
+- [x] Twisting Armlocks/Chest to Chest Pinning (side control)
 - [x] Supine Guard (closed guard)/Rear Naked Choke
 
 ### Week 3 - Pinning
@@ -26,40 +26,40 @@ Standing is introduced at week 7.
 
 ## Week 5 - Pinning
 - [x] Front Headlock/Supine Guard
-- [x] Guillotine/Supine Guard (foot fight emphasis)
+- [x] Guillotine/Supine Guard
 - [x] North South/Straight Ankle Locks
 
 ### Week 6 - Guard
 - [x] Half Guard/Front Headlock
-- [ ] Head and Arm/North South
+- [x] Head and Arm/North South
 - [x] Supine Guard/Guillotine
 
-### Week 7 - Standing
-- [ ] 
-- [ ]  
-- [ ]  
+### Week 7 - Pinning
+- [ ] Chest to Back/ Knee Shield Half Guard
+- [ ] Rear Naked Choke / Supine Guard
+- [ ] Knee on Belly/ Head and Arm
 
-### Week 8 - Pinning
-- [ ] 
-- [ ]  
-- [ ]  
+### Week 8 - Guard
+- [ ] Supine Guard (foot pummeling)/Chest to Back
+- [ ] Twisting Armlocks (symmetrical grip kimura)/Knee on Belly
+- [ ] Seated Guard/Rear Naked Choke
 
-### Week 9 - Guard 
-- [ ] 
-- [ ]  
-- [ ]  
+### Week 9 - Pinning 
+- [ ] Scarf Hold/Supine Guard
+- [ ] Guillotine/Seated Guard
+- [ ] Turtle/Twisting Armlocks
 
-### Week 10 - Standing
-- [ ] 
-- [ ]  
-- [ ]  
+### Week 10 - Guard
+- [ ] Engaged Guard/Scarf Hold
+- [ ] Heel Hooks/Chest To Back
+- [ ] Seated Guard/Guillotine
 
 ### Week 11 - Pinning
-- [ ] 
-- [ ]  
-- [ ]  
+- [ ] Front Headlock/Supine Guard
+- [ ] Straight Armlocks/Knee Shield Half Guard
+- [ ] North-South/Heel Hooks
 
 ### Week 12 - Guard
-- [ ] 
-- [ ]  
-- [ ]  
+- [ ] Half Guard/Front Headlock
+- [ ] Head and Arm/North-South
+- [ ] Supine Guard/Straight Armlocks

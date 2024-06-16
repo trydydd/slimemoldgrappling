@@ -5,6 +5,6 @@ weight: 6
 draft: false
 ---
 
-The focuses for week six0 are guard and arm in chokes.
+The focuses for week six are guard and arm in chokes.
 
 {{% children %}}

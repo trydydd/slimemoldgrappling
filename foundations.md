@@ -32,7 +32,7 @@ Standing is introduced at week 7.
 ### Week 6 - Guard
 - [x] Half Guard/Front Headlock
 - [x] Head and Arm/North South
-- [x] Supine Guard/Guillotine
+- [x] Seated Guard/Guillotine
 
 ### Week 7 - Pinning
 - [ ] Chest to Back/ Knee Shield Half Guard

@@ -3,33 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neon-Inspired Linktree Clone</title>
+    <title>Slime Mold Themed Linktree</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #000000;
+            background-color: #1a1a1a;
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+            color: #e0e0e0;
         }
 
         .container {
-            background-color: #111111;
+            background-color: #262626;
             border-radius: 10px;
             padding: 2rem;
-            box-shadow: 0 0 20px rgba(163, 255, 0, 0.3);
+            box-shadow: 0 0 20px rgba(102, 255, 102, 0.2);
             max-width: 400px;
             width: 90%;
         }
 
         h1 {
-            color: #a3ff00;
+            color: #66ff66;
             text-align: center;
             margin-bottom: 1.5rem;
-            text-shadow: 0 0 10px rgba(163, 255, 0, 0.7);
+            font-size: 2rem;
         }
 
         .link-list {
@@ -43,20 +44,22 @@
 
         .link-item a {
             display: block;
-            background-color: #222222;
-            color: #00ffcc;
+            background-color: #333333;
+            color: #e0e0e0;
             text-decoration: none;
             padding: 1rem;
             border-radius: 5px;
             text-align: center;
             transition: all 0.3s ease;
-            border: 1px solid #00ffcc;
+            border: 2px solid #66ff66;
+            font-size: 1.1rem;
         }
 
-        .link-item a:hover {
-            background-color: #00ffcc;
-            color: #000000;
-            box-shadow: 0 0 15px rgba(0, 255, 204, 0.7);
+        .link-item a:hover, .link-item a:focus {
+            background-color: #66ff66;
+            color: #1a1a1a;
+            box-shadow: 0 0 10px rgba(102, 255, 102, 0.5);
+            outline: none;
         }
 
         @media (max-width: 480px) {
@@ -65,18 +68,19 @@
             }
 
             h1 {
-                font-size: 1.5rem;
+                font-size: 1.75rem;
             }
 
             .link-item a {
                 padding: 0.8rem;
+                font-size: 1rem;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>My Linktree</h1>
+        <h1>Slime Mold Links</h1>
         <ul class="link-list">
             <li class="link-item">
                 <a href="https://slimemoldgrappling.com" target="_blank">Slime Mold Grappling</a>

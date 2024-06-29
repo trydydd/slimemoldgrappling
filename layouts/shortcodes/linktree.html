@@ -6,15 +6,17 @@
     <title>Professional Linktree</title>
     <style>
         :root {
-            --primary-color: #3a86ff;
-            --text-color: #333333;
-            --background-color: #f5f5f5;
-            --card-background: #ffffff;
+            --dark-green: #27302e;
+            --blue-gray: #2c4252;
+            --dark-blue: #2f3a57;
+            --light-green: #78b770;
+            --gold: #eecc5a;
+            --text-color: #ffffff;
         }
 
         body {
             font-family: 'Arial', sans-serif;
-            background-color: var(--background-color);
+            background-color: var(--dark-green);
             margin: 0;
             padding: 0;
             display: flex;
@@ -25,7 +27,7 @@
         }
 
         .container {
-            background-color: var(--card-background);
+            background-color: var(--blue-gray);
             border-radius: 12px;
             padding: 2.5rem;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -34,7 +36,7 @@
         }
 
         h1 {
-            color: var(--primary-color);
+            color: var(--gold);
             text-align: center;
             margin-bottom: 1.5rem;
             font-size: 1.8rem;
@@ -52,23 +54,23 @@
 
         .link-item a {
             display: block;
-            background-color: var(--card-background);
+            background-color: var(--dark-blue);
             color: var(--text-color);
             text-decoration: none;
             padding: 0.8rem 1rem;
             border-radius: 8px;
             text-align: center;
             transition: all 0.3s ease;
-            border: 1px solid #e0e0e0;
+            border: 1px solid var(--light-green);
             font-size: 1rem;
         }
 
         .link-item a:hover, .link-item a:focus {
-            background-color: var(--primary-color);
-            color: white;
-            border-color: var(--primary-color);
+            background-color: var(--light-green);
+            color: var(--dark-blue);
+            border-color: var(--gold);
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
 
         @media (max-width: 480px) {

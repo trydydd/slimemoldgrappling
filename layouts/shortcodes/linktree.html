@@ -3,44 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gym-Inspired Linktree Clone</title>
+    <title>Neon-Inspired Linktree Clone</title>
     <style>
-        body, html {
-            height: 100%;
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
             margin: 0;
             padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        body {
-            background-image: url('/images/background.png');
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
             display: flex;
             justify-content: center;
             align-items: center;
+            min-height: 100vh;
         }
 
         .container {
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: #111111;
             border-radius: 10px;
             padding: 2rem;
+            box-shadow: 0 0 20px rgba(163, 255, 0, 0.3);
             max-width: 400px;
             width: 90%;
-            box-sizing: border-box;
         }
 
         h1 {
-            color: #e6dfd1;
+            color: #a3ff00;
             text-align: center;
             margin-bottom: 1.5rem;
+            text-shadow: 0 0 10px rgba(163, 255, 0, 0.7);
         }
 
         .link-list {
             list-style-type: none;
             padding: 0;
-            margin: 0;
         }
 
         .link-item {
@@ -49,17 +43,20 @@
 
         .link-item a {
             display: block;
-            background-color: rgba(230, 223, 209, 0.2);
-            color: #e6dfd1;
+            background-color: #222222;
+            color: #00ffcc;
             text-decoration: none;
             padding: 1rem;
             border-radius: 5px;
             text-align: center;
-            transition: background-color 0.3s ease;
+            transition: all 0.3s ease;
+            border: 1px solid #00ffcc;
         }
 
         .link-item a:hover {
-            background-color: rgba(230, 223, 209, 0.4);
+            background-color: #00ffcc;
+            color: #000000;
+            box-shadow: 0 0 15px rgba(0, 255, 204, 0.7);
         }
 
         @media (max-width: 480px) {
@@ -79,6 +76,7 @@
 </head>
 <body>
     <div class="container">
+        <h1>My Linktree</h1>
         <ul class="link-list">
             <li class="link-item">
                 <a href="https://slimemoldgrappling.com" target="_blank">Slime Mold Grappling</a>

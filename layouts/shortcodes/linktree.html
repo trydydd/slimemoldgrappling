@@ -3,105 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Linktree</title>
+    <title>Linktree Clone</title>
     <style>
-        :root {
-            --dark-green: #27302e;
-            --blue-gray: #2c4252;
-            --dark-blue: #2f3a57;
-            --light-green: #78b770;
-            --gold: #eecc5a;
-            --text-color: #ffffff;
-        }
-
         body {
-            font-family: 'Arial', sans-serif;
-            background-color: var(--dark-green);
             margin: 0;
-            padding: 0;
+            font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh;
-            color: var(--text-color);
+            height: 100vh;
+            background-color: #f5f5f5;
         }
 
         .container {
-            background-color: var(--blue-gray);
-            border-radius: 12px;
-            padding: 2.5rem;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            max-width: 400px;
-            width: 90%;
-        }
-
-        h1 {
-            color: var(--gold);
             text-align: center;
-            margin-bottom: 1.5rem;
-            font-size: 1.8rem;
-            font-weight: 600;
-        }
-
-        .link-list {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        .link-item {
-            margin-bottom: 1rem;
-        }
-
-        .link-item a {
-            display: block;
-            background-color: var(--dark-blue);
-            color: var(--text-color);
-            text-decoration: none;
-            padding: 0.8rem 1rem;
+            background: white;
+            padding: 20px;
             border-radius: 8px;
-            text-align: center;
-            transition: all 0.3s ease;
-            border: 1px solid var(--light-green);
-            font-size: 1rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
-        .link-item a:hover, .link-item a:focus {
-            background-color: var(--light-green);
-            color: var(--dark-blue);
-            border-color: var(--gold);
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        .profile img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
         }
 
-        @media (max-width: 480px) {
-            .container {
-                padding: 2rem;
-            }
+        .profile h1 {
+            margin: 10px 0;
+            font-size: 24px;
+        }
 
-            h1 {
-                font-size: 1.6rem;
-            }
+        .links a {
+            display: block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
 
-            .link-item a {
-                padding: 0.7rem;
-            }
+        .links a:hover {
+            background-color: #555;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Your Name</h1>
-        <ul class="link-list">
-            <li class="link-item">
-                <a href="https://slimemoldgrappling.com" target="_blank">Slime Mold Grappling</a>
-            </li>
-            <li class="link-item">
-                <a href="https://hayabusa.com" target="_blank">Hayabusa Storefront</a>
-            </li>
-            <li class="link-item">
-                <a href="https://myblog.com" target="_blank">My Blog</a>
-            </li>
-        </ul>
+        <div class="profile">
+            <img src="your-profile-image.jpg" alt="Profile Picture">
+            <h1>Your Name</h1>
+        </div>
+        <div class="links">
+            <a href="https://link1.com" target="_blank">Link 1</a>
+            <a href="https://link2.com" target="_blank">Link 2</a>
+            <a href="https://link3.com" target="_blank">Link 3</a>
+            <a href="https://link4.com" target="_blank">Link 4</a>
+        </div>
     </div>
 </body>
 </html>

@@ -1,87 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<title>Links website</title>
-<style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earth Tone Linktree Clone</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6dfd1;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
 
-body {
-    background-image: url("/images/background.png"); /* The image used for background*/
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-position: center; /* Center the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-}
+        .container {
+            background-color: #f5efe5;
+            border-radius: 10px;
+            padding: 2rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 90%;
+        }
 
-.container {
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
+        h1 {
+            color: #5c4033;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
 
-.image-container {
-  text-align: center;
-  width: 100%;
-}
+        .link-list {
+            list-style-type: none;
+            padding: 0;
+        }
 
-.links-container {
-  display: flex;
-  flex-direction: column;
-  jusify-content: center;
-  align-items: center;
-}
+        .link-item {
+            margin-bottom: 1rem;
+        }
 
-.link {
-  min-width: 20% !important;
-}
+        .link-item a {
+            display: block;
+            background-color: #8b7355;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 1rem;
+            border-radius: 5px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
 
-@media (min-width: 1200px) .container {
-  max-width: 1140px;
-}
-@media (min-width: 992px) .container {
-  max-width: 960px;
-}
-@media (min-width: 768px) {
-.container {
-    max-width: 720px;
-  }
+        .link-item a:hover {
+            background-color: #6f5b3e;
+        }
 
-.link {
-    width: 100%;
-  }
-}
-@media (min-width: 576px) {
-.container {
-    max-width: 540px;
-  }
-}
+        @media (max-width: 480px) {
+            .container {
+                padding: 1.5rem;
+            }
 
-.w3-purple, .w3-hover-purple:hover {
-color: #fff!important;
-background-color: #325002 !important;
-}
-</style>
-  </head>
+            h1 {
+                font-size: 1.5rem;
+            }
 
-
-  <body class="w3-white">
-    <!-- Content container -->
+            .link-item a {
+                padding: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
     <div class="container">
-
-    <!-- Links section 1. Replace the # inside of the "" with your links. -->
-    <div class="links-container">
-      <a href="https://slimemoldgrappling.com/resources/newsletter/index.html" class="w3-button w3-hover-pink w3-small w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-envelope"> </i>Join The Newsletter</a>
-      <br>
-      <a href="https://slimemoldgrappling.com/blog/index.html" class="w3-button w3-hover-pink w3-small w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-blog"> </i>Blog</a>
-      <br>
-      <a href="https://slimemoldgrappling.com/lesson_plans/slime_mold_grappling_club/foundations/index.html" class="w3-button w3-hover-pink w3-small w3-round w3-purple w3-border link" target="_blank"><i class="fa fa-medal"> </i>Foundations Program</a>
-      <a href="https://slimemoldgrappling.com/lesson_plans/slime_mold_grappling_club/foundations/index.html" class="w3-button w3-hover-pink w3-small w3-round w3-purple w3-border link" target="_blank"><i class="fab fa-discord"> </i>Ecological Dynamics Discord</a>
-      <br>
+        <h1>My Linktree</h1>
+        <ul class="link-list">
+            <li class="link-item">
+                <a href="https://slimemoldgrappling.com" target="_blank">Slime Mold Grappling</a>
+            </li>
+            <li class="link-item">
+                <a href="https://hayabusa.com" target="_blank">Hayabusa Storefront</a>
+            </li>
+            <li class="link-item">
+                <a href="https://myblog.com" target="_blank">My Blog</a>
+            </li>
+        </ul>
     </div>
-  </div>
-</div>
-  </body>  
+</body>
 </html>

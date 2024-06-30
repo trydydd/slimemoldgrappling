@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
-title: "Slime Mold Grappling"
+title: ""
 weight: 0
 hidden: false
 disableNextPrev: true

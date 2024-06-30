@@ -1,12 +1,11 @@
 ---
 alwaysopen: false
-title: "SMGC"
+title: "Slime Mold Grappling"
 weight: 0
 hidden: false
 disableNextPrev: true
 collapsibleMenu: false
-disableToc = true
-
+disableToc: true
 ---
 
 {{< linktree >}}

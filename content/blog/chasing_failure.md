@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Chasing Failure
 weight: 3
-hidden: true
+hidden: false
 ---
 How embracing setbacks can fuel your progress. 
 

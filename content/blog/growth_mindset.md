@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Growth Mindset
 weight: 5
-hidden: true
+hidden: false
 ---
 This is the third and final newsletter in our goal setting series. I'm a sucker for a trilogy!
 

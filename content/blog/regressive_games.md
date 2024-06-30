@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Regressive Games
 weight: 6
-hidden: true
+hidden: false
 ---
 ## Learning By Working Backwards
 

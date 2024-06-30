@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Power of Play
 weight: 7
-hidden: true
+hidden: false
 ---
 When working to pick up a new skill, it's easy to get caught up in the seriousness of training and coaching -- especially in combat sports. We often focus on training outcomes and feeling like we left it all on the mats. This means that one critical aspect of effective learning is often neglected: having fun.
 

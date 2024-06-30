@@ -2,7 +2,7 @@
 alwaysopen: false
 title: Creating Games
 weight: 4
-hidden: true
+hidden: false
 ---
 A subscriber reached out and asked for a way to work through creating games. We are interrupting our series on goal setting to answer this question, but we'll get back to that next week.
 

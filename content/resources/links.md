@@ -2,10 +2,11 @@
 alwaysopen: false
 title: ""
 weight: 0
-hidden: false
+hidden: true
 disableNextPrev: true
 collapsibleMenu: false
 disableToc: true
+type: linktree
 ---
 
 {{< linktree >}}

@@ -2,7 +2,7 @@
 alwaysopen: false
 title: 'Embracing "Bad" Habits'
 weight: 9
-hidden: true
+hidden: false
 ---
 As athletes and coaches, we're often working to eliminate "bad habits". However, those "bad habits" can be powerful learning tools when used strategically. Let's take a look at how we can couple these with my favorite environment design principle from the constraints-led approach: constrain to afford.
 

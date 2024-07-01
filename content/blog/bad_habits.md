@@ -43,4 +43,8 @@ No matter how they train athletes make mistakes, and we should be as prepared as
 
 So, the next time you're on the mats, don't be afraid to embrace "bad habits" – they might just one way to accelerate your growth!
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like to receive content focused on training effectiveness, the constraints-led approach, and ecological dynamics sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

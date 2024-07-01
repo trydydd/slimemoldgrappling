@@ -44,4 +44,8 @@ To be blunt, good sleep is a natural performance enhancer that improves recovery
 
 Remember, the mats are where you practice, but your bed is where you grow. Make sure to prioritize your time off the mats in ways that will maximize the gains you see from your time on them. The next time you're tempted to skip some sleep for an extra training session or that new Netflix series, remember: sometimes, the most beneficial thing you can do is lie down and close your eyes.
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like content like this sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

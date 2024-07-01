@@ -16,17 +16,17 @@ With that, let's dive into the framework.
 
 ## SMGC Games Framework
 
-1. Observation: Identifying the Problem. What negative situation are you failing to escape/prevent or what desirable outcome are you unable to reach?
+1. **Observation**: Identifying the Problem. What negative situation are you failing to escape/prevent or what desirable outcome are you unable to reach?
 
-2. Question: Understanding the Cause. What is my opponent doing to cause that?
+2. **Question**: Understanding the Cause. What is my opponent doing to cause that?
 
-3. Hypothesis: Create a Solution. If I prevent my opponent from doing what is in the answer to the question above, then I should be able to achieve my goal.
+3. **Hypothesis**: Create a Solution. If I prevent my opponent from doing what is in the answer to the question above, then I should be able to achieve my goal.
 
-4. Experiment: Testing Your Solution. Put yourself into a situation with your partner, and test your hypothesis.
+4. **Experiment**: Testing Your Solution. Put yourself into a situation with your partner, and test your hypothesis.
 
-5. Analyze: Evaluate Results. Were you able to perform or prevent the actions specified in your hypothesis? If yes, were you also able to reach your desired outcome?
+5. **Analyze**: Evaluate Results. Were you able to perform or prevent the actions specified in your hypothesis? If yes, were you also able to reach your desired outcome?
 
-6. Repeat: Solving the Next Problem. If the answer to either of those questions is no: repeat the process. The information in the "Review Outcomes" step becomes your Observation.
+6. **Repeat**: Solving the Next Problem. If the answer to either of those questions is no: repeat the process. The information in the "Review Outcomes" step becomes your Observation.
 
 ### The Example
 
@@ -52,10 +52,10 @@ This straight forward method was created by the user Breanne on the Ecological D
 
 4-Part Problem Solving Framework for Self-Directed Learners
 
-    1. What's the situation you're struggling with?
-    2. What exactly is the problem you're having? What are you unable to prevent and/or what are you not able to make them do?
-    3. What impact would solving that problem (#2) help you in that situation (#1)?
-    4. What is the opponent do that is preventing you from doing what you want to?
+1. What's the situation you're struggling with?
+2. What exactly is the problem you're having? What are you unable to prevent and/or what are you not able to make them do?
+3. What impact would solving that problem (#2) help you in that situation (#1)?
+4. What is the opponent do that is preventing you from doing what you want to?
 
 ### Game Framework
 
@@ -63,10 +63,10 @@ In this game, we're going to start in **(situation #1)***. Player A, your job is
 
 ### Example
 
-    Situation is I'm in bottom mount
-    Problem is my frames keep getting collapsed
-    When my frames get collapsed, they are able to move their hips up my torso
-    My frames are getting collapsed because they keep pinning my arms
+Situation is I'm in bottom mount
+Problem is my frames keep getting collapsed
+When my frames get collapsed, they are able to move their hips up my torso
+My frames are getting collapsed because they keep pinning my arms
 
 ### Resulting Game
 
@@ -78,4 +78,8 @@ Click the link below to watch coach Greg Souders work through his method of buil
 
 [Game Design With Greg Souders](https://youtu.be/Tz11q_hZ4JU?si=7kSg9lgEFAQPRMAg)
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like to receive content focused on training effectiveness, the constraints-led approach, and ecological dynamics sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

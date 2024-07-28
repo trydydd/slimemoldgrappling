@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
-title: June
-weight: 6
+title: July
+weight: 7
 ---
 {{% children %}}

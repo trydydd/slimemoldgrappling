@@ -13,7 +13,7 @@ Not only can they perform complex tasks like solving mazes to find food, but the
 
 Don't be like water -- be like slime mold.
 
-### Join the Mailing List
+## Join the Mailing List
 
 If you would like to receive content focused on training effectiveness, the constraints-led approach, and ecological dynamics sent to your inbox weekly with one discount from our partners per month sign up below!
 

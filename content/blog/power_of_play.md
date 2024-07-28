@@ -31,4 +31,8 @@ Click the link below to check out Power of Play by the folks over at [Emergence]
 
 [Power of Play](https://emergentmvmt.com/power-of-play/)
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like to receive content focused on training effectiveness, the constraints-led approach, and ecological dynamics sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}})

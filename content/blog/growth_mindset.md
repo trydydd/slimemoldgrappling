@@ -38,10 +38,6 @@ Remember that progress, much like learning, is rarely linear. By cultivating a g
 
 So, the next time you step onto the mats to train, approach each roll, each tap, and each challenge with a mindset of growth, and watch as your skills grow.
 
-## Your Thoughts?
-
-As always, we'd love to hear your thoughts. If there are topics that you would like to see covered or vendors you would like for us to partner with let us know by replying to this email!
-
 See you on the mats!
 
 - Trey
@@ -50,4 +46,8 @@ P.S. Our partner for the month is Kit Dale. Head over to his site by clicking th
 
 [Kit Dale's Task Based Games](https://www.kitdaletraining.com/p/task-based-games)
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like to receive content focused on training effectiveness, the constraints-led approach, and ecological dynamics sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

@@ -35,4 +35,8 @@ Click the link below to check out Kabir's four game design frameworks and take y
 
 [Kabir's Game Design Frameworks](https://www.youtube.com/watch?v=kdDFMDFPiVA)
 
-If you have questions, suggestions, or content that you would like to see covered send us an [email](mailto:social@slimemoldgrappling.com)
+## Join the Mailing List
+
+If you would like content like this sent to your inbox weekly with one discount from our partners per month sign up below!
+
+{{< newsletter >}}

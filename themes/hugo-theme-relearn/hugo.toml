@@ -59,11 +59,11 @@
 #identifier = "research"
 #url = "https://perceptionaction.com/comparative/"
 #weight = 1
-
+#
 [[menu.shortcuts]]
 name = "<i class='fab fa-paypal'></i> Donate"
 identifier = "paypal"
-url = "https://www.paypal.com/ncp/payment/KBL2DCW7KS546"
+url = "resources/donate"
 weight = 2
 
 
@@ -76,7 +76,7 @@ weight = 3
 [[menu.shortcuts]]
 name = "<i class='fab fa-instagram'></i> Instagram"
 identifier = "instagram"
-url = "mailto:social@slimemoldgrappling.com"
+url = "https://www.instagram.com/slimemoldgrappling/"
 weight = 4
 
 [[menu.shortcuts]]

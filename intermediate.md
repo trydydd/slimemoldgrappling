@@ -8,7 +8,7 @@
 **Guard**
   - A/B options for guard.
   - A/B options for sweeps from **both** guards.
-  - A/B options for passing open guard.
+  - A/B options for passing guard.
   - Ability to prevent opponent from passing your guard (retention).
 
 **Pinning**

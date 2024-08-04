@@ -7,7 +7,7 @@
 
 **Guard**
   - A/B options for guard.
-  - A/B options for sweeps from both guards.
+  - A/B options for sweeps from **both** guards.
   - A/B options for passing open guard.
   - Ability to prevent opponent from passing your guard (retention).
 

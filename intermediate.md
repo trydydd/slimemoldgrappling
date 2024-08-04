@@ -3,7 +3,7 @@
 **Standing**
   - A/B options for standing engagement.
     - A maximum of one guard pull is allowed.
-  - Defend single leg, double leg, and foot sweeps.
+  - Defend single leg, double leg, and mat returns.
 
 **Guard**
   - A/B options for guard.

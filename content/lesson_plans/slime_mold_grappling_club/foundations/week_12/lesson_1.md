@@ -11,35 +11,35 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Half Guard**" %}}
+{{% expand open=true title="**Game 1: Standing Game 1**" %}}
 
 {{% include_page_body "games/guard_games/supine_guard/half_guard/underhook_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Half Guard**" %}}
+{{% expand open=true title="**Game 2: Half Guard Game 1**" %}}
 
 {{% include_page_body "games/guard_games/supine_guard/half_guard/single_underhook_control" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Half Guard**" %}}
+{{% expand open=true title="**Game 3: Half Guard Game 2**" %}}
 
 {{% include_page_body "games/guard_games/supine_guard/half_guard/hip_access" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Side Control**" %}}
+{{% expand open=true title="**Game 4: Guard Game 3**" %}}
 
 {{% include_page_body "games/side_control/maintain_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Side Control**" %}}
+{{% expand open=true title="**Game 5: Front Headlock Game 1**" %}}
 
 
 {{% include_page_body "games/side_control/submission_hunting" %}}

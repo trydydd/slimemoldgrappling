@@ -1,10 +1,10 @@
 ---
 alwaysopen: false
-title: Week 7
-weight: 0
+title: Week 11
+weight: 11
 draft: true
 ---
 
-The focuses for week ______ are ______.
+The focuses for week 11 are pinning and straight armlocks.
 
 {{% children %}}

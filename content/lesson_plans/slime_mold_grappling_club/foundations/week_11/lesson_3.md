@@ -11,35 +11,35 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Controlling a Leg**" %}}
+{{% expand open=true title="**Game 1: Standing Game 1**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Seated Guard and Destabilization**" %}}
+{{% expand open=true title="**Game 2: North-South Game 1**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/control_the_leg" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Seated Guard and Leg Entanglements**" %}}
+{{% expand open=true title="**Game 3: North-South Game 2**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/destabilization" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Guillotine**" %}}
+{{% expand open=true title="**Game 4: North-South Game 3**" %}}
 
 {{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Guillotine**" %}}
+{{% expand open=true title="**Game 5: Heel Hooks Game 1**" %}}
 
 
 {{% include_page_body "games/submissions/guillotine/with_one_arm" %}}

@@ -1,10 +1,10 @@
 ---
 alwaysopen: false
-title: Week 7
-weight: 0
+title: Week 12
+weight: 12
 draft: true
 ---
 
-The focuses for week ______ are ______.
+The focuses for week 12 are guard and arm in chokes.
 
 {{% children %}}

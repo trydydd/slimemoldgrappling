@@ -6,8 +6,6 @@ weight: 1
 alwaysopen: false 
 ---
 
-
-
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---

@@ -11,35 +11,35 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Stabilize the Front Headlock**" %}}
+{{% expand open=true title="**Game 1: Standing Game 1**" %}}
 
 {{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Capture the Head and Arm**" %}}
+{{% expand open=true title="**Game 2: Head and Arm Game 1**" %}}
 
 {{% include_page_body "games/submissions/head_and_arm_strangle/capture_head_and_arm" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Finish the Strangle**" %}}
+{{% expand open=true title="**Game 3: Head and Arm Game  2**" %}}
 
 {{% include_page_body "games/submissions/head_and_arm_strangle/finishing" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Chest to Chest Transitions**" %}}
+{{% expand open=true title="**Game 4: Head and Arm Game 3**" %}}
 
 {{% include_page_body "games/north_south/use_connection" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Chest to Chest Pinning (North-South)**" %}}
+{{% expand open=true title="**Game 5: North-South Game 1**" %}}
 
 
 {{% include_page_body "games/north_south/maintain_the_pin" %}}

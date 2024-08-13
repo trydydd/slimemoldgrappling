@@ -1,4 +1,5 @@
 V. 2.0
+
 Initiate:
 * A/B standing attacks (incl. one guard pull)
 * Defend against 2 chained sweep/takedown attempts

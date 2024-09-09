@@ -4,6 +4,7 @@ title: "Knee on Belly"
 tags: ""
 weight: 3
 alwaysopen: false 
+draft: false
 ---
 
 
@@ -11,38 +12,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Standing Game 1**" %}}
+{{% expand open=true title="**Game 1: Knee Tag**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Knee on Belly Game 1**" %}}
-
-{{% include_page_body "games/guard_games/seated_guard/control_the_leg" %}}
+{{% include_page_body "games/take_downs/knee_tag" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Knee on Belly Game 2**" %}}
+{{% expand open=true title="**Game 2: No Hands Knee on Belly**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/destabilization" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Knee on Belly Game 3**" %}}
-
-{{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
+{{% include_page_body "games/knee_on_belly/no_hands" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Head and Arm Strangle Game 1**" %}}
+{{% expand open=true title="**Game 3: Maintain Knee on Belly**" %}}
+
+{{% include_page_body "games/knee_on_belly/maintain_position" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Knee on Belly Attacks**" %}}
+
+{{% include_page_body "games/knee_on_belly/kob_attacks" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Darce Knee on Belly**" %}}
 
 
-{{% include_page_body "games/submissions/guillotine/with_one_arm" %}}
+{{% include_page_body "games/submissions/darce/maintain" %}}
 
 {{% /expand %}}
 

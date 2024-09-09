@@ -35,8 +35,8 @@ Standing is introduced at week 7.
 - [x] Seated Guard/Guillotine
 
 ### Week 7 - Pinning
-- [ ] Chest to Back/ Knee Shield Half Guard
-- [ ] Rear Naked Choke / Supine Guard
+- [x] Chest to Back/ Knee Shield Half Guard
+- [x] Rear Naked Choke / Seated Guard
 - [ ] Knee on Belly/ Head and Arm
 
 ### Week 8 - Guard

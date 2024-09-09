@@ -13,7 +13,7 @@ weight: 2
 **Attacking Player**:
   * **Position**: One of your partner's legs is held with your hands and arms between your legs.
   * **Objective**: Stay connected to the single leg and single leg situation. Move your partner around. Move the single leg to different parts of your body, and attempt to take your partner down to their hips or hands.
-  * **Constraints**: No takedowns.
+  * **Constraints**: N/A
   * **Win Condition**: Taking partner down to their hips or hands.
 
 **Defending Player**:

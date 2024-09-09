@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "Basic Darce"
+title: "Maintain Control"
 tags: 
 - darce
 - slime mold original

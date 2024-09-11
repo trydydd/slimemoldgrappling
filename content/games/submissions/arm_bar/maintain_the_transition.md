@@ -10,7 +10,7 @@ weight: 4
 
 **Attribution**: This game was originally created by coach Greg Souders at [Standard Jiu-Jitsu](https://standardjiujitsu.com). You can find the [original video](https://www.youtube.com/watch?v=n2kfNdH6oo4) on their YouTube Channel.
 
-  ![Start in S Mount](/images/standard_arm_bar.png)
+  ![Start in S Mount](/images/standard_arm_bar.webp)
 
 **Top Player**:
   * **Position**: Start in the position pictured above.

@@ -7,7 +7,7 @@ tags:
 weight: 2
 draft: false
 ---
-![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/ashi_garami.png?lightbox=True)
+![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/ashi_garami.webp?lightbox=True)
 
 **Attacking Player**:
   * **Position**: Seated with your partner in ashi garami with an overhook/wrap on your opponent's captured leg.

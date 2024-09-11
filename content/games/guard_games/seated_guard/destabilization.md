@@ -11,7 +11,7 @@ weight: 6
 
 **Attacking Player**:
   * **Position**: Standing in front of your partner with one of their ankles or shins connected to one of your legs and one hand connected to your legs.
-  * **Objective**: Bring your partner's shoulders to the mat.
+  * **Objective**: Flatten your partner to the mat.
   * **Constraints**: None
   * **Win Condition**: Create chest to chest or chest to back contact.
 

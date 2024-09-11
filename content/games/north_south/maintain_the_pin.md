@@ -6,7 +6,7 @@ tags:
 - slime mold original
 weight: 0
 ---
-![Two grapplers in the north south position. Top player is pinning the bottom player chest to chest with their heads near one another's belly buttons.](/images/north_south.jpg?lightbox=True)
+![Two grapplers in the north south position. Top player is pinning the bottom player chest to chest with their heads near one another's belly buttons.](/images/north_south.webp?lightbox=True)
 
 **Top Player**:
   * **Position**: On top of your partner with chest to chest contact with your elbows in their armpits and their head near your belly button. 

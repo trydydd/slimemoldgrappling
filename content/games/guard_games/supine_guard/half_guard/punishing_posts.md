@@ -4,7 +4,7 @@ tags:
 - half guard
 - knee shield
 - untested
-title: Maintaining The Knee Shield
+title: Punishing Posts
 weight: 4
 ---
 ![One person on their side on the ground with another person attempting to progress past their legs. Bottom player is blocking top player's progress using their top knee, arms, and hands.](/images/knee-shield-half.webp?lightbox=True)
@@ -17,6 +17,6 @@ weight: 4
 
 **Bottom Player**:
   * **Position**: On one side with your bottom leg inside your partner's knees, your top knee should be touching their upperbody, and your hands/arms should be touching their body in any configuration you'd like.
-  * **Objective**: Keep your top knee between you and your partner. Do not allow them to remove it.
+  * **Objective**: Force your partner's hands to touch the mat, and then punish the post by connecting your hips to their shoulderline or establishing a two-on-one grip.
   * **Constraints**: None
-  * **Win Condition**: None
+  * **Win Condition**: Hips are connected to your partner's shoulders or a two on one grip has been established.

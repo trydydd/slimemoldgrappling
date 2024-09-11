@@ -7,7 +7,7 @@ tags:
 weight: 1
 draft: false
 ---
-![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/ashi_garami.png?lightbox=True)
+![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/ashi_garami.webp?lightbox=True)
 
 Before playing this game watch [this video](content/games/submissions/straight_ankle_lock/maintain_control.md) to get an idea of how to finish a straight ankle lock if you are unsure.
 

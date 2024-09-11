@@ -10,7 +10,7 @@ weight: 3
 
 **Attacking Player**:
   * **Position**: Standing with one arm connected to your partner's torso inside their arm (underhook) with your other arm free.
-  * **Objective**: Maintain your underhook and create hip to hip contact and lift your partner's feet off of the ground.
+  * **Objective**: Create hip to hip contact and lift your partner's feet off of the ground.
   * **Constraints**: No takedowns. Only elevate your partner.
   * **Win Condition**: Your partner is disconnected from the ground.
 

@@ -37,12 +37,12 @@ Standing is introduced at week 7.
 ### Week 7 - Pinning
 - [x] Chest to Back/ Knee Shield Half Guard
 - [x] Rear Naked Choke / Seated Guard
-- [ ] Knee on Belly/ Head and Arm
+- [x] Knee on Belly/ Head and Arm
 
 ### Week 8 - Guard
-- [ ] Supine Guard (foot pummeling)/Chest to Back
-- [ ] Twisting Armlocks (symmetrical grip kimura)/Knee on Belly
-- [ ] Seated Guard/Rear Naked Choke
+- [x] Supine Guard (foot pummeling)/Chest to Back
+- [x] Twisting Armlocks (symmetrical grip kimura)/Knee on Belly
+- [x] Seated Guard/Rear Naked Choke
 
 ### Week 9 - Pinning 
 - [ ] Scarf Hold/Supine Guard

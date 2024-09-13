@@ -11,7 +11,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 1: Standing Game 1**" %}}
 
-{{% include_page_body "games/take_downs/hip_throw/under_the_elbow" %}}
+{{% include_page_body "games/take_downs/hip_throw/under_the_elbows" %}}
 
 {{% /expand %}}
 

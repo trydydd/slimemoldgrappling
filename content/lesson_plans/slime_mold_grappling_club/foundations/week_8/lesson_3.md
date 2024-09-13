@@ -11,7 +11,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 1: Hip Connection and Elevation**" %}}
 
-{{% include_page_body "games/take_downs/hip_throw/hip_to_hip_and_elevates" %}}
+{{% include_page_body "games/take_downs/hip_throw/hip_to_hip_and_elevate" %}}
 
 {{% /expand %}}
 

@@ -61,9 +61,9 @@
 #weight = 1
 #
 [[menu.shortcuts]]
-name = "<i class='fab fa-paypal'></i> Donate"
+name = "<i class='fas fa-dollar-sign'></i> Support Us"
 identifier = "paypal"
-url = "resources/donate"
+url = "https://ko-fi.com/slimemoldgrapplingclub"
 weight = 2
 
 

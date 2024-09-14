@@ -1,9 +1,9 @@
 ---
 archetype: "game"
-title: "Newgame3"
+title: "Kimura Bottom Half"
 tags: 
-- tag 1
-- tag 2
+- slime mold original
+- untested
 weight: 0
 ---
 

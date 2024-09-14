@@ -4,7 +4,7 @@ title: Foundations
 weight: 2
 ---
 
-This is the first six weeks of our twelve week foundations curriculum focused on pinning and guard.
+This is the first eight weeks of our twelve week foundations curriculum focused on pinning and guard.
 
 Standing engagements will be introduced in the second half of the curriculum.
 

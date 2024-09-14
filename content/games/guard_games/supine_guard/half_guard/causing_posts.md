@@ -4,8 +4,8 @@ tags:
 - half guard
 - knee shield
 - untested
-title: Maintaining The Knee Shield
-weight: 4
+title: Causing Posts
+weight: 6
 ---
 ![One person on their side on the ground with another person attempting to progress past their legs. Bottom player is blocking top player's progress using their top knee, arms, and hands.](/images/knee-shield-half.webp?lightbox=True)
 
@@ -17,6 +17,6 @@ weight: 4
 
 **Bottom Player**:
   * **Position**: On one side with your bottom leg inside your partner's knees, your top knee should be touching their upperbody, and your hands/arms should be touching their body in any configuration you'd like.
-  * **Objective**: Keep your top knee between you and your partner. Do not allow them to remove it.
+  * **Objective**: Force your partner's hands to the mat as many times as possible.
   * **Constraints**: None
-  * **Win Condition**: None
+  * **Win Condition**: If you get your partner's hands to the mat hold them there for as long as possible.

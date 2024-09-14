@@ -10,7 +10,7 @@ weight: 2
 
 * [The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis?ref=nav_sb_ss_1_24): “The Inner Game” is the one played within the mind of the player, against the hurdles of self-doubt, nervousness, and lapses in concentration. Gallwey shows us how to overcome these obstacles by trusting the intuitive wisdom of our bodies and achieving a state of “relaxed concentration.” With chapters devoted to trusting the self and changing habits, it is no surprise then, that Gallwey’s method has had an impact far beyond the confines of the tennis court.
 
-## Ecological Dynamics & The Constraints-led Appraoch
+## Ecological Dynamics & The Constraints-led Approach
 The first two books that anyone interested in this aproach to skill acquisition should read are Rob Gray's works on the subject. Gray does an excellent job of distilling the information into a form that is approachable for most people. 
 
 * [How We Learn to Move: A Revolution in the Way We Coach & Practice Sports Skills](https://www.goodreads.com/en/book/show/59507312): How We Learn to Move enhances sports coaching and skill acquisition, advocating for a constraints-led, exploratory, and self-organizing approach to training, moving beyond traditional methods to enhance skill development, injury prevention, and performance.

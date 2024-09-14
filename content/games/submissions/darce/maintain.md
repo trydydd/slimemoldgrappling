@@ -6,7 +6,7 @@ tags:
 - slime mold original
 weight: 0
 ---
-![Two grapplers demonstrating the darce choke](/images/basic_darce.png?lightbox=True&width=200)
+![Two grapplers demonstrating the darce choke](/images/basic_darce.webp?lightbox=True&width=200)
 
 **Top Player**:
   * **Position**: On your knees next to your partner with their stomach towards you. Your near arm should be looped under the armpit of their top arm and underneath their neck with the hand gripping your bicep or forearm. Your other arm should have the elbow on the ground with its hand on the back of your partner's top shoulder.

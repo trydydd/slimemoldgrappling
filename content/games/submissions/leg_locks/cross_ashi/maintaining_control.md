@@ -10,7 +10,7 @@ weight: 1
 **Attribution**: This game was originally created by coach Rob Cole at [BJJ Globe Trotters](https://www.bjjglobetrotters.com/). You can view his original YouTube video [here](https://youtu.be/23vPNbK3NH0?t=158).
 
 
-![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/cross_ashi_overhook.png?lightbox=True)
+![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/cross_ashi_overhook.webp?lightbox=True)
 
 **Attacking Player**:
   * **Position**: Seated with your partner in cross ashi (saddle) with an overhook/wrap on your opponent's outside leg.

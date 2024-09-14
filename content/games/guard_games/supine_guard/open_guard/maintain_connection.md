@@ -5,7 +5,7 @@ tags:
 - open guard
 - slime mold original
 - untested
-title: Create and Break Connections
+title: Maintain Connection
 weight: 1
 ---
 

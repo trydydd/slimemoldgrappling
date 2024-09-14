@@ -9,38 +9,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Standing Game 1**" %}}
+{{% expand open=true title="**Game 1: Hip Connection and Elevation**" %}}
 
-{{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
+{{% include_page_body "games/take_downs/hip_throw/hip_to_hip_and_elevate" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Seated Guard Game 1**" %}}
+{{% expand open=true title="**Game 2: Controlling a Leg**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/control_the_leg" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Seated Guard Game 2**" %}}
+{{% expand open=true title="**Game 3: Off Balancing**" %}}
 
 {{% include_page_body "games/guard_games/seated_guard/destabilization" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: Seated Guard Game 3**" %}}
+{{% expand open=true title="**Game 4: Creating Connections**" %}}
 
-{{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
+{{% include_page_body "games/guard_games/seated_guard/create_and_break_connections" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Rear Naked Choke Game 1**" %}}
+{{% expand open=true title="**Game 5: Submission Hunting from the Back**" %}}
 
 
-{{% include_page_body "games/submissions/guillotine/with_one_arm" %}}
+{{% include_page_body "games/back/submission_hunting" %}}
 
 {{% /expand %}}
 

@@ -1,3 +1,7 @@
+# Slime Mold Grappling Club
+
+The live site can be found at [https://slimemoldgrappling.com](https://slimemoldgrappling.com)
+
 ## Manually create a new game:
 * copy the file `game_template.md` into the directory for the category of game that you would like to create in `content/games/`. 
 * Rename the file to accurately describe your game. Use underscores '_' instead of spaces in the filename.

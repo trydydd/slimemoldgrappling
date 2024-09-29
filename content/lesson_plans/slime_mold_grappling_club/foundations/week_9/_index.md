@@ -2,9 +2,9 @@
 alwaysopen: false
 title: Week 9
 weight: 9
-draft: true
+draft: false
 ---
 
-The focuses for week 9 are pinning and twisting leg locks.
+The focuses for week 9 are pinning, naked chokes, and body lock takedowns.
 
 {{% children %}}

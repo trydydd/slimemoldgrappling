@@ -13,36 +13,36 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 1: Standing Game 1**" %}}
 
-{{% include_page_body "games/submissions/head_and_arm_strangle/stabilize_front_headlock" %}}
+{{% include_page_body "games/take_downs/poopy_hands" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 2: Guillotine Game 1**" %}}
+{{% expand open=true title="**Game 2: Maintaining the Guillotine**" %}}
 
-{{% include_page_body "games/submissions/head_and_arm_strangle/capture_head_and_arm" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 3: guillotine Game 2**" %}}
-
-{{% include_page_body "games/submissions/head_and_arm_strangle/finishing" %}}
+{{% include_page_body "games/submissions/guillotine/maintain_the_finish" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 4: guillotine game 3**" %}}
+{{% expand open=true title="**Game 3: One Armed Guillotine**" %}}
 
-{{% include_page_body "games/north_south/use_connection" %}}
+{{% include_page_body "games/submissions/guillotine/with_one_arm" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Seated Guard Game 1**" %}}
+{{% expand open=true title="**Game 4: Finishing By Any Other Means**" %}}
+
+{{% include_page_body "games/submissions/guillotine/any_other_submission" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Punishing Posts from Seated Guard**" %}}
 
 
-{{% include_page_body "games/north_south/maintain_the_pin" %}}
+{{% include_page_body "games/guard_games/seated_guard/punishing_posts" %}}
 
 {{% /expand %}}
 

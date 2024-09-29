@@ -45,7 +45,7 @@ Standing is introduced at week 7.
 - [x] Seated Guard/Rear Naked Choke
 
 ### Week 9 - Pinning 
-- [ ] Scarf Hold/Supine Guard
+- [x] Scarf Hold/Supine Guard
 - [ ] Guillotine/Seated Guard
 - [ ] Turtle/Twisting Armlocks
 

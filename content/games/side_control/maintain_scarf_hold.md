@@ -1,6 +1,6 @@
 ---
 archetype: "game"
-title: "Scarf Hold"
+title: "Maintain Scarf Hold"
 tags: 
 - tag 1
 - tag 2
@@ -16,6 +16,6 @@ weight: 0
 
 **Bottom Player**:
   * **Position**: Underneath your partner with their side on your chest, their near arm wrapped behind your head grasping their own thigh, and your inside arm on their torso.
-  * **Objective**: Focus on using movement, framing, and connecting your hands to your own body.
+  * **Objective**: Focus on using movement, framing, and connecting your hands to your own body to either free your head or reverse the position.
   * **Constraints**: None
   * **Win Condition**: Free yourself or reverse the position.

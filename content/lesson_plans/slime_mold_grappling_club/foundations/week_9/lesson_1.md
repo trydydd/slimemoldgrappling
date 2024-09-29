@@ -11,38 +11,38 @@ alwaysopen: false
 Each game consists of a three minute round, a one minute break, and then another three minute round with the position of the players switched. 
 
 ---
-{{% expand open=true title="**Game 1: Standing Game 1**" %}}
+{{% expand open=true title="**Game 1: Creepy Guy**" %}}
 
-{{% include_page_body "games/guard_games/supine_guard/half_guard/underhook_control" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 2: Scarf Hold Game 1**" %}}
-
-{{% include_page_body "games/guard_games/supine_guard/half_guard/single_underhook_control" %}}
+{{% include_page_body "games/take_downs/creepy_guy" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 3: Scarf Hold Game 2**" %}}
+{{% expand open=true title="**Game 2: Maintain Scarf Hold (Kesa Gatame)**" %}}
 
-{{% include_page_body "games/guard_games/supine_guard/half_guard/hip_access" %}}
-
-{{% /expand %}}
-
----
-{{% expand open=true title="**Game 4: Scarf Hold Game 3**" %}}
-
-{{% include_page_body "games/side_control/maintain_connection" %}}
+{{% include_page_body "games/side_control/maintain_scarf_hold" %}}
 
 {{% /expand %}}
 
 ---
-{{% expand open=true title="**Game 5: Supine Guard Game 1**" %}}
+{{% expand open=true title="**Game 3: Scarf Hold Transitions**" %}}
+
+{{% include_page_body "games/side_control/upgrade_scarf_hold" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 4: Establishing Scarf Hold**" %}}
+
+{{% include_page_body "games/side_control/establish_scarf_hold" %}}
+
+{{% /expand %}}
+
+---
+{{% expand open=true title="**Game 5: Ball of Yarn**" %}}
 
 
-{{% include_page_body "games/side_control/submission_hunting" %}}
+{{% include_page_body "games/guard_games/supine_guard/half_guard/ball_of_yarn" %}}
 
 {{% /expand %}}
 

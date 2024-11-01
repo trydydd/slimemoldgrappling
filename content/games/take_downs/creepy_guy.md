@@ -2,19 +2,21 @@
 archetype: "game"
 title: "Creepy Guy"
 tags: 
-- tag 1
-- tag 2
+- Good Mind Grappling
+- Standup Baseline
 weight: 0
 ---
 
-**Top Player**:
-  * **Position**:
-  * **Objective**: 
-  * **Constraints**:
-  * **Win Condition**:
+**Attacking Player**:
+  * **Position**: Standing disconnected and facing your partner.
+  * **Objective**: Keep your head in alignment with your partner's centerline.
+  * **Constraints**: No takedowns. This is exclusively a fight for angles.
+  * **Win Condition**: None
 
-**Bottom Player**:
-  * **Position**:
-  * **Objective**: 
-  * **Constraints**:
-  * **Win Condition**:
+**Defending Player**:
+  * **Position**: Standing disconnected and facing your partner.
+  * **Objective**: Force your partner's head off-center by using posts and angles.
+  * **Constraints**: No takedowns. This is exclusively a fight for angles.
+  * **Win Condition**: None
+
+This game is continuous

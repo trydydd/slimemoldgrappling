@@ -1,3 +1,9 @@
+---
+alwaysopen: false
+title: 'Conditioning'
+hidden: true
+---
+
 # Conditioning Macrocycles for BJJ Athletes
 
 This plan includes an **onboarding macrocycle** to build foundational conditioning, followed by a **repeatable macrocycle** to sustain and progressively enhance fitness over time. Both cycles balance aerobic, alactic, and lactic systems, with HRV guiding daily intensity adjustments.

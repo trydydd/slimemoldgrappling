@@ -61,8 +61,8 @@ This method involves explosive exercises such as squat jumps and explosive pushu
 Perform 1-2 series of 6-10 sets per exercise using 1-3 exercises per workout with 8-10 minutes of active rest between series and exercises.
 
 3 week example:
-**Week One**: 8-10s work 60s rest
-**Week Two**: 10-12s work 40s rest
-**Week Three**: 12-14s work 30s rest
+* **Week One**: 8-10s work 60s rest
+* **Week Two**: 10-12s work 40s rest
+* **Week Three**: 12-14s work 30s rest
 
 This reduces the time needed for your fast twitch fibers to recover between explosive bursts.

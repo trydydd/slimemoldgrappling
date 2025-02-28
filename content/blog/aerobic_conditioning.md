@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
-title: "Aerobic Conditionng"
+title: "Aerobic Conditioning"
 hidden: true
 ---
 Aerobic conditioning improves conditioning through two main pathways: increasing the efficiency of the heart or increasing the efficiency of muscle tissue. 

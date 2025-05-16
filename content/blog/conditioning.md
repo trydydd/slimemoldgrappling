@@ -8,29 +8,6 @@ This plan includes an **onboarding macrocycle** to build foundational conditioni
 
 ---
 
-## **Types of Energy System Conditioning**
-
-### **Aerobic System Training**
-
-#### Cardiac Output Method
-The cardiac output method involves training at a constant heartrate of 120-150 BPM. The younger the participant the higher in the HR range they should work. This should be done 1-3 times each week for 45-90 minutes.
-
-This can be done using one single exercise or a series of exercises targeting the cardiac output HR Range. Any low intensity low pressure exercise will work.
-
-If your resting heart rate is 60-79 you should regularly prioritize aerobic training.
-
-This increases eccentric cardiac hypertrophy by stretching cardiac fibers which leads to an increase in left ventricular cavity volume.
-
-#### Cardiac Power Intervals
-Perform maximum intensity intervals of 60-120 seconds with 2-5 minutes of rest or a heart rate recovery of 120-130. The goal is to keep your heart rate as elevated as possible during each interval.
-
-Any high intensity exercise that maximizes working heart rate such as sprinting or other high intensity circuits.
-
-Each session should contain 4-12 reps and there should be 1-2 sessions per week.
-
-#### Tempo Method
-WIP
-
 ## **Onboarding Macrocycle (16 Weeks)**
 
 ### **Phase 1: Base Building (4–6 weeks)**

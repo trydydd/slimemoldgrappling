@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Defending the Rear Naked Choke**" %}}
 
 
-{{% include_page_body "games/submissions/rear_naked_choke/naintaining_the_finish.md" %}}
+{{% include_page_body "games/submissions/rear_naked_choke/maintaining_the_finish.md" %}}
 
 {{% /expand %}}
 

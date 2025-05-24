@@ -34,7 +34,7 @@ Each game consists of a three minute round, a one minute break, and then another
 ---
 {{% expand open=true title="**Game 4: Rear Naked Choke Without Hooks**" %}}
 
-{{% include_page_body "games/submissions/rear_naked_choke/with_uncovered_hips" %}}
+{{% include_page_body "games/submissions/rear_naked_choke/uncovered_hips" %}}
 
 {{% /expand %}}
 
@@ -42,7 +42,7 @@ Each game consists of a three minute round, a one minute break, and then another
 {{% expand open=true title="**Game 5: Defending the Rear Naked Choke**" %}}
 
 
-{{% include_page_body "games/submissions/rear_naked_choke/grip_fight_defense.md" %}}
+{{% include_page_body "games/submissions/rear_naked_choke/maintaining_the_finish.md" %}}
 
 {{% /expand %}}
 

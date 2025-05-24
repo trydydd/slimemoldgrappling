@@ -26,4 +26,4 @@ Over the course of twelve weeks we will cover the following:
 * Straight Leg Locks
 * Twisting Leg Locks
 
-{{% children %}}
+{{% children depth=2 %}}

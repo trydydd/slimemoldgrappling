@@ -5,6 +5,7 @@ tags:
 - Good Mind Grappling
 - Standup Baseline
 weight: 0
+hidden: true
 ---
 
 **Top Player**:

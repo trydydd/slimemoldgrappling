@@ -6,9 +6,8 @@ weight: 13
 hidden: false
 ---
 
-# Pinned on Purpose: Side Control
 
-## TLDR; Side Control Sucks.
+## TLDR; Side Control Sucks. Let's Escape.
 [Jump to the Game Series](#the-side-control-escape-series-pinned-on-purpose)
 
 ## How Regressive Games Turn Getting Smashed into a Superpower
@@ -17,7 +16,7 @@ Side control sucks. You know it, I know it, and your training partners definitel
 
 But what if being pinned wasn’t a problem to avoid, but a space to explore?
 
-This post is all about creating intentional, structured training environments that teach athletes how to escape side control not with desperation, but with clarity, confidence, and real skill. We’ll walk through a regressive game series, inspired by the excellent work of coach Kabir Bath, that helps athletes thrive under pressure by spending more time in the positions they usually try to avoid.
+This post is all about creating scenarios that teach athletes how to deal with side control. We’ll walk through a regressive game series, inspired by the work of coach Kabir Bath, that helps athletes thrive under pressure by spending more time in the positions they usually try to avoid.
 
 Let’s talk about getting pinned on purpose.
 
@@ -43,20 +42,18 @@ This approach:
 
 - Extends exposure to high-value moments  
 - Highlights key constraints and concepts  
-- Builds confidence through small, progressive wins  
-- Promotes nonlinear learning and adaptability  
+- Builds confidence through small, progressive wins 
 
 Kabir Bath breaks down these principles beautifully in his coaching content. If you haven't already, check him out:
 
 - [Kabir’s YouTube Channel](https://www.youtube.com/@kabirbath)  
 - [Four Game Design Method](https://www.youtube.com/watch?v=kdDFMDFPiVA)  
-- [Emergence – Ecological Coaching Resources](https://emergentmvmt.com)
 
 ---
 
 ## The Side Control Escape Series: Pinned On Purpose
 
-These games are structured around live resistance, win conditions, and clear roles for both players. Inspired by Kabir Bath’s four-game framework, the goal is to build adaptable escape skills for the bottom player while giving the top player meaningful offensive objectives beyond just "hold the pin."
+These games are structured around live resistance, win conditions, and clear roles for both players. Inspired by Kabir Bath’s four-game framework, the goal is to build adaptable escape skills for the bottom player while giving the top player meaningful offensive objectives.
 
 ---
 
@@ -66,29 +63,29 @@ These games are structured around live resistance, win conditions, and clear rol
 - **Position**: Chest-to-chest side control, one arm under the head, one under the far-side armpit, hands connected.  
 - **Objective**: Prevent rotation and framing while isolating one arm.  
 - **Constraints**: Must maintain chest-to-chest contact; no submissions allowed.  
-- **Win Condition**: Isolate and control one arm using a bent arm control (Kimura or Americana), with wrist control, bent elbow, and figure-four reinforcement.
+- **Win Condition**: Isolate and control one arm using a figure four grip.
 
 **Bottom Player**:
 - **Position**: Flat on back, fully pinned.  
 - **Objective**: Create space and escape.  
 - **Constraints**: Must begin flat and controlled.  
-- **Win Condition**: Escape to turtle, seated guard, or full guard.
+- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
 
 ---
 
-### Game 2: Double Arm Isolation
+### Game 2: Rotation and Arm Isolation
 
 **Top Player**:
-- **Position**: Same as Game 1.  
+- **Position**: Chest-to-chest side control, one arm under the head, one under the far-side armpit, hands connected.
 - **Objective**: Pin and isolate both arms.  
 - **Constraints**: No submissions allowed; must maintain pin.  
-- **Win Condition**: Achieve bent arm control on both arms with wrist control, bent elbow, and figure-four reinforcement.
+- **Win Condition**: Keep your partner flattened to the mat, transition so to side control on the oppsite side of your partner's torso, and achieve a figure 4 grip on the far side arm.
 
 **Bottom Player**:
-- **Position**: Same as Game 1.  
+- **Position**: Flat on back, fully pinned.  
 - **Objective**: Defend isolation and escape.  
-- **Constraints**: Must begin grounded; no stand-ups.  
-- **Win Condition**: Escape to turtle, seated guard, or full guard.
+- **Constraints**: None.  
+- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
 
 ---
 
@@ -97,30 +94,14 @@ These games are structured around live resistance, win conditions, and clear rol
 **Top Player**:
 - **Position**: Side control with chest pressure but no underhooks or head control.  
 - **Objective**: Isolate one arm or transition to dominant position.  
-- **Constraints**: No submissions; can move to mount.  
-- **Win Condition**: Establish bent arm control on one arm or regain dominant pin.
+- **Constraints**: No submissions.  
+- **Win Condition**: Establish figure four control on one arm or transition to mount.
 
 **Bottom Player**:
 - **Position**: Bottom side control with partial frames allowed.  
 - **Objective**: Escape and regain structure.  
-- **Constraints**: Must remain in-contact; realistic pressure.  
-- **Win Condition**: Escape to turtle, seated guard, or full guard.
-
----
-
-### Game 4: Fully Live Side Control
-
-**Top Player**:
-- **Position**: Any live side control variation.  
-- **Objective**: Attack, submit, or progress positionally.  
 - **Constraints**: None.  
-- **Win Condition**: Submission, mount, or sustained control.
-
-**Bottom Player**:
-- **Position**: Any bottom side control variation.  
-- **Objective**: Defend and escape or reverse.  
-- **Constraints**: None.  
-- **Win Condition**: Escape to turtle, seated guard, full guard, or reversal.
+- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
 
 ---
 
@@ -141,19 +122,10 @@ And you do it all without needing an encyclopedic escape system, just intelligen
 
 There’s nothing noble about avoiding your weak spots. But there’s something powerful about choosing to stay in them, intentionally, repeatedly, and curiously.
 
-Side control isn’t the place where development stops. It’s where it starts. Especially if you’re willing to get pinned on purpose and use that time to learn.
+Discomfort isn’t the place where development stops. It’s where it starts. Especially if you’re willing to get pinned on purpose and use that time to learn.
 
-So next time you find yourself under a pressure monster with your soul slowly leaving your body, smile a little.
+So next time you find yourself suffering under a pin, smile a little.
 
 You asked for this.
 
 And you’re getting better because of it.
-
-— Trey  
-*Slime Mold Grappling*
-
----
-
-Want more game templates like this? Or a downloadable escape tracking sheet to use with your club? Let me know. Happy to build it out.
-
-Also, if you riff on these games and make your own version, tag us or send it in. We'd love to share it with the crew.

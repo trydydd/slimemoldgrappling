@@ -6,11 +6,10 @@ weight: 13
 hidden: false
 ---
 
-
 # Pinned on Purpose: Side Control
 
 ## TLDR; Side Control Sucks.
-[Games Series](##The Side Control Escape Series: Pinned On Purpose)
+[Jump to the Game Series](#the-side-control-escape-series-pinned-on-purpose)
 
 ## How Regressive Games Turn Getting Smashed into a Superpower
 
@@ -30,9 +29,9 @@ Most grapplers spend more time dreading side control than learning from it. That
 
 Side control is a problem-rich learning environment, especially when:
 
-- You're flattened
+- You're flattened  
 - Your options feel narrow and unfamiliar  
-- Your escapes happen, but in a panicked blur   
+- Your escapes happen, but in a panicked blur  
 
 ---
 
@@ -57,47 +56,71 @@ Kabir Bath breaks down these principles beautifully in his coaching content. If 
 
 ## The Side Control Escape Series: Pinned On Purpose
 
-Here’s a simple four-game progression that builds side control escape skill from the worst-case scenario upward.
+These games are structured around live resistance, win conditions, and clear roles for both players. Inspired by Kabir Bath’s four-game framework, the goal is to build adaptable escape skills for the bottom player while giving the top player meaningful offensive objectives beyond just "hold the pin."
 
 ---
 
-### Game 1: Crossface Survival
+### Game 1: Chest-to-Chest Pin Control
 
-**Start:** Flat on your back in tight side control, crossface and underhook fully established  
-**Top Player:** Maintain the pin only, no transitions or submissions  
-**Bottom Player:** Relieve pressure, recover inside space, or establish a working frame  
+**Top Player**:
+- **Position**: Chest-to-chest side control, one arm under the head, one under the far-side armpit, hands connected.  
+- **Objective**: Prevent rotation and framing while isolating one arm.  
+- **Constraints**: Must maintain chest-to-chest contact; no submissions allowed.  
+- **Win Condition**: Isolate and control one arm using a bent arm control (Kimura or Americana), with wrist control, bent elbow, and figure-four reinforcement.
 
-*Learning Objective:* Sensitize to the smallest openings for escape. Learn to move even when pinned.
-
----
-
-### Game 2: Connection Shift
-
-**Start:** Side control with no underhook, only crossface  
-**Top Player:** Try to reestablish underhook or improve position  
-**Bottom Player:** Frame, move, and transition to knee shield, turtle, or any meaningful guard  
-
-*Learning Objective:* Feel how frames and underhooks change your options. Explore timing windows.
+**Bottom Player**:
+- **Position**: Flat on back, fully pinned.  
+- **Objective**: Create space and escape.  
+- **Constraints**: Must begin flat and controlled.  
+- **Win Condition**: Escape to turtle, seated guard, or full guard.
 
 ---
 
-### Game 3: Limited Pressure Live
+### Game 2: Double Arm Isolation
 
-**Start:** Side control with no grips or specific constraints  
-**Top Player:** Can apply chest-to-chest pressure and move positionally, but no submissions  
-**Bottom Player:** Escape fully or create meaningful connection  
+**Top Player**:
+- **Position**: Same as Game 1.  
+- **Objective**: Pin and isolate both arms.  
+- **Constraints**: No submissions allowed; must maintain pin.  
+- **Win Condition**: Achieve bent arm control on both arms with wrist control, bent elbow, and figure-four reinforcement.
 
-*Learning Objective:* Work in live but simplified environments. Escape under transitional pressure.
+**Bottom Player**:
+- **Position**: Same as Game 1.  
+- **Objective**: Defend isolation and escape.  
+- **Constraints**: Must begin grounded; no stand-ups.  
+- **Win Condition**: Escape to turtle, seated guard, or full guard.
+
+---
+
+### Game 3: Open Side Control Scramble
+
+**Top Player**:
+- **Position**: Side control with chest pressure but no underhooks or head control.  
+- **Objective**: Isolate one arm or transition to dominant position.  
+- **Constraints**: No submissions; can move to mount.  
+- **Win Condition**: Establish bent arm control on one arm or regain dominant pin.
+
+**Bottom Player**:
+- **Position**: Bottom side control with partial frames allowed.  
+- **Objective**: Escape and regain structure.  
+- **Constraints**: Must remain in-contact; realistic pressure.  
+- **Win Condition**: Escape to turtle, seated guard, or full guard.
 
 ---
 
 ### Game 4: Fully Live Side Control
 
-**Start:** Standard side control  
-**Top Player:** No constraints. Submissions, transitions, and pressure are all allowed  
-**Bottom Player:** Survive, escape, and use everything you've learned to regain agency  
+**Top Player**:
+- **Position**: Any live side control variation.  
+- **Objective**: Attack, submit, or progress positionally.  
+- **Constraints**: None.  
+- **Win Condition**: Submission, mount, or sustained control.
 
-*Learning Objective:* Apply pressure-tested skills in a fully chaotic, high-information state.
+**Bottom Player**:
+- **Position**: Any bottom side control variation.  
+- **Objective**: Defend and escape or reverse.  
+- **Constraints**: None.  
+- **Win Condition**: Escape to turtle, seated guard, full guard, or reversal.
 
 ---
 

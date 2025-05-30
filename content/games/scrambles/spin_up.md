@@ -4,7 +4,7 @@ title: "Back-to-Back Spin Up"
 tags: 
 - scramble
 - spin entry
-weight: 0
+weight: 2
 ---
 
 **Attribution**: This game is based on a [BJJ Globetrotters Camp](https://www.youtube.com/watch?v=GsaDeiRO7s8) with coach Rob Cole.

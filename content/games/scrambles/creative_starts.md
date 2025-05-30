@@ -4,7 +4,7 @@ title: "Creative Scramble Starts"
 tags: 
 - scramble
 - constraints-led
-weight: 0
+weight: 3
 ---
 
 **Attribution**: This lesson plan is based on a [BJJ Globetrotters Camp](https://www.youtube.com/watch?v=GsaDeiRO7s8) with coach Rob Cole.

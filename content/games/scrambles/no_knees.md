@@ -4,7 +4,7 @@ title: "No Knees Top Player"
 tags: 
 - scramble
 - pinning
-weight: 0
+weight: 4
 ---
 
 **Attribution**: This game is based on a [BJJ Globetrotters Camp](https://www.youtube.com/watch?v=GsaDeiRO7s8) with coach Rob Cole.

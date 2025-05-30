@@ -57,7 +57,7 @@ These games are structured around live resistance, win conditions, and clear rol
 
 ---
 
-### Game 1: Chest-to-Chest Pin Control
+### Game 1: Chest-to-Chest Side Control
 
 **Top Player**:
 - **Position**: Chest-to-chest side control, one arm under the head, one under the far-side armpit, hands connected.  
@@ -69,7 +69,7 @@ These games are structured around live resistance, win conditions, and clear rol
 - **Position**: Flat on back, fully pinned.  
 - **Objective**: Create space and escape.  
 - **Constraints**: Must begin flat and controlled.  
-- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
+- **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 
 ---
 
@@ -77,15 +77,15 @@ These games are structured around live resistance, win conditions, and clear rol
 
 **Top Player**:
 - **Position**: Chest-to-chest side control, one arm under the head, one under the far-side armpit, hands connected.
-- **Objective**: Pin and isolate both arms.  
+- **Objective**: Maintain pressure through your transition and isolate an arm. 
 - **Constraints**: No submissions allowed; must maintain pin.  
-- **Win Condition**: Keep your partner flattened to the mat, transition so to side control on the oppsite side of your partner's torso, and achieve a figure 4 grip on the far side arm.
+- **Win Condition**: Keep your partner flattened to the mat, transition to side control on the oppsite side of your partner's torso, and achieve a figure 4 grip on the far side arm.
 
 **Bottom Player**:
 - **Position**: Flat on back, fully pinned.  
 - **Objective**: Defend isolation and escape.  
 - **Constraints**: None.  
-- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
+- **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 
 ---
 
@@ -93,7 +93,7 @@ These games are structured around live resistance, win conditions, and clear rol
 
 **Top Player**:
 - **Position**: Side control with chest pressure but no underhooks or head control.  
-- **Objective**: Isolate one arm or transition to dominant position.  
+- **Objective**: Isolate one arm or transition to another dominant position.  
 - **Constraints**: No submissions.  
 - **Win Condition**: Establish figure four control on one arm or transition to mount.
 
@@ -101,7 +101,7 @@ These games are structured around live resistance, win conditions, and clear rol
 - **Position**: Bottom side control with partial frames allowed.  
 - **Objective**: Escape and regain structure.  
 - **Constraints**: None.  
-- **Win Condition**: Escape to turtle or bring your legs between yourself and your partner.
+- **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 
 ---
 

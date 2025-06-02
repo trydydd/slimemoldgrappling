@@ -16,11 +16,11 @@ This curriculum is specifically meant to be used by either athletes or coaches.
 
 Over the course of twelve weeks we will cover the following:
 
-* Standing situations
-* Pinning situations
-* Guarded situations
+* Standing Situations
+* Pinning Situations
+* Guarded Situations
 * Naked Chokes
-* Arm Chokes
+* Arm In Chokes
 * Straight Arm Locks
 * Twisting Arm Locks
 * Straight Leg Locks

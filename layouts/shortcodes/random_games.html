@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Slime Mold Grappling Deck</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #ddd;
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      color: #7dc903;
+    }
+    .card {
+      background: #222;
+      border: 2px solid #7dc903;
+      border-radius: 10px;
+      padding: 1rem;
+      margin: 1rem auto;
+      max-width: 600px;
+    }
+    .card h2 {
+      color: #fff;
+      margin-top: 0;
+    }
+    button {
+      background-color: #7dc903;
+      color: #000;
+      font-weight: bold;
+      border: none;
+      padding: 0.5rem 1rem;
+      margin: 1rem auto;
+      display: block;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    .label {
+      color: #7dc903;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Slime Mold Grappling Deck</h1>
+
+  <div class="card" id="result">
+    <h2>Let's Roll!</h2>
+    <p><span class="label">Starting Position:</span> —</p>
+    <p><span class="label">Top Player Goal:</span> —</p>
+    <p><span class="label">Bottom Player Goal:</span> —</p>
+    <p><span class="label">Constraint:</span> —</p>
+  </div>
+
+  <button onclick="drawCard()">Draw Random Game</button>
+
+  <script>
+    const positions = [
+      "Half Guard", "Closed Guard", "Reverse Closed Guard", "Open Guard", "Seated Guard", "Turtle",
+      "Mount", "Side Control", "Scarf Hold", "North South", "Back Control", "Knee on Belly", "S Mount", "Technical Mount"
+    ];
+
+    const goals = [
+      "Stand", "Maintain Position", "Escape / Sweep / Reverse", "Reach the Back",
+      "Recover Guard", "Upper Body Submission", "Lower Body Submission", "Strangle"
+    ];
+
+    const constraints = [
+      "Can only grip your own body with hands",
+      "Grips with left arm only",
+      "Grips with right arm only",
+      "Eyes closed",
+      "Narrate your roll"
+    ];
+
+    function drawCard() {
+      const position = positions[Math.floor(Math.random() * positions.length)];
+      const pinPositions = [
+        "Mount", "Turtle", "Side Control", "Scarf Hold", "North South",
+        "Back Control", "Knee on Belly", "Technical Mount"
+      ];
+
+      const topGoalPool = pinPositions.includes(position)
+        ? goals.filter(g => g !== "Stand" && g !== "Escape / Sweep / Reverse")
+        : goals;
+
+      const topGoal = topGoalPool[Math.floor(Math.random() * topGoalPool.length)];
+
+      let bottomGoal;
+      do {
+        bottomGoal = goals[Math.floor(Math.random() * goals.length)];
+      } while (bottomGoal === topGoal);
+
+      const constraint = constraints[Math.floor(Math.random() * constraints.length)];
+
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = `
+        <p><span class="label">Starting Position:</span> ${position}</p>
+        <p><span class="label">Top Player Goal:</span> ${topGoal}</p>
+        <p><span class="label">Bottom Player Goal:</span> ${bottomGoal}</p>
+        <p><span class="label">Constraint:</span> ${constraint}</p>
+      `;
+    }
+  </script>
+</body>
+</html>

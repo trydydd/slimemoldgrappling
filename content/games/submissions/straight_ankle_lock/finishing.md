@@ -9,7 +9,7 @@ draft: false
 ---
 ![Two grapplers sitting in front of one another with their legs entangled and one players foot trapped in the other player's armpit.](/images/ashi_garami.webp?lightbox=True)
 
-Before playing this game watch [this video](content/games/submissions/straight_ankle_lock/maintain_control.md) to get an idea of how to finish a straight ankle lock if you are unsure.
+Before playing this game watch [this video](https://youtube.com/shorts/rAJ76zkz-Hk?si=O5lWb7w5iPm8KyvF) to get an idea of how to finish a straight ankle lock if you are unsure.
 
 This game should only be played enough rounds for each player to get a feel for finishing the submission and for feeling the submission mechanics being applied.
 

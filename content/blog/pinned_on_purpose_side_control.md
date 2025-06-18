@@ -67,7 +67,7 @@ These games are structured around live resistance, win conditions, and clear rol
 
 **Bottom Player**:
 - **Position**: Flat on back, fully pinned.  
-- **Objective**: Create space and escape.  
+- **Objective**: Create space to either escape, reverse, or bring your feet between you and your partner.  
 - **Constraints**: Must begin flat and controlled.  
 - **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 
@@ -83,7 +83,7 @@ These games are structured around live resistance, win conditions, and clear rol
 
 **Bottom Player**:
 - **Position**: Flat on back, fully pinned.  
-- **Objective**: Defend isolation and escape.  
+- **Objective**: Defend isolation and look to create space to either escape, reverse, or bring your feet between you and your partner.  
 - **Constraints**: None.  
 - **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 
@@ -99,7 +99,7 @@ These games are structured around live resistance, win conditions, and clear rol
 
 **Bottom Player**:
 - **Position**: Bottom side control with partial frames allowed.  
-- **Objective**: Escape and regain structure.  
+- **Objective**: Look to create space to either escape, reverse, or bring your feet between you and your partner. 
 - **Constraints**: None.  
 - **Win Condition**: Escape to turtle, bring your legs between yourself and your partner, or reverse the position to become top player.
 

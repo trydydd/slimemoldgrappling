@@ -1,6 +1,7 @@
 ---
 alwaysopen: false
-title: Blog
+title: Black Dog, Blue Belt 
+
 hidden: true
 ---
 

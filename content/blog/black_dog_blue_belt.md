@@ -31,7 +31,7 @@ hidden: true
 {{< youtube TQ4gJ7E6Xis >}}
 
 ### Reverse Shrimping
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube rbdvVJXXsdA >}}
 
 ### Tripod Headstand
 {{< youtube dQw4w9WgXcQ >}}

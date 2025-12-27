@@ -1,8 +1,7 @@
 ---
 alwaysopen: false
 title: Blog
-weight: 1
-hidden: false
+hidden: true
 ---
 
 # The Black Dog Jiu-Jitsu Company

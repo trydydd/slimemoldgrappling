@@ -25,7 +25,7 @@ hidden: true
 {{< youtube KrMNtX86ou8 >}}
 
 ### Side Breakfall
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube L6ylDWyT6es >}}
 
 ### Shrimping
 {{< youtube TQ4gJ7E6Xis >}}
@@ -34,7 +34,7 @@ hidden: true
 {{< youtube 8ZcHXERyuEQ >}}
 
 ### Tripod Headstand
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube WjMLoXNkQyE >}}
 
 ### 20 Pushups Without Pausing
 {{< youtube 4dF1DOWzf20 >}}

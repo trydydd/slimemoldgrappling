@@ -1,11 +1,10 @@
 ---
 alwaysopen: false
-title: Black Dog, Blue Belt 
+title: Black Dog Jiu-Jitsu Company
 
 hidden: true
 ---
 
-# The Black Dog Jiu-Jitsu Company
 ## Blue Belt Requirements
 
 ---

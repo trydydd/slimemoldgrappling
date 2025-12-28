@@ -13,10 +13,10 @@ hidden: true
 ## Fundamental Movement
 
 ### Forward Roll
-{{< youtube MJYYgqxkl5Q?si >}}
+{{< youtube MJYYgqxkl5Q >}}
 
 ### Backwards Roll
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube YAKRqK01mUs >}}
 
 ### Granby Roll
 {{< youtube dQw4w9WgXcQ >}}

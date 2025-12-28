@@ -12,7 +12,7 @@ hidden: true
 ## Fundamental Movement
 
 ### Forward Roll
-{{< youtube MJYYgqxkl5Q >}}
+{{% expand %}}{{< youtube MJYYgqxkl5Q >}}{{% /expand %}}
 
 ### Backwards Roll
 {{< youtube YAKRqK01mUs >}}

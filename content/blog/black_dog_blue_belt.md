@@ -37,7 +37,7 @@ hidden: true
 {{< youtube dQw4w9WgXcQ >}}
 
 ### 20 Pushups Without Pausing
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube 4dF1DOWzf20 >}}
 
 ---
 

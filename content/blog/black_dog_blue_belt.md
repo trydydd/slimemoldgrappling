@@ -19,7 +19,7 @@ hidden: true
 {{< youtube YAKRqK01mUs >}}
 
 ### Granby Roll
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube exkwjkM0P7U >}}
 
 ### Front Breakfall
 {{< youtube dQw4w9WgXcQ >}}

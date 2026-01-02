@@ -48,7 +48,7 @@ No-gi: https://youtube.com/shorts/bFiDcVmrDxw?si=k2KfSAhoCY7V0cmD
 
 ### Armbar from Mount
 Gi: https://youtu.be/J24HqUtooaE?si=6GWjx4R1nlHiERhf
-No-gi:
+No-gi: https://youtu.be/AJNC21nPFgk?si=s6RWOgm0TIHttGHx
 
 ### Armbar from Spider-Web
 

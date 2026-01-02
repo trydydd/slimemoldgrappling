@@ -51,6 +51,8 @@ Gi: https://youtu.be/J24HqUtooaE?si=6GWjx4R1nlHiERhf
 No-gi: https://youtu.be/AJNC21nPFgk?si=s6RWOgm0TIHttGHx
 
 ### Armbar from Spider-Web
+Gi: https://youtu.be/3Q75t92j040?si=BzylxI6PSZNdEL16
+No-gi:https://youtu.be/mQZdq793po4?si=W7a1pTAWRHniVs56
 
 
 ### 180 Armbar from Side Control

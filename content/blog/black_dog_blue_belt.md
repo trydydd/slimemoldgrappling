@@ -44,6 +44,7 @@ hidden: true
 
 ### Armbar from Guard
 gi: https://youtu.be/XUrxSihViJI?si=CoHyVoNV3gNBFT5w
+no gi: https://youtube.com/shorts/bFiDcVmrDxw?si=k2KfSAhoCY7V0cmD
 
 ### Armbar from Mount
 

@@ -49,11 +49,19 @@ No-gi: https://youtube.com/shorts/bFiDcVmrDxw?si=k2KfSAhoCY7V0cmD
 ### Armbar from Mount
 Gi: https://youtu.be/J24HqUtooaE?si=6GWjx4R1nlHiERhf
 No-gi:
+
 ### Armbar from Spider-Web
 
 
 ### 180 Armbar from Side Control
 
+
+
+### SMGC Armbar Bonus Material
+
+Armbar concepts 1: https://youtu.be/uwaXoOJgcoo?si=CCEnYtU1TWe609Ay
+
+Armbar concepts 2: https://youtu.be/a9Lc_zGHNb0?si=9d8V_SWdQxbIxOi8
 
 ---
 

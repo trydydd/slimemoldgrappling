@@ -11,9 +11,9 @@ publish_mode: editorial_workflow
 media_folder: "static/images"
 public_folder: "/images"
 
-# Site metadata
-site_url: https://slimemoldgrappling.com
-display_url: https://slimemoldgrappling.com
+# Site metadata - use Netlify URL for CMS access
+site_url: https://slimemoldgrappling.netlify.app
+display_url: https://slimemoldgrappling.netlify.app
 
 # Collections
 collections:

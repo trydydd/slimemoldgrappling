@@ -11,7 +11,7 @@
     {{ $ver | safeHTML }}
     {{- end }}
     {{- if not (and .Title (or (ne (.Scratch.Get "relearnIsHiddenStem") true) (ne .Site.Params.disableSeoHiddenPages true) ) ) }}
-    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+    <!-- <meta name="robots" content="noindex, nofollow, noarchive, noimageindex"> -->
     {{- end }}
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
     {{- $authorName := partialCached "authorname.hugo" . }}

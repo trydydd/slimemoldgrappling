@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <title>TinyFingers | Fullscreen smash toy for babies and toddlers</title>
+  <meta name="description" content="TinyFingers is an instant fullscreen smash toy for babies and toddlers, with touch, keyboard, mouse, and 4 playful themes.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="TinyFingers">
+  <meta property="og:title" content="TinyFingers | Fullscreen smash toy for babies and toddlers">
+  <meta property="og:description" content="TinyFingers is an instant fullscreen smash toy for babies and toddlers, with touch, keyboard, mouse, and 4 playful themes.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="stage" aria-label="TinyFingers canvas"></canvas>
+
+  <section id="welcome-overlay" aria-label="Welcome screen">
+    <div class="welcome-shell">
+      <div class="welcome-card" role="dialog" aria-modal="false" aria-labelledby="welcome-title">
+        <h1 id="welcome-title">
+          <span class="title-hand" aria-hidden="true">🖐️</span>
+          <span>TinyFingers</span>
+        </h1>
+        <p class="welcome-lead">Fullscreen website where babies and toddlers can safely smash the keyboard and see playful animations.</p>
+        <div class="welcome-badges" aria-label="Quick benefits">
+          <span>🛡️ PIN-locked fullscreen</span>
+          <span>⚡ Instant, no setup</span>
+          <span>📱⌨️🖱️ Touch + keyboard + mouse</span>
+          <span>🎨 4 playful themes</span>
+        </div>
+        <p class="welcome-start">Tap anywhere to start instantly.</p>
+        <button id="start-play" type="button">Ready? Let's smash!</button>
+
+        <p id="parent-menu-help" class="welcome-help">
+          Parent menu: press and hold in the top-left corner area for 2s
+          (opens automatically), or type <code>parent</code>.
+        </p>
+      </div>
+
+      <div id="privacy-note" class="welcome-privacy">
+        <p>
+          TinyFingers is a safe website where babies and toddlers can smash the keyboard
+          and see fun animations without breaking the computer.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <aside id="parent-panel" hidden aria-hidden="true">
+    <h2><span class="panel-emoji" aria-hidden="true">👪</span>Parent panel</h2>
+
+    <label class="panel-row" for="sound-toggle">
+      <span><span class="panel-emoji" aria-hidden="true">🎵</span>Notes</span>
+      <input id="sound-toggle" type="checkbox" checked>
+    </label>
+
+    <label class="panel-row" for="sparkle-toggle">
+      <span><span class="panel-emoji" aria-hidden="true">✨</span>Mouse sparkle</span>
+      <input id="sparkle-toggle" type="checkbox">
+    </label>
+
+    <label class="panel-row" for="theme-select">
+      <span><span class="panel-emoji" aria-hidden="true">🎨</span>Theme</span>
+      <select id="theme-select">
+        <option value="confetti">🎉 Confetti</option>
+        <option value="bubbles">🫧 Bubbles</option>
+        <option value="space">🪐 Space</option>
+        <option value="underwater">🐠 Underwater</option>
+      </select>
+    </label>
+
+    <label class="panel-row" for="idle-toggle">
+      <span><span class="panel-emoji" aria-hidden="true">🌙</span>Idle demo</span>
+      <input id="idle-toggle" type="checkbox" checked>
+    </label>
+
+    <label class="panel-row" for="motion-toggle">
+      <span><span class="panel-emoji" aria-hidden="true">🐢</span>Reduce motion</span>
+      <input id="motion-toggle" type="checkbox">
+    </label>
+
+    <label class="panel-row" for="emoji-toggle">
+      <span><span class="panel-emoji" aria-hidden="true">😀</span>Full emoji</span>
+      <input id="emoji-toggle" type="checkbox">
+    </label>
+
+    <label class="panel-row" for="glyph-count">
+      <span><span class="panel-emoji" aria-hidden="true">🔢</span>Per key</span>
+      <select id="glyph-count">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+      </select>
+    </label>
+
+    <div class="panel-divider"></div>
+
+    <label class="panel-row" for="pin-input">
+      <span><span class="panel-emoji" aria-hidden="true">🔒</span>Exit PIN</span>
+      <input id="pin-input" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="6" value="1234" autocomplete="off">
+    </label>
+
+    <div class="panel-actions">
+      <button id="exit-fullscreen" type="button">⤢ Exit fullscreen</button>
+      <button id="close-panel" type="button">✅ Close</button>
+    </div>
+
+    <p class="panel-hint">🔒 Exit fullscreen requires PIN. Default: 1234</p>
+  </aside>
+
+  <div id="pin-overlay" hidden aria-hidden="true">
+    <div class="pin-dialog" role="dialog" aria-modal="true" aria-labelledby="pin-title">
+      <h3 id="pin-title">🔒 Enter PIN to exit</h3>
+      <input id="pin-verify" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="6" placeholder="PIN" autocomplete="off" autofocus>
+      <p id="pin-error" class="pin-error" hidden>Wrong PIN</p>
+      <div class="pin-actions">
+        <button id="pin-cancel" type="button">Cancel</button>
+        <button id="pin-confirm" type="button">Unlock</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

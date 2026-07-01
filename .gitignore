@@ -6,3 +6,8 @@ tmp
 /resources/_gen/
 .hugo_build.lock
 .idea/
+
+# impeccable: local/ephemeral state, not shared team config
+.impeccable/config.local.json
+.impeccable/hook.cache.json
+.impeccable/live/sessions/

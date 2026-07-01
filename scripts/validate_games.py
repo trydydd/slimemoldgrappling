@@ -81,6 +81,11 @@ def validate_lesson_plan(filepath):
     includes = re.findall(r'{{% include_page_body "([^"]+)" %}}', content)
     
     for game_path in includes:
+        # Some includes mistakenly include a trailing .md; strip it so it
+        # isn't doubled up below.
+        if game_path.endswith('.md'):
+            game_path = game_path[:-len('.md')]
+
         # Convert to actual file path
         full_path = Path(f'content/{game_path}.md')
         if not full_path.exists():

@@ -8,6 +8,13 @@ import sys
 import re
 from pathlib import Path
 
+# Accepted (top, bottom) role-name pairs a game may use for its two sides.
+ROLE_PAIRS = [
+    ('Top Player', 'Bottom Player'),
+    ('Attacking Player', 'Defending Player'),
+    ('Offensive Player', 'Defensive Player'),
+]
+
 def validate_game(filepath):
     """Ensure game has required structure"""
     try:
@@ -22,11 +29,22 @@ def validate_game(filepath):
         errors.append(f"Missing frontmatter: {filepath}")
         return errors
     
-    # Check for required sections
-    if '**Top Player**:' not in content:
-        errors.append(f"Missing Top Player section: {filepath}")
-    if '**Bottom Player**:' not in content:
-        errors.append(f"Missing Bottom Player section: {filepath}")
+    # Check for required sections (any of the ROLE_PAIRS naming conventions)
+    matched_pair = None
+    for first, second in ROLE_PAIRS:
+        if f'**{first}**:' in content or f'**{second}**:' in content:
+            matched_pair = (first, second)
+            break
+
+    if matched_pair is None:
+        accepted = ' or '.join(f'{first}/{second}' for first, second in ROLE_PAIRS)
+        errors.append(f"Missing role sections (expected {accepted}): {filepath}")
+    else:
+        first, second = matched_pair
+        if f'**{first}**:' not in content:
+            errors.append(f"Missing {first} section: {filepath}")
+        if f'**{second}**:' not in content:
+            errors.append(f"Missing {second} section: {filepath}")
     
     # Check each section has required fields
     required_fields = ['Position', 'Objective', 'Constraints', 'Win Condition']

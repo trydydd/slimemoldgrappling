@@ -19,6 +19,7 @@ weight: 3
 **Bottom Player**:
   * **Position**: On your back with your hands connected above your torso.
   * **Objective**: Resist your partner's attempts to hold you down.
+  * **Constraints**: None
   * **Win Condition**: You free your arm or are able to get your back off of the mat.
 
 Reset if bottom player wins.

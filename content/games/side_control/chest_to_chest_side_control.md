@@ -5,6 +5,8 @@ tags:
 - side control
 - regressive game
 weight: 7
+aliases:
+- "/games/side_control/chext_to_chest_side_control/"
 ---
 
 **Top Player**:

@@ -6,6 +6,7 @@ tmp
 /resources/_gen/
 .hugo_build.lock
 .idea/
+__pycache__/
 
 # impeccable: local/ephemeral state, not shared team config
 .impeccable/config.local.json

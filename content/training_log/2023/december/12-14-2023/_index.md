@@ -7,4 +7,4 @@ weight: 1
 
 **Game #1**: [Create and Break Connections]( /games/guard_games/supine_guard/open_guard/create_and_break_connections/ )
 
-**Game #2**: [Open Guard Sweeping](/games/guard_games/supine_guard/open_guard/open_guard_sweeping/)
+**Game #2**: [Open Guard Sweeping]({{% relref "/games/guard_games/supine_guard/open_guard/open_guard_sweeping.md" %}})

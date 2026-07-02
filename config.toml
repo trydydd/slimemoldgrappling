@@ -3,7 +3,7 @@ languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
 
 [params]
-images = [ "images/hero.png" ]
+images = [ "images/logo.jpg" ]
 description = "If it can learn, so can we."
 themeVariant = "auto"
 disableToc = true

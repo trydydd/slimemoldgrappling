@@ -16,6 +16,10 @@ disableSearchHiddenPages = false
 disableSeoHiddenPages = true
 contentDir = "content"
 MetaDataFormat = "yaml"
+# Absolute base URL of the Netlify deploy that receives "Submit a Game" form
+# posts. The canonical site is served by GitHub Pages, which cannot accept
+# POSTs, so the form targets the Netlify mirror explicitly.
+formEndpoint = "https://slimemoldgrappling.netlify.app"
 # Sidebar shortcut links (rendered by the Relearn theme below the menu).
 # These used to live inside the vendored theme's own hugo.toml; site config
 # takes precedence in Hugo's config merge, so they belong here.

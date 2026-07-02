@@ -24,7 +24,5 @@
 [context.next.environment]
   HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-  from   = "/npmjs/*"
-  to     = "/npmjs/"
-  status = 200
+[functions]
+  directory = "netlify/functions"

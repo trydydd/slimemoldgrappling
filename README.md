@@ -2,6 +2,15 @@
 
 The live site can be found at [https://slimemoldgrappling.com](https://slimemoldgrappling.com)
 
+## Hosting
+
+This site deploys twice, on purpose:
+
+* **GitHub Pages** serves the canonical domain [slimemoldgrappling.com](https://slimemoldgrappling.com). It deploys automatically from the `main` branch via `.github/workflows/hugo.yaml`.
+* **Netlify** serves [slimemoldgrappling.netlify.app](https://slimemoldgrappling.netlify.app) from the same repo (`netlify.toml`). It exists for pull request **deploy previews** (every PR gets a rendered preview link), **Netlify Forms**, and the game-submission function.
+
+Both pin Hugo `0.121.1` — if you bump the version, change it in **both** `netlify.toml` and `.github/workflows/hugo.yaml`.
+
 ## Manually create a new game:
 * copy the file `game_template.md` into the directory for the category of game that you would like to create in `content/games/`. 
 * Rename the file to accurately describe your game. Use underscores '_' instead of spaces in the filename.

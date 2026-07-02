@@ -1,4 +1,4 @@
-baseURL = 'http://slimemoldgrappling.com/'
+baseURL = 'https://slimemoldgrappling.com/'
 languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
 

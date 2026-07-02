@@ -1,21 +1,21 @@
 ---
-archetype: "game"
-title: "Hip to Hip Connection"
+archetype: game
+title: Hip to Hip Connection
 tags:
 - Standing
 - Hip Throw
 - untested
 weight: 2
+top_player:
+  label: Attacking Player
+  position: Standing with one arm connected to your partner's torso inside their arm (underhook) with your other arm free.
+  objective: Maintain your underhook and create hip to hip contact.
+  constraints: No takedowns. Fight for inside space only.
+  win_condition: None.
+bottom_player:
+  label: Defending Player
+  position: Standing with your partner's arm connected to your torso inside your arm with your same side arm hooked around their arm so that your hand is near their armpit.
+  objective: Deny your partner access to inside space and hip to hip contact.
+  constraints: No takedowns. Fight for inside space only.
+  win_condition: None
 ---
-
-**Attacking Player**:
-  * **Position**: Standing with one arm connected to your partner's torso inside their arm (underhook) with your other arm free.
-  * **Objective**: Maintain your underhook and create hip to hip contact.
-  * **Constraints**: No takedowns. Fight for inside space only.
-  * **Win Condition**: None.
-
-**Defending Player**:
-  * **Position**: Standing with your partner's arm connected to your torso inside your arm with your same side arm hooked around their arm so that your hand is near their armpit.
-  * **Objective**: Deny your partner access to inside space and hip to hip contact.
-  * **Constraints**: No takedowns. Fight for inside space only.
-  * **Win Condition**: None

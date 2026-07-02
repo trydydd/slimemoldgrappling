@@ -1,0 +1,25 @@
+{{- $page := . }}
+{{- $top := $page.Params.top_player }}
+{{- $bottom := $page.Params.bottom_player }}
+{{- if and $top $bottom }}
+<div class="game-role-block-group">
+  {{- range (slice $top $bottom) }}
+  <section class="game-role-block">
+    <h3 class="game-role-name">{{ .label }}</h3>
+    <dl class="game-role-fields">
+      <dt>Position</dt>
+      <dd>{{ $page.RenderString .position }}</dd>
+      <dt>Objective</dt>
+      <dd>{{ $page.RenderString .objective }}</dd>
+      <dt>Constraints</dt>
+      <dd>{{ $page.RenderString .constraints }}</dd>
+      <dt>Win Condition</dt>
+      <dd>{{ $page.RenderString .win_condition }}</dd>
+    </dl>
+  </section>
+  {{- end }}
+</div>
+{{- with $page.Params.notes }}
+<p class="game-notes">{{ $page.RenderString . }}</p>
+{{- end }}
+{{- end }}

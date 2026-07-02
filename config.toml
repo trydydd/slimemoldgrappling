@@ -16,3 +16,34 @@ disableSearchHiddenPages = false
 disableSeoHiddenPages = true
 contentDir = "content"
 MetaDataFormat = "yaml"
+# Sidebar shortcut links (rendered by the Relearn theme below the menu).
+# These used to live inside the vendored theme's own hugo.toml; site config
+# takes precedence in Hugo's config merge, so they belong here.
+[[menu.shortcuts]]
+name = "<i class='fas fa-dollar-sign'></i> Support Us"
+identifier = "paypal"
+url = "https://ko-fi.com/slimemoldgrapplingclub"
+weight = 2
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-envelope'></i> Contact Us"
+identifier = "contact"
+url = "mailto:social@slimemoldgrappling.com"
+weight = 3
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-instagram'></i> Instagram"
+identifier = "instagram"
+url = "https://www.instagram.com/slimemoldgrappling/"
+weight = 4
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+url = "tags/"
+weight = 5
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/trydydd/slimemoldgrappling"
+weight = 6

@@ -1,10 +1,8 @@
 ---
 archetype: "game"
 title: "{{ replace .Name "_" " " | title }}"
-tags: 
-- tag 1
-- tag 2
-weight: 0
+tags:
+- untested
 ---
 
 **Top Player**:

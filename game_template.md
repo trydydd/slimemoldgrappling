@@ -1,8 +1,8 @@
 ---
 archetype: "game"
 title: ""
-tags: [""]
-weight: 0
+tags:
+- untested
 ---
 
 **Top Player**:

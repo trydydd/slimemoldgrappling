@@ -1,9 +1,8 @@
 ---
 archetype: "game"
 title: "Upgrade Kesa"
-tags: 
-- tag 1
-- tag 2
+tags:
+- side control
 weight: 0
 ---
 

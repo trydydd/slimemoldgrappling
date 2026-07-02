@@ -1,9 +1,8 @@
 ---
 archetype: "game"
 title: "Maintain Scarf Hold"
-tags: 
-- tag 1
-- tag 2
+tags:
+- side control
 weight: 0
 ---
 ![One grappler one the ground with their partner's near arm and head on their thigh. The top players near arm is wrapped around the bottom player's neck and grasping their own thigh in the scarf hold position.](/images/kesa_gatame.webp?lightbox=True)

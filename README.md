@@ -28,9 +28,10 @@ To upgrade the theme later: `cd themes/hugo-theme-relearn && git fetch && git ch
 * Rename the file to accurately describe your game. Use underscores '_' instead of spaces in the filename.
 * Update the fields in the file:
   * title
-  * tags (look at the other games in your category for an idea of what tags to use)
-  * weight (count the current number of games in the category and add one to find your ewight)
+  * tags (keep `untested` until the game has been tried in class; look at the other games in your category for an idea of what other tags to use)
   * the fields for describing the game
+
+Games are listed **alphabetically by title** within their category (every `content/games/**/_index.md` sets `ordersectionsby: title`), so you do not need to set a `weight` on games.
 
 ## See your changes live with Hugo
 run hugo server locally to see live changes on the site in your browser at localhost:1313
@@ -41,7 +42,7 @@ hugo server
 ## Add new content using Hugo
 create a new game in an existing folder using hugo:
 ```shell
-hugo new --kind game games/guard_games/supine_guard/closed_guard/wet_dog/_index.md
+hugo new --kind game games/guard_games/supine_guard/closed_guard/wet_dog.md
 ```
 
 Create a new directory inside of games using hugo:
@@ -54,4 +55,4 @@ create a new top level section in the lefthand nav bar using hugo:
 hugo new --kind chapter why/_index.md
 ```
 
-When creating a new game ensure to open the file and change the Weight value to an integer. Weight starts at 1 and determines the order that objects are displayed inside of their container (Top down. 1 is first, highest int is last.). The easiest thing to do is count the number of games in the category you would like to add to, add one to that, and set that as your weight.
+Everything under `content/games/` is ordered alphabetically by title, so games and game categories need no `weight`. Elsewhere (top-level sections, lesson plan weeks, training log months) ordering is still controlled by the `weight` front matter field: 1 is shown first, higher integers later. When creating a new section outside of games, open the file and set `weight` to slot it where you want it.

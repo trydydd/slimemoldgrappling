@@ -1,9 +1,8 @@
 ---
 archetype: "game"
 title: "Any Other Submission"
-tags: 
-- tag 1
-- tag 2
+tags:
+- guillotine
 weight: 0
 ---
 

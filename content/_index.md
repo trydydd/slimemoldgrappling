@@ -10,7 +10,7 @@ Our goal is to increase the accessibility of submission grappling by providing r
 ## How to Start
 Choose from our pre-built submission grappling class plans for structured skill development, or pick games ad hoc for a more flexible and varied training experience. Both options are designed to enhance your skill and understanding of submission grappling effectively.
 
-If you are not sure where to begin then the [foundations curriculum](/lesson_plans/slime_mold_grappling_club/foundations/) is where you should dive in! 
+If you are not sure where to begin then the [foundations curriculum]({{% relref "/lesson_plans/slime_mold_grappling_club/foundations/_index.md" %}}) is where you should dive in! 
 
 If you have questions or would like to contribute to the club, please [email us](mailto:social@slimemoldgrappling.com)!
 

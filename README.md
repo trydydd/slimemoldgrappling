@@ -11,6 +11,18 @@ This site deploys twice, on purpose:
 
 Both pin Hugo `0.121.1` — if you bump the version, change it in **both** `netlify.toml` and `.github/workflows/hugo.yaml`.
 
+## Theme
+
+The site uses the [Relearn theme](https://github.com/McShelby/hugo-theme-relearn) as a **git submodule** pinned to a known-good commit. When cloning the repo, bring it along:
+
+```shell
+git clone --recurse-submodules https://github.com/trydydd/slimemoldgrappling
+# or, in an existing clone:
+git submodule update --init
+```
+
+To upgrade the theme later: `cd themes/hugo-theme-relearn && git fetch && git checkout <new tag>`, then rebuild and re-check the site-level overrides that shadow theme files (`layouts/partials/meta.html`, `layouts/alias.html`, `layouts/partials/menu-footer.html`, `archetypes/chapter.md` — each has a comment noting what it changes), and commit the new submodule pointer.
+
 ## Manually create a new game:
 * copy the file `game_template.md` into the directory for the category of game that you would like to create in `content/games/`. 
 * Rename the file to accurately describe your game. Use underscores '_' instead of spaces in the filename.

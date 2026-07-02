@@ -5,7 +5,7 @@ theme = 'hugo-theme-relearn'
 [params]
 images = [ "images/hero.png" ]
 description = "If it can learn, so can we."
-themeVariant = "auto"
+themeVariant = "slime-mold"
 disableToc = true
 disableBreadCrumb = true
 disableLandingPageButton = true

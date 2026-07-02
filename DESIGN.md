@@ -2,14 +2,14 @@
 name: Slime Mold Grappling Club
 description: A free, structured library of constrained BJJ games and curricula, run like a field notebook, not a SaaS product.
 colors:
-  plasmodium-ink: "oklch(0.48 0.14 258)"
-  plasmodium-ink-deep: "oklch(0.40 0.13 258)"
+  plasmodium-ink: "oklch(0.42 0.10 140)"
+  plasmodium-ink-deep: "oklch(0.34 0.09 140)"
   physarum-gold: "oklch(0.72 0.15 82)"
   physarum-gold-deep: "oklch(0.55 0.16 78)"
   lab-white: "oklch(1.000 0.000 0)"
-  slide-surface: "oklch(0.96 0.008 258)"
-  field-ink: "oklch(0.16 0.02 258)"
-  muted-note: "oklch(0.46 0.03 258)"
+  slide-surface: "oklch(0.96 0.008 140)"
+  field-ink: "oklch(0.16 0.02 140)"
+  muted-note: "oklch(0.46 0.03 140)"
 typography:
   display:
     fontFamily: "IBM Plex Mono, ui-monospace, Menlo, monospace"
@@ -82,31 +82,31 @@ components:
 
 *Physarum polycephalum* — the actual slime mold — solves mazes and optimizes networks with no brain, no hierarchy, no central controller: just distributed rules producing emergent intelligence. That's the design mandate too. No gatekeeping, no credentialed authority look, no single dominant "hero" element commanding the page. The interface should feel like a field log kept by someone running real experiments on the mat: exact, unglamorous, built to be used, not admired.
 
-This system explicitly rejects the generic SaaS/startup look (gradient heroes, rounded cards, bold-CTA funnels — this isn't selling a subscription), the combat-sports bro aesthetic (no skulls, no black-and-red aggression, no macho/predator imagery), and corporate gym-franchise polish. It also rejects the opposite failure mode: precious, cream-toned "editorial calm." Warmth here comes from the amber accent and the plainspoken voice, not from a tinted paper background.
+This system explicitly rejects the generic SaaS/startup look (gradient heroes, rounded cards, bold-CTA funnels — this isn't selling a subscription), the combat-sports bro aesthetic (no skulls, no black-and-red aggression, no macho/predator imagery), and corporate gym-franchise polish. It also rejects two opposite failure modes: precious, cream-toned "editorial calm," and corporate trust-blue — blue is the single most overused "safe, trustworthy" color in SaaS/tech/finance branding, and no amount of flat borders or mono type fully escapes that association while it's the dominant hue. Warmth and identity here come from a deep, earthy moss green (not a corporate blue, not a pastel sage) plus the amber accent, not from a tinted paper background.
 
 **Key Characteristics:**
-- Deep indigo ink on pure white — a lab notebook, not a marketing page
+- Deep moss-green ink on pure white — a field notebook, not a marketing page, and not a corporate dashboard
 - Physarum gold used sparingly, as a real highlight (a specimen label, a chalk mark), never as decoration
 - Flat by default; depth comes from borders and ink weight, never a shadow
 - Monospace for labels and identifiers (position names, tags, weights); humanist sans for everything meant to be read at length
 
 ## 2. Colors
 
-The palette is a working scientist's toolkit: one confident ink, one warning-label accent, and enough neutral range to keep 116+ games and lesson plans scannable without visual noise.
+The palette is a working scientist's toolkit: one confident earth-toned ink, one warning-label accent, and enough neutral range to keep 116+ games and lesson plans scannable without visual noise.
 
 ### Primary
-- **Plasmodium Ink** (`oklch(0.48 0.14 258)`): The system's ink. Headings, links, primary buttons, active nav state, icons. Named for the slime mold's vegetative network stage — the thing doing the actual work.
-- **Plasmodium Ink Deep** (`oklch(0.40 0.13 258)`): Hover/active state for Plasmodium Ink surfaces and text. Never used as a resting-state color.
+- **Plasmodium Ink** (`oklch(0.42 0.10 140)`): The system's ink — a deep moss/earth green, not a pastel sage and not corporate blue. Headings, links, primary buttons, active nav state, icons. Named for the slime mold's vegetative network stage — the thing doing the actual work.
+- **Plasmodium Ink Deep** (`oklch(0.34 0.09 140)`): Hover/active state for Plasmodium Ink surfaces and text. Never used as a resting-state color.
 
 ### Secondary
-- **Physarum Gold** (`oklch(0.72 0.15 82)`): Named for the real, visible color of *Physarum polycephalum* in culture. Used for underlines, highlight marks, borders on tags, and light-fill badges where ink-colored text sits on top. Rare by design — if more than one element per screen uses it, it's lost its meaning as a highlight.
+- **Physarum Gold** (`oklch(0.72 0.15 82)`): Named for the real, visible color of *Physarum polycephalum* in culture. Used for underlines, highlight marks, borders on tags, and light-fill badges where ink-colored text sits on top. Rare by design — if more than one element per screen uses it, it's lost its meaning as a highlight. Its adjacency to Plasmodium Ink on the color wheel (moss green to golden amber) reads as forest-floor-and-light, reinforcing the field-science mood rather than fighting it.
 - **Physarum Gold Deep** (`oklch(0.55 0.16 78)`): The filled-badge variant of Physarum Gold, darkened so white text on top clears contrast. Use this, not the lighter Physarum Gold, whenever text sits directly on a solid gold fill.
 
 ### Neutral
-- **Lab White** (`oklch(1.000 0.000 0)`): Page background. Pure white, zero chroma — deliberately not tinted cream or paper. The "warmth" of this brand lives in the gold accent and the voice, not the background.
-- **Slide Surface** (`oklch(0.96 0.008 258)`): Panels, tag backgrounds, code blocks, the sidebar. A hair of Plasmodium Ink's own hue, barely perceptible — never a competing surface color.
-- **Field Ink** (`oklch(0.16 0.02 258)`): Body text. ≥7:1 against Lab White.
-- **Muted Note** (`oklch(0.46 0.03 258)`): Secondary text, metadata, timestamps, tag counts. ≥3.5:1 against Lab White; never drops below that for anything a user needs to read, only for genuinely optional context.
+- **Lab White** (`oklch(1.000 0.000 0)`): Page background. Pure white, zero chroma — deliberately not tinted cream or paper. Pairing an earthy green primary with a tinted cream/parchment background is the "forest-green-on-cream" AI cliché; using pure white instead keeps the earth tone confined to the ink, not the surface.
+- **Slide Surface** (`oklch(0.96 0.008 140)`): Panels, tag backgrounds, code blocks, the sidebar. A hair of Plasmodium Ink's own hue, barely perceptible — never a competing surface color.
+- **Field Ink** (`oklch(0.16 0.02 140)`): Body text. ≥7:1 against Lab White.
+- **Muted Note** (`oklch(0.46 0.03 140)`): Secondary text, metadata, timestamps, tag counts. ≥3.5:1 against Lab White; never drops below that for anything a user needs to read, only for genuinely optional context.
 
 ### Named Rules
 **The One Highlight Rule.** Physarum Gold appears on at most one element per viewport. Its rarity is what makes it read as a real signal (new content, a warning, a highlight) instead of decoration.
@@ -131,7 +131,7 @@ The palette is a working scientist's toolkit: one confident ink, one warning-lab
 
 ## 4. Elevation
 
-Flat by default, no exceptions. This system does not use drop shadows — depth comes from a 1px border (Slide Surface or Plasmodium Ink at low opacity) and from ink weight (Field Ink vs Muted Note), the way a printed page or an index card conveys structure without floating above the surface.
+Flat by default, no exceptions. This system does not use drop shadows — depth comes from a 1px border (Slide Surface) and from ink weight (Field Ink vs Muted Note), the way a printed page or an index card conveys structure without floating above the surface.
 
 ### Named Rules
 **The Printed Page Rule.** Depth comes from ink weight and border, never a shadow. If a component seems to need a drop shadow to read as distinct, restructure it as a bordered block instead.
@@ -165,6 +165,7 @@ Every game's Top Player / Bottom Player (or Attacking/Defending, Offensive/Defen
 
 ### Do:
 - **Do** keep the page background pure white (`oklch(1.000 0.000 0)`) — let Physarum Gold and the mono labels carry the personality, not a tinted paper bg.
+- **Do** keep the primary ink a deep, saturated moss/earth green (`oklch(0.42 0.10 140)`) — confident and dark, not a pale trendy sage wash.
 - **Do** set every tag, position label, and metadata field in IBM Plex Mono (Label typography) — this is the recurring "logged observation" texture that makes the system feel like a field notebook rather than a generic docs site.
 - **Do** use borders and ink weight for structure; treat a drop shadow as a bug.
 - **Do** keep Physarum Gold to one highlight per screen.
@@ -173,6 +174,8 @@ Every game's Top Player / Bottom Player (or Attacking/Defending, Offensive/Defen
 - **Don't** use a gradient-hero, rounded-card grid, or bold stacked CTAs — the generic SaaS/startup marketing look this brand explicitly rejects.
 - **Don't** use combat-sports-bro visual cliches: no skulls, no black-and-red aggression palettes, no tribal fonts, no macho/predator (lion, apex-predator) imagery.
 - **Don't** use corporate gym-franchise polish — no stock-photo hero banners, no "trusted by" logo strips.
-- **Don't** tint the background toward cream, sand, or parchment. That reads as the 2026 AI-editorial default, and it undercuts the actual field-notebook identity this system is built on.
+- **Don't** use blue/navy as the primary or dominant hue. Blue is the default "safe corporate SaaS" color (banks, B2B tools, LinkedIn); this system deliberately uses an earthy moss green instead.
+- **Don't** tint the background toward cream, sand, or parchment. That reads as the 2026 AI-editorial default, and paired with a green ink it becomes the "forest-green-on-cream" cliché specifically — keep the earth tone in the ink, not the surface.
+- **Don't** use a pale, desaturated "corporate sage" green either — the primary should read as confident ink, not a muted wellness-brand wash.
 - **Don't** add a drop shadow anywhere. Depth is border + ink weight only (see the Printed Page Rule).
 - **Don't** nest a card inside a card, or wrap a Game Role Block in an outer card — its own internal structure is the container.

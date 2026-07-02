@@ -1,28 +1,28 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-07-01T17:22:28Z",
+  "generatedAt": "2026-07-02T01:40:00Z",
   "title": "Design System: Slime Mold Grappling Club",
   "extensions": {
     "colorMeta": {
       "plasmodium-ink": {
         "role": "primary",
         "displayName": "Plasmodium Ink",
-        "canonical": "oklch(0.48 0.14 258)",
+        "canonical": "oklch(0.42 0.10 140)",
         "tonalRamp": [
-          "oklch(0.15 0.14 258)",
-          "oklch(0.25 0.14 258)",
-          "oklch(0.35 0.14 258)",
-          "oklch(0.45 0.14 258)",
-          "oklch(0.55 0.14 258)",
-          "oklch(0.65 0.14 258)",
-          "oklch(0.75 0.14 258)",
-          "oklch(0.85 0.14 258)"
+          "oklch(0.15 0.10 140)",
+          "oklch(0.25 0.10 140)",
+          "oklch(0.35 0.10 140)",
+          "oklch(0.45 0.10 140)",
+          "oklch(0.55 0.10 140)",
+          "oklch(0.65 0.10 140)",
+          "oklch(0.75 0.10 140)",
+          "oklch(0.85 0.10 140)"
         ]
       },
       "plasmodium-ink-deep": {
         "role": "primary-hover",
         "displayName": "Plasmodium Ink Deep",
-        "canonical": "oklch(0.40 0.13 258)",
+        "canonical": "oklch(0.34 0.09 140)",
         "tonalRamp": []
       },
       "physarum-gold": {
@@ -55,37 +55,65 @@
       "slide-surface": {
         "role": "neutral-surface",
         "displayName": "Slide Surface",
-        "canonical": "oklch(0.96 0.008 258)",
+        "canonical": "oklch(0.96 0.008 140)",
         "tonalRamp": []
       },
       "field-ink": {
         "role": "neutral-text",
         "displayName": "Field Ink",
-        "canonical": "oklch(0.16 0.02 258)",
+        "canonical": "oklch(0.16 0.02 140)",
         "tonalRamp": []
       },
       "muted-note": {
         "role": "neutral-text-muted",
         "displayName": "Muted Note",
-        "canonical": "oklch(0.46 0.03 258)",
+        "canonical": "oklch(0.46 0.03 140)",
         "tonalRamp": []
       }
     },
     "typographyMeta": {
-      "display": { "displayName": "Display", "purpose": "Page-level titles only (home hero, top of a lesson plan). One per page." },
-      "headline": { "displayName": "Headline", "purpose": "Section headings (h2)." },
-      "title": { "displayName": "Title", "purpose": "Sub-section headings (h3-h4), expand-shortcode titles." },
-      "body": { "displayName": "Body", "purpose": "All running prose. Cap at 65-75ch measure." },
-      "label": { "displayName": "Label", "purpose": "Tags, field names (Position/Objective/Constraints/Win Condition), nav items, metadata." }
+      "display": {
+        "displayName": "Display",
+        "purpose": "Page-level titles only (home hero, top of a lesson plan). One per page."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings (h2)."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Sub-section headings (h3-h4), expand-shortcode titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All running prose. Cap at 65-75ch measure."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Tags, field names (Position/Objective/Constraints/Win Condition), nav items, metadata."
+      }
     },
     "shadows": [],
     "motion": [
-      { "name": "ease-standard", "value": "cubic-bezier(0.4, 0, 0.2, 1)", "purpose": "Default easing for hover/focus state transitions (background, border, color)." }
+      {
+        "name": "ease-standard",
+        "value": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "purpose": "Default easing for hover/focus state transitions (background, border, color)."
+      }
     ],
     "breakpoints": [
-      { "name": "sm", "value": "640px" },
-      { "name": "md", "value": "960px" },
-      { "name": "lg", "value": "1280px" }
+      {
+        "name": "sm",
+        "value": "640px"
+      },
+      {
+        "name": "md",
+        "value": "960px"
+      },
+      {
+        "name": "lg",
+        "value": "1280px"
+      }
     ]
   },
   "components": [
@@ -95,7 +123,7 @@
       "refersTo": "button-primary",
       "description": "Main call-to-action button. Sharp corners, mono label typography, no shadow.",
       "html": "<button class=\"ds-btn-primary\">Start Training</button>",
-      "css": ".ds-btn-primary { background: oklch(0.48 0.14 258); color: oklch(1.000 0.000 0); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; padding: 10px 20px; border: none; border-radius: 2px; transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-btn-primary:hover { background: oklch(0.40 0.13 258); } .ds-btn-primary:focus-visible { outline: 2px solid oklch(0.72 0.15 82); outline-offset: 2px; }"
+      "css": ".ds-btn-primary { background: oklch(0.42 0.10 140); color: oklch(1.000 0.000 0); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; padding: 10px 20px; border: none; border-radius: 2px; transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-btn-primary:hover { background: oklch(0.34 0.09 140); } .ds-btn-primary:focus-visible { outline: 2px solid oklch(0.72 0.15 82); outline-offset: 2px; }"
     },
     {
       "name": "Ghost Button",
@@ -103,7 +131,7 @@
       "refersTo": "button-ghost",
       "description": "Secondary action button. Preferred over a second filled color for secondary actions.",
       "html": "<button class=\"ds-btn-ghost\">See All Games</button>",
-      "css": ".ds-btn-ghost { background: transparent; color: oklch(0.48 0.14 258); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; padding: 10px 20px; border: 1px solid oklch(0.48 0.14 258); border-radius: 2px; transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-btn-ghost:hover { background: oklch(0.48 0.14 258); color: oklch(1.000 0.000 0); } .ds-btn-ghost:focus-visible { outline: 2px solid oklch(0.72 0.15 82); outline-offset: 2px; }"
+      "css": ".ds-btn-ghost { background: transparent; color: oklch(0.42 0.10 140); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; padding: 10px 20px; border: 1px solid oklch(0.42 0.10 140); border-radius: 2px; transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-btn-ghost:hover { background: oklch(0.42 0.10 140); color: oklch(1.000 0.000 0); } .ds-btn-ghost:focus-visible { outline: 2px solid oklch(0.72 0.15 82); outline-offset: 2px; }"
     },
     {
       "name": "Tag / Label Chip",
@@ -111,7 +139,7 @@
       "refersTo": "tag-label",
       "description": "Position/curriculum tag shown on games and lesson plans. Descriptive metadata, not a filter control.",
       "html": "<span class=\"ds-tag\">Side Control</span>",
-      "css": ".ds-tag { display: inline-block; background: oklch(0.96 0.008 258); color: oklch(0.48 0.14 258); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; padding: 2px 8px; border-radius: 0; }"
+      "css": ".ds-tag { display: inline-block; background: oklch(0.96 0.008 140); color: oklch(0.42 0.10 140); font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; padding: 2px 8px; border-radius: 0; }"
     },
     {
       "name": "Search Input",
@@ -119,7 +147,7 @@
       "refersTo": null,
       "description": "Sidebar search field.",
       "html": "<input class=\"ds-input-search\" type=\"search\" placeholder=\"Search games...\" />",
-      "css": ".ds-input-search { background: oklch(1.000 0.000 0); color: oklch(0.16 0.02 258); border: 1px solid oklch(0.46 0.03 258); border-radius: 2px; padding: 8px 12px; font-family: Atkinson Hyperlegible, system-ui, sans-serif; font-size: 1rem; transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-input-search:focus-visible { outline: none; border-color: oklch(0.48 0.14 258); }"
+      "css": ".ds-input-search { background: oklch(1.000 0.000 0); color: oklch(0.16 0.02 140); border: 1px solid oklch(0.46 0.03 140); border-radius: 2px; padding: 8px 12px; font-family: Atkinson Hyperlegible, system-ui, sans-serif; font-size: 1rem; transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1); } .ds-input-search:focus-visible { outline: none; border-color: oklch(0.42 0.10 140); }"
     },
     {
       "name": "Game Role Block",
@@ -127,25 +155,38 @@
       "refersTo": null,
       "description": "Signature component: the Top/Bottom (or Attacking/Defending, Offensive/Defensive) Player pair that structures every game. Recurs in all 115+ games.",
       "html": "<section class=\"ds-role-block\"><h3 class=\"ds-role-name\">Top Player</h3><dl class=\"ds-role-fields\"><dt>Position</dt><dd>Sitting with your choice of connection(s) to your partner's arms and torso.</dd><dt>Objective</dt><dd>Stay as close to your partner's shoulder as possible and hold them down.</dd><dt>Constraints</dt><dd>Do not separate your partner's hands or finish the submission.</dd><dt>Win Condition</dt><dd>None</dd></dl></section>",
-      "css": ".ds-role-block { border: 1px solid oklch(0.96 0.008 258); padding: 16px; margin-bottom: 16px; } .ds-role-name { display: inline-block; font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; color: oklch(0.48 0.14 258); border: 1px solid oklch(0.72 0.15 82); border-radius: 0; padding: 2px 8px; margin-bottom: 8px; } .ds-role-fields dt { font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; color: oklch(0.46 0.03 258); margin-top: 8px; } .ds-role-fields dd { font-family: Atkinson Hyperlegible, system-ui, sans-serif; font-size: 1rem; line-height: 1.6; color: oklch(0.16 0.02 258); margin-left: 0; }"
+      "css": ".ds-role-block { border: 1px solid oklch(0.96 0.008 140); padding: 16px; margin-bottom: 16px; } .ds-role-name { display: inline-block; font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; text-transform: uppercase; color: oklch(0.42 0.10 140); border: 1px solid oklch(0.72 0.15 82); border-radius: 0; padding: 2px 8px; margin-bottom: 8px; } .ds-role-fields dt { font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em; color: oklch(0.46 0.03 140); margin-top: 8px; } .ds-role-fields dd { font-family: Atkinson Hyperlegible, system-ui, sans-serif; font-size: 1rem; line-height: 1.6; color: oklch(0.16 0.02 140); margin-left: 0; }"
     }
   ],
   "narrative": {
     "northStar": "The Slime Mold Method",
-    "overview": "Physarum polycephalum — the actual slime mold — solves mazes and optimizes networks with no brain, no hierarchy, no central controller: just distributed rules producing emergent intelligence. That's the design mandate too. No gatekeeping, no credentialed authority look, no single dominant \"hero\" element commanding the page. The interface should feel like a field log kept by someone running real experiments on the mat: exact, unglamorous, built to be used, not admired.\n\nThis system explicitly rejects the generic SaaS/startup look (gradient heroes, rounded cards, bold-CTA funnels — this isn't selling a subscription), the combat-sports bro aesthetic (no skulls, no black-and-red aggression, no macho/predator imagery), and corporate gym-franchise polish. It also rejects the opposite failure mode: precious, cream-toned \"editorial calm.\" Warmth here comes from the amber accent and the plainspoken voice, not from a tinted paper background.",
+    "overview": "Physarum polycephalum \u2014 the actual slime mold \u2014 solves mazes and optimizes networks with no brain, no hierarchy, no central controller: just distributed rules producing emergent intelligence. That's the design mandate too. No gatekeeping, no credentialed authority look, no single dominant \"hero\" element commanding the page. The interface should feel like a field log kept by someone running real experiments on the mat: exact, unglamorous, built to be used, not admired.\n\nThis system explicitly rejects the generic SaaS/startup look (gradient heroes, rounded cards, bold-CTA funnels \u2014 this isn't selling a subscription), the combat-sports bro aesthetic (no skulls, no black-and-red aggression, no macho/predator imagery), and corporate gym-franchise polish. It also rejects two opposite failure modes: precious, cream-toned \"editorial calm,\" and corporate trust-blue \u2014 blue is the single most overused \"safe, trustworthy\" color in SaaS/tech/finance branding. Warmth and identity here come from a deep, earthy moss green plus the amber accent, not from a tinted paper background or a corporate blue.",
     "keyCharacteristics": [
-      "Deep indigo ink on pure white — a lab notebook, not a marketing page",
+      "Deep moss-green ink on pure white \u2014 a field notebook, not a marketing page, and not a corporate dashboard",
       "Physarum gold used sparingly, as a real highlight (a specimen label, a chalk mark), never as decoration",
       "Flat by default; depth comes from borders and ink weight, never a shadow",
       "Monospace for labels and identifiers (position names, tags, weights); humanist sans for everything meant to be read at length"
     ],
     "rules": [
-      { "name": "The One Highlight Rule", "body": "Physarum Gold appears on at most one element per viewport. Its rarity is what makes it read as a real signal instead of decoration.", "section": "colors" },
-      { "name": "The Logged-Value Rule", "body": "If a piece of text is a label, identifier, or fixed field name (not prose), it's set in Label (mono). If it's meant to be read continuously, it's Atkinson Hyperlegible. Never mix the two within a sentence.", "section": "typography" },
-      { "name": "The Printed Page Rule", "body": "Depth comes from ink weight and border, never a shadow. If a component seems to need a drop shadow to read as distinct, restructure it as a bordered block instead.", "section": "elevation" }
+      {
+        "name": "The One Highlight Rule",
+        "body": "Physarum Gold appears on at most one element per viewport. Its rarity is what makes it read as a real signal instead of decoration.",
+        "section": "colors"
+      },
+      {
+        "name": "The Logged-Value Rule",
+        "body": "If a piece of text is a label, identifier, or fixed field name (not prose), it's set in Label (mono). If it's meant to be read continuously, it's Atkinson Hyperlegible. Never mix the two within a sentence.",
+        "section": "typography"
+      },
+      {
+        "name": "The Printed Page Rule",
+        "body": "Depth comes from ink weight and border, never a shadow. If a component seems to need a drop shadow to read as distinct, restructure it as a bordered block instead.",
+        "section": "elevation"
+      }
     ],
     "dos": [
-      "Do keep the page background pure white (oklch(1.000 0.000 0)) — let Physarum Gold and the mono labels carry the personality, not a tinted paper bg.",
+      "Do keep the page background pure white (oklch(1.000 0.000 0)) \u2014 let Physarum Gold and the mono labels carry the personality, not a tinted paper bg.",
+      "Do keep the primary ink a deep, saturated moss/earth green (oklch(0.42 0.10 140)) \u2014 confident and dark, not a pale trendy sage wash.",
       "Do set every tag, position label, and metadata field in IBM Plex Mono (Label typography).",
       "Do use borders and ink weight for structure; treat a drop shadow as a bug.",
       "Do keep Physarum Gold to one highlight per screen."
@@ -153,8 +194,9 @@
     "donts": [
       "Don't use a gradient-hero, rounded-card grid, or bold stacked CTAs.",
       "Don't use combat-sports-bro visual cliches: no skulls, no black-and-red aggression palettes, no tribal fonts, no macho/predator (lion, apex-predator) imagery.",
-      "Don't use corporate gym-franchise polish — no stock-photo hero banners, no \"trusted by\" logo strips.",
-      "Don't tint the background toward cream, sand, or parchment.",
+      "Don't use corporate gym-franchise polish \u2014 no stock-photo hero banners, no \"trusted by\" logo strips.",
+      "Don't use blue/navy as the primary or dominant hue \u2014 it's the default \"safe corporate SaaS\" color.",
+      "Don't tint the background toward cream, sand, or parchment \u2014 paired with a green ink that's specifically the \"forest-green-on-cream\" clich\u00e9.",
       "Don't add a drop shadow anywhere.",
       "Don't nest a card inside a card, or wrap a Game Role Block in an outer card."
     ]

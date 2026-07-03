@@ -1,6 +1,61 @@
 {{- /* Injected into <head> by the Relearn theme's custom-header hook.
      The linktree page (type: linktree) deliberately skips the MailerLite
      newsletter tracker. */ -}}
+<style>
+/* Game Role Block: the Top/Bottom Player pair shown on every game page.
+   Colors and fonts are read from the theme's own INTERNAL-* variables so
+   this follows whatever theme variant / light-dark mode is active, rather
+   than hardcoding a palette. */
+.game-role-block-group {
+    margin: 1.5rem 0;
+}
+
+.game-role-block {
+    border: 1px solid var(--INTERNAL-CODE-BLOCK-BORDER-color);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.game-role-name {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--INTERNAL-MAIN-TITLES-TEXT-color);
+    border: 1px solid var(--INTERNAL-ACCENT-color);
+    padding: 0.125rem 0.5rem;
+    margin: 0 0 0.5rem;
+}
+
+.game-role-fields {
+    margin: 0;
+}
+
+.game-role-fields dt {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    opacity: 0.7;
+    margin: 0.75rem 0 0.125rem;
+}
+
+.game-role-fields dt:first-child {
+    margin-top: 0;
+}
+
+.game-role-fields dd {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-left: 0;
+}
+
+.game-notes {
+    opacity: 0.7;
+    font-style: italic;
+}
+</style>
 {{- if ne .Type "linktree" }}
 <!-- MailerLite Universal -->
 <script>

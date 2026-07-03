@@ -1,8 +1,64 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
-{{- /* The linktree page (type: linktree) deliberately skips the MailerLite
+{{- /* Injected into <head> by the Relearn theme's custom-header hook.
+     The linktree page (type: linktree) deliberately skips the MailerLite
      newsletter tracker. */ -}}
+<style>
+/* Game Role Block: the Top/Bottom Player pair shown on every game page.
+   Colors are read from the theme's documented (public) variant variables so
+   this follows whatever theme variant / light-dark mode is active, rather
+   than hardcoding a palette. */
+.game-role-block-group {
+    margin: 1.5rem 0;
+}
+
+.game-role-block {
+    border: 1px solid var(--CODE-BLOCK-BORDER-color);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.game-role-name {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--MAIN-TITLES-TEXT-color);
+    border: 1px solid var(--ACCENT-color);
+    padding: 0.125rem 0.5rem;
+    margin: 0 0 0.5rem;
+}
+
+.game-role-fields {
+    margin: 0;
+}
+
+.game-role-fields dt {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--MAIN-TITLES-TEXT-color);
+    border-bottom: 2px solid var(--ACCENT-color);
+    padding-bottom: 0.1rem;
+    margin: 1rem 0 0.35rem;
+}
+
+.game-role-fields dt:first-child {
+    margin-top: 0;
+}
+
+.game-role-fields dd {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-left: 0;
+}
+
+.game-notes {
+    opacity: 0.7;
+    font-style: italic;
+}
+</style>
 {{- if ne .Type "linktree" }}
 <!-- MailerLite Universal -->
 <script>

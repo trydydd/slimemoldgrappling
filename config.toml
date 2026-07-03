@@ -2,13 +2,10 @@ baseURL = 'https://slimemoldgrappling.com/'
 languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
 
-[markup.goldmark.renderer]
-unsafe = true
-
 [params]
 images = [ "images/logo.jpg" ]
 description = "If it can learn, so can we."
-themeVariant = "slime-mold"
+themeVariant = "auto"
 disableToc = true
 disableBreadCrumb = true
 disableLandingPageButton = true

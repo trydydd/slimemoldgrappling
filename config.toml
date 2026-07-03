@@ -13,7 +13,10 @@ ordersectionsby = "weight"
 alwaysopen = "false"
 collapsibleMenu = true
 disableSearchHiddenPages = false
-disableSeoHiddenPages = true
+# Keep hidden pages indexable (no robots noindex, and included in the sitemap).
+# This replaces a former site-level copy of the theme's meta.html that just
+# commented the noindex line out — the theme honors this param natively.
+disableSeoHiddenPages = false
 contentDir = "content"
 MetaDataFormat = "yaml"
 # Absolute base URL of the Netlify deploy that receives "Submit a Game" form

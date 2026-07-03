@@ -3,7 +3,7 @@
      newsletter tracker. */ -}}
 <style>
 /* Game Role Block: the Top/Bottom Player pair shown on every game page.
-   Colors and fonts are read from the theme's own INTERNAL-* variables so
+   Colors are read from the theme's documented (public) variant variables so
    this follows whatever theme variant / light-dark mode is active, rather
    than hardcoding a palette. */
 .game-role-block-group {
@@ -11,7 +11,7 @@
 }
 
 .game-role-block {
-    border: 1px solid var(--INTERNAL-CODE-BLOCK-BORDER-color);
+    border: 1px solid var(--CODE-BLOCK-BORDER-color);
     padding: 1rem;
     margin-bottom: 1rem;
 }
@@ -22,8 +22,8 @@
     font-weight: 700;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    color: var(--INTERNAL-MAIN-TITLES-TEXT-color);
-    border: 1px solid var(--INTERNAL-ACCENT-color);
+    color: var(--MAIN-TITLES-TEXT-color);
+    border: 1px solid var(--ACCENT-color);
     padding: 0.125rem 0.5rem;
     margin: 0 0 0.5rem;
 }

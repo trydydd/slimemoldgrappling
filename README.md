@@ -13,15 +13,17 @@ Both pin Hugo `0.121.1` — if you bump the version, change it in **both** `netl
 
 ## Theme
 
-The site uses the [Relearn theme](https://github.com/McShelby/hugo-theme-relearn) as a **git submodule** pinned to a known-good commit. When cloning the repo, bring it along:
+The site uses the [Relearn theme](https://github.com/McShelby/hugo-theme-relearn), **vendored** as plain files under `themes/hugo-theme-relearn/`. The vendored copy is kept **pristine** — commit `609539c` (the 5.24.0 line) — so a normal `git clone` just works, with no submodule or Go tooling to set up.
 
-```shell
-git clone --recurse-submodules https://github.com/trydydd/slimemoldgrappling
-# or, in an existing clone:
-git submodule update --init
-```
+**All local customizations live in the site layer, never inside the theme**, so upgrades don't clobber them:
 
-To upgrade the theme later: `cd themes/hugo-theme-relearn && git fetch && git checkout <new tag>`, then rebuild and re-check the site-level overrides that shadow theme files (`layouts/partials/meta.html`, `layouts/alias.html`, `layouts/partials/menu-footer.html`, `archetypes/chapter.md` — each has a comment noting what it changes), and commit the new submodule pointer.
+* `config.toml` — sidebar `menu.shortcuts`; `disableSeoHiddenPages = false` (keeps hidden pages indexable).
+* `layouts/partials/custom-header.html` — MailerLite snippet + the Game Role Block styles (the linktree page opts out of MailerLite).
+* `layouts/partials/content.html` + `layouts/partials/render-game.html` — render structured-frontmatter games.
+* `layouts/partials/menu-footer.html` — drops the "Built with Hugo" credit.
+* `archetypes/chapter.md` / `archetypes/game.md` — new-content scaffolding.
+
+To upgrade the theme: download the new release of `hugo-theme-relearn`, replace the contents of `themes/hugo-theme-relearn/` wholesale, rebuild, and confirm the site-layer overrides above still behave (the theme's `meta.html`, `alias.html`, `favicon.html`, `content.html`, and `menu-footer.html` are the partials our overrides/params interact with). Record the new version in [CHANGELOG.md](CHANGELOG.md).
 
 ## Submit a game (no account needed)
 

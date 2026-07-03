@@ -2,6 +2,13 @@ baseURL = 'https://slimemoldgrappling.com/'
 languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
 
+# Allow raw HTML through Goldmark. Required so the render-game.html partial's
+# markup survives when a game is embedded in a lesson plan via the
+# {{% include_page_body %}} percent shortcode (percent shortcodes re-run their
+# output through Goldmark, which strips raw HTML when this is off).
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 images = [ "images/logo.jpg" ]
 description = "If it can learn, so can we."

@@ -1,6 +1,6 @@
 ---
 alwaysopen: false
 title: August
-weight: 4
+weight: 8
 ---
 {{% children %}}

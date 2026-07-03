@@ -1,4 +1,4 @@
-baseURL = 'http://slimemoldgrappling.com/'
+baseURL = 'https://slimemoldgrappling.com/'
 languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
 
@@ -6,7 +6,7 @@ theme = 'hugo-theme-relearn'
 unsafe = true
 
 [params]
-images = [ "images/hero.png" ]
+images = [ "images/logo.jpg" ]
 description = "If it can learn, so can we."
 themeVariant = "slime-mold"
 disableToc = true
@@ -19,3 +19,38 @@ disableSearchHiddenPages = false
 disableSeoHiddenPages = true
 contentDir = "content"
 MetaDataFormat = "yaml"
+# Absolute base URL of the Netlify deploy that receives "Submit a Game" form
+# posts. The canonical site is served by GitHub Pages, which cannot accept
+# POSTs, so the form targets the Netlify mirror explicitly.
+formEndpoint = "https://slimemoldgrappling.netlify.app"
+# Sidebar shortcut links (rendered by the Relearn theme below the menu).
+# These used to live inside the vendored theme's own hugo.toml; site config
+# takes precedence in Hugo's config merge, so they belong here.
+[[menu.shortcuts]]
+name = "<i class='fas fa-dollar-sign'></i> Support Us"
+identifier = "paypal"
+url = "https://ko-fi.com/slimemoldgrapplingclub"
+weight = 2
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-envelope'></i> Contact Us"
+identifier = "contact"
+url = "mailto:social@slimemoldgrappling.com"
+weight = 3
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-instagram'></i> Instagram"
+identifier = "instagram"
+url = "https://www.instagram.com/slimemoldgrappling/"
+weight = 4
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+url = "tags/"
+weight = 5
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/trydydd/slimemoldgrappling"
+weight = 6

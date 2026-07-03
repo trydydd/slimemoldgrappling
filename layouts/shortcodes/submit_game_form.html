@@ -1,0 +1,64 @@
+<style>
+  .sg-form label { display: block; font-weight: bold; margin: 0.9rem 0 0.2rem; }
+  .sg-form input[type=text], .sg-form input[type=url], .sg-form select, .sg-form textarea {
+    width: 100%; max-width: 40rem; padding: 0.4rem; box-sizing: border-box;
+    border: 1px solid #999; border-radius: 4px; font: inherit;
+  }
+  .sg-form textarea { min-height: 4.5rem; }
+  .sg-form fieldset { border: 1px solid #999; border-radius: 4px; margin: 1.2rem 0; padding: 0 1rem 1rem; }
+  .sg-form legend { font-weight: bold; padding: 0 0.4rem; }
+  .sg-form .sg-hint { font-weight: normal; font-size: 0.85em; opacity: 0.75; }
+  .sg-form button { margin-top: 1.2rem; padding: 0.6rem 1.6rem; font: inherit; font-weight: bold; cursor: pointer; border-radius: 4px; }
+</style>
+<form class="sg-form" name="submit-a-game" method="POST"
+      action="{{ .Site.Params.formEndpoint }}/contribute/thanks/"
+      data-netlify="true" netlify-honeypot="bot-field">
+  {{- /* Netlify only injects this hidden field into HTML it serves itself;
+       the copy of this page served from GitHub Pages needs it hardcoded. */}}
+  <input type="hidden" name="form-name" value="submit-a-game">
+  <p style="display:none"><label>Don't fill this out if you're human: <input name="bot-field"></label></p>
+
+  <label for="sg-title">Game title <span class="sg-hint">(required)</span></label>
+  <input type="text" id="sg-title" name="title" required maxlength="120">
+
+  <label for="sg-category">Category <span class="sg-hint">(required — pick the closest position; we can re-file it during review)</span></label>
+  <select id="sg-category" name="category" required>
+    <option value="" disabled selected>Choose a category…</option>
+    {{- partial "games-category-options.html" (dict "section" (.Site.GetPage "/games") "prefix" "") }}
+  </select>
+
+  <fieldset>
+    <legend>Top Player</legend>
+    <label for="sg-tp">Position <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-tp" name="top_position" required maxlength="2000"></textarea>
+    <label for="sg-to">Objective <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-to" name="top_objective" required maxlength="2000"></textarea>
+    <label for="sg-tc">Constraints <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-tc" name="top_constraints" required maxlength="2000"></textarea>
+    <label for="sg-tw">Win condition <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-tw" name="top_win" required maxlength="2000"></textarea>
+  </fieldset>
+
+  <fieldset>
+    <legend>Bottom Player</legend>
+    <label for="sg-bp">Position <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-bp" name="bottom_position" required maxlength="2000"></textarea>
+    <label for="sg-bo">Objective <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-bo" name="bottom_objective" required maxlength="2000"></textarea>
+    <label for="sg-bc">Constraints <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-bc" name="bottom_constraints" required maxlength="2000"></textarea>
+    <label for="sg-bw">Win condition <span class="sg-hint">(required)</span></label>
+    <textarea id="sg-bw" name="bottom_win" required maxlength="2000"></textarea>
+  </fieldset>
+
+  <label for="sg-notes">Coaching notes <span class="sg-hint">(optional)</span></label>
+  <textarea id="sg-notes" name="notes" maxlength="2000"></textarea>
+
+  <label for="sg-video">Video link <span class="sg-hint">(optional)</span></label>
+  <input type="url" id="sg-video" name="video_url" maxlength="300" placeholder="https://…">
+
+  <label for="sg-submitter">Your name, for credit <span class="sg-hint">(optional — shown in the game's attribution)</span></label>
+  <input type="text" id="sg-submitter" name="submitter" maxlength="120">
+
+  <button type="submit">Submit game for review</button>
+</form>

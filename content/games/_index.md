@@ -2,6 +2,7 @@
 alwaysopen: false
 title: Games
 weight: 2
+ordersectionsby: title
 ---
 
 There are games from various sources listed here. Each game will have an attribution section if it was created by anyone outside of our club. 

@@ -2,8 +2,7 @@
 archetype: game
 title: Maintain Broken Kesa
 tags:
-- tag 1
-- tag 2
+- side control
 weight: 0
 top_player:
   label: Top Player

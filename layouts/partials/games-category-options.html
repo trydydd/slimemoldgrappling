@@ -1,0 +1,12 @@
+{{- /* Recursively emits an <option> per section under /games for the
+     submit-a-game form, so the category list always matches the real
+     section tree. Option values are content paths like "games/mount";
+     labels show the nesting, e.g. "Guard / Supine Guard / Half Guard". */ -}}
+{{- $section := .section }}
+{{- $prefix := .prefix }}
+{{- range $section.Sections.ByTitle }}
+{{- $label := .Title }}
+{{- if $prefix }}{{ $label = printf "%s / %s" $prefix .Title }}{{ end }}
+<option value="{{ strings.Trim .RelPermalink "/" }}">{{ $label }}</option>
+{{- partial "games-category-options.html" (dict "section" . "prefix" $label) }}
+{{- end }}

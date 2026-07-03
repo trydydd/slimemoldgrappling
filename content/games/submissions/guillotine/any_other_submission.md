@@ -2,8 +2,7 @@
 archetype: game
 title: Any Other Submission
 tags:
-- tag 1
-- tag 2
+- guillotine
 weight: 0
 top_player:
   label: Top Player

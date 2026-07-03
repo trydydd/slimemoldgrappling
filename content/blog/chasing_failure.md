@@ -6,7 +6,7 @@ hidden: false
 ---
 How embracing setbacks can fuel your progress. 
 
-This is a continuation of our goals series, and the first bit can be found [here](http://www.slimemoldgrappling.com/blog/outcome_v_process_goals/).
+This is a continuation of our goals series, and the first bit can be found [here]({{% relref "/blog/outcome_v_process_goals.md" %}}).
 
 ### How I Viewed Failure
 For years I viewed failure as a blazing indicator that I was unable to achieve the goals that I set out with. I hated it. Failure meant that I was not doing what I "should" be, and felt like a giant barrier to progress. This view held me back for years.

@@ -2,8 +2,8 @@
 archetype: game
 title: Newgame3
 tags:
-- tag 1
-- tag 2
+- straight ankle lock
+- untested
 weight: 0
 draft: true
 top_player:

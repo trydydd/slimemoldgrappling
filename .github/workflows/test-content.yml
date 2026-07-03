@@ -1,0 +1,46 @@
+name: Content Tests
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    env:
+      HUGO_VERSION: 0.121.1
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      
+      - name: Build with Hugo
+        run: hugo --gc --minify
+      
+      - name: Test key pages exist
+        run: |
+          test -f public/index.html || (echo "ERROR: Homepage not generated" && exit 1)
+          test -f public/games/index.html || (echo "ERROR: Games index not generated" && exit 1)
+          test -f public/blog/index.html || (echo "ERROR: Blog index not generated" && exit 1)
+          echo "✓ All key pages generated successfully"
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install Python dependencies
+        run: |
+          pip install pyyaml
+      
+      - name: Validate game content
+        run: python scripts/validate_games.py
